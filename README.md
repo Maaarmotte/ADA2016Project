@@ -25,5 +25,6 @@ As well as the interpretation of these resulsts.
 ## Timeplan
 #### Checkpoint (Mid December)
 - The cross-posting graphe as well as the current work on other objectives
+
 #### Mini-Symposium (End of January)
 - The final results, including everything in the _Deliverables_ section. During the presentation, we will explain how we find these results and make sense of them.
