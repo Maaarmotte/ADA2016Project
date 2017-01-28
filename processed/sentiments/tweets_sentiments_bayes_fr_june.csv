@@ -1,0 +1,191 @@
+source_location,sentiment,0
+#Paris #Philadelphia #Zürich,POSITIVE,2
+#Paris #Zürich #Philly #Usw,NEGATIVE,1
+#Paris #Zürich #Philly #Usw,POSITIVE,2
+Aarau,NEGATIVE,1
+Aarau,POSITIVE,11
+"Aargau, Schweiz",NEGATIVE,1
+Aigle,NEGATIVE,37
+Aigle,POSITIVE,31
+Amden,POSITIVE,1
+Baden,NEGATIVE,3
+Baden,NEUTRAL,1
+Basel,NEGATIVE,39
+Basel,POSITIVE,214
+"Beirut, Lebanon",NEGATIVE,1
+Bellinzona,NEGATIVE,2
+Bellinzona,NEUTRAL,1
+Bellinzona,POSITIVE,10
+Bern,NEGATIVE,238
+Bern,NEUTRAL,15
+Bern,POSITIVE,536
+Berna,NEGATIVE,6
+Berna,POSITIVE,12
+"Berne, Switzerland",POSITIVE,1
+Biel,NEGATIVE,1
+Biel,NEUTRAL,1
+Biel,POSITIVE,20
+Biel/Bienne,NEGATIVE,4
+Biel/Bienne,POSITIVE,43
+Bienne,NEGATIVE,125
+Bienne,POSITIVE,143
+Birmingham/Gurgaon,POSITIVE,1
+Brugg,NEGATIVE,1
+Brugg,POSITIVE,13
+Bulle,NEGATIVE,49
+Bulle,NEUTRAL,2
+Bulle,POSITIVE,97
+Bâle,NEGATIVE,5
+Bâle,POSITIVE,16
+Bülach,POSITIVE,1
+CH,NEGATIVE,295
+CH,NEUTRAL,8
+CH,POSITIVE,288
+"Caen, Basse-Normandie",NEGATIVE,1
+"Caen, Basse-Normandie",POSITIVE,1
+Charmilles,POSITIVE,1
+Cité de Calvin & Novum Castrum,POSITIVE,2
+Conthey,POSITIVE,4
+Delémont,NEGATIVE,49
+Delémont,POSITIVE,80
+Einsiedeln,POSITIVE,2
+Europe,NEGATIVE,1
+Europe,POSITIVE,2
+Evian,POSITIVE,1
+Evolène,NEGATIVE,1
+Fort Myers Beach,POSITIVE,1
+France,POSITIVE,2
+Fribourg,NEGATIVE,280
+Fribourg,NEUTRAL,4
+Fribourg,POSITIVE,872
+Fribourg Switzerland,NEGATIVE,1
+Fribourg Switzerland,POSITIVE,1
+Geneva,NEGATIVE,4208
+Geneva,NEUTRAL,47
+Geneva,POSITIVE,3222
+"Geneva, Switzerland",POSITIVE,2
+Geneve,NEGATIVE,540
+Geneve,NEUTRAL,4
+Geneve,POSITIVE,342
+Genf,NEGATIVE,526
+Genf,NEUTRAL,6
+Genf,POSITIVE,164
+Genève,NEGATIVE,12330
+Genève,NEUTRAL,127
+Genève,POSITIVE,11672
+Genève - Lausanne - Zürich,NEGATIVE,1
+Genève - Lausanne - Zürich,POSITIVE,3
+Genève / Paris,NEGATIVE,1
+Ginevra,POSITIVE,17
+Helvetia,NEGATIVE,14
+Helvetia,POSITIVE,22
+Horgen,POSITIVE,1
+Interlaken,NEGATIVE,3
+Interlaken,POSITIVE,7
+Joinville le Pont,POSITIVE,1
+Küssnacht,NEUTRAL,1
+La Sarraz,NEGATIVE,1
+La Sarraz,POSITIVE,7
+Laufenburg,POSITIVE,2
+Lausanne,NEGATIVE,3318
+Lausanne,NEUTRAL,44
+Lausanne,POSITIVE,5287
+"Lausanne, Suisse",POSITIVE,2
+"Lausanne, Suisse.",NEGATIVE,32
+"Lausanne, Suisse.",NEUTRAL,1
+"Lausanne, Suisse.",POSITIVE,6
+"Lausanne, Vaud",NEGATIVE,1
+Le Locle,NEGATIVE,7
+Le Locle,POSITIVE,5
+Le Mont-sur-Lausanne,POSITIVE,1
+Lenzburg,POSITIVE,3
+Leuk,POSITIVE,3
+Lucerne,POSITIVE,16
+Lugano,NEGATIVE,73
+Lugano,NEUTRAL,25
+Lugano,POSITIVE,74
+Luzern,NEGATIVE,4
+Luzern,NEUTRAL,4
+Luzern,POSITIVE,10
+Marly,NEGATIVE,348
+Marly,NEUTRAL,3
+Marly,POSITIVE,292
+Meilen,POSITIVE,1
+Monthey,NEGATIVE,213
+Monthey,NEUTRAL,1
+Monthey,POSITIVE,135
+"Nantes, Pays de la Loire",POSITIVE,1
+Neuchatel,POSITIVE,6
+Neuchâtel,NEGATIVE,375
+Neuchâtel,NEUTRAL,4
+Neuchâtel,POSITIVE,476
+None,NEGATIVE,53
+None,POSITIVE,64
+Olten,NEGATIVE,1
+Olten,POSITIVE,3
+Payerne,NEGATIVE,2
+Payerne,POSITIVE,18
+Porrentruy,NEGATIVE,2
+Porrentruy,POSITIVE,6
+Renens,POSITIVE,4
+Rheinfelden,POSITIVE,1
+"Saint-Brieuc, France",POSITIVE,1
+Saint-Maurice,NEGATIVE,13
+Saint-Maurice,POSITIVE,18
+Sankt Gallen,NEGATIVE,2
+Schaffhausen,POSITIVE,3
+Schweiz,NEGATIVE,470
+Schweiz,NEUTRAL,24
+Schweiz,POSITIVE,434
+Solothurn,NEGATIVE,2
+Solothurn,POSITIVE,3
+St. Gallen,NEGATIVE,1
+St. Gallen,POSITIVE,4
+"Strasbourg, Alsace",POSITIVE,1
+Suica,POSITIVE,1
+Suisse,NEGATIVE,23166
+Suisse,NEUTRAL,281
+Suisse,POSITIVE,24321
+"Suisse, Jura",NEGATIVE,1
+"Suisse, VD",POSITIVE,1
+Suisse/Switzerland,NEGATIVE,1
+Suiza,NEGATIVE,20
+Suiza,NEUTRAL,1
+Suiza,POSITIVE,51
+Sursee,POSITIVE,2
+Suíça,NEGATIVE,2
+Suíça,POSITIVE,4
+Suïssa,NEGATIVE,3
+Suïssa,POSITIVE,1
+Svizzera,NEGATIVE,3
+Svizzera,POSITIVE,11
+Swiss,NEGATIVE,848
+Swiss,NEUTRAL,2
+Swiss,POSITIVE,1074
+Switzerland,NEGATIVE,16468
+Switzerland,NEUTRAL,278
+Switzerland,POSITIVE,15474
+Thun,NEGATIVE,1
+Thun,POSITIVE,1
+"Valais, Suisse",NEGATIVE,1
+Visp,POSITIVE,2
+Winterthur,NEGATIVE,2
+Winterthur,POSITIVE,11
+"Yaroslavl, Russia",NEGATIVE,1
+Zermatt,NEGATIVE,1
+Zermatt,POSITIVE,3
+Zuerich,POSITIVE,2
+Zurich,NEGATIVE,302
+Zurich,NEUTRAL,8
+Zurich,POSITIVE,737
+Zurigo,NEGATIVE,1
+Zurigo,POSITIVE,5
+Zürich,NEGATIVE,317
+Zürich,NEUTRAL,23
+Zürich,POSITIVE,509
+france,NEGATIVE,1
+partout où on m'attend pas,POSITIVE,1
+İsviçre,POSITIVE,1
+Швейцария,POSITIVE,1
+スイス,NEGATIVE,10
+スイス,POSITIVE,7

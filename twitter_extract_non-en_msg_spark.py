@@ -2,12 +2,31 @@ import os
 from pyspark import SparkContext
 from pyspark.sql import SQLContext
 from pyspark.sql.functions import lit
+from pyspark.sql.functions import col
 from py4j.protocol import Py4JJavaError
+
+language = 'en'  # Don't extract this language
+extract_path = ['_source.source_location', '_source.main', '_source.sentiment', '_source.lang']
+extract_cols = ['source_location', 'lang', 'main', 'sentiment']
+#base_path = '/home/marmotte/data/ADA2016Project/data/{}/harvest3r_twitter_data_{}-{}_0.json'
+#output_path = '/home/marmotte/data/ADA2016Project/processed'
+#output_file = 'tweets_non-en_msg_{}.csv'
+#months = [('april', '04')]
 
 base_path = 'hdfs:///datasets/goodcitylife/{}/harvest3r_twitter_data_{}-{}_0.json'
 output_path = '/home/lhabegge/processed'
-output_file = 'tweets_sentiments_given_{}_{}.csv'
-            
+output_file = 'tweets_non-en_msg_{}.csv'
+months = [('january', '01'),
+          ('february', '02'),
+          ('march', '03'),
+          ('april', '04'),
+          ('may', '05'),
+          ('june', '06'),
+          ('july', '07'),
+          ('august', '08'),
+          ('september', '09'),
+          ('october', '10')]
+
 def path_exists(path):
     try:
         rdd = sc.textFile(path)
@@ -16,7 +35,7 @@ def path_exists(path):
     except Py4JJavaError as e:
         return False
 
-def parse_month(month_txt, month_nb, language, extract_path, extract_cols):
+def parse_month(month_txt, month_nb):
     df_month = None
     
     for i in range(31):
@@ -28,7 +47,12 @@ def parse_month(month_txt, month_nb, language, extract_path, extract_cols):
             print('Parsing {}...'.format(file_path))
             
             data = sqlContext.read.json(file_path).select(extract_path)
-            data = data.filter(data.lang == language).select(extract_cols)
+            data = data.filter(data.lang != language).select(extract_cols)
+            
+            # To filter by regexp
+            #data = sqlContext.read.json(file_path).select(extract_path)
+            #data = data.filter(data.lang != language)
+            #data = data.filter(col("main").rlike(regexp)).select(extract_cols)
                         
             if not df_month:
                 df_month = data
@@ -37,8 +61,8 @@ def parse_month(month_txt, month_nb, language, extract_path, extract_cols):
     
     # Regroup the data locally and save to txt file
     if df_month:
-        final = df_month.withColumn('count', lit(1)).groupBy(extract_cols).sum().map(toCSV).collect()
-        output = '{}/{}'.format(output_path, output_file.format(language, month_txt))
+        final = df_month.map(toCSV).collect()
+        output = '{}/{}'.format(output_path, output_file.format(month_txt))
         save(final, output)
         
 def toCSV(row):
@@ -57,22 +81,7 @@ except:
     
 sqlContext = SQLContext(sc)
 
-# Extract aggregated sentiments from january to may
-languages = ['en', 'fr', 'de']
-path = ['_source.source_location', '_source.sentiment', '_source.lang']
-cols = ['source_location', 'sentiment']
-months = [('january', '01'),
-          ('february', '02'),
-          ('march', '03'),
-          ('april', '04'),
-          ('may', '05'),
-          ('june', '06'),
-          ('july', '07'),
-          ('august', '08'),
-          ('september', '09'),
-          ('october', '10')]
-
-for language in languages:
-    for tup in months:
-        parse_month(tup[0], tup[1], language, path, cols)
-W
+# Extract everything !
+for tup in months:
+    parse_month(tup[0], tup[1])
+    

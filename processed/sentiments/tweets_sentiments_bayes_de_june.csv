@@ -1,0 +1,317 @@
+source_location,sentiment,0
+"47.168182,8.296895",NEGATIVE,1
+"47.168182,8.296895",POSITIVE,3
+5200 Brugg AG,POSITIVE,1
+AARON RUCKER!!!! ❤️,POSITIVE,1
+Aarau,NEGATIVE,361
+Aarau,NEUTRAL,9
+Aarau,POSITIVE,479
+"Aargau, Schweiz",NEGATIVE,1
+"Aargau, Schweiz",POSITIVE,3
+Affoltern am Albis,NEGATIVE,1
+"Alpnach, Switzerland",NEGATIVE,1
+Altdorf,NEGATIVE,73
+Altdorf,NEUTRAL,1
+Altdorf,POSITIVE,68
+Amden,NEGATIVE,2
+Amden,NEUTRAL,3
+Amden,POSITIVE,2
+Andelfingen,NEGATIVE,1
+Andelfingen,POSITIVE,4
+Appenzell,NEGATIVE,4
+Appenzell,POSITIVE,16
+Arbon,NEGATIVE,1
+Arbon,NEUTRAL,1
+Arbon,POSITIVE,3
+Arlesheim,NEGATIVE,5
+Arlesheim,POSITIVE,9
+Bad Zurzach,NEGATIVE,8
+Bad Zurzach,NEUTRAL,1
+Bad Zurzach,POSITIVE,20
+Baden,NEGATIVE,305
+Baden,NEUTRAL,9
+Baden,POSITIVE,575
+Basel,NEGATIVE,3152
+Basel,NEUTRAL,94
+Basel,POSITIVE,7535
+"Basel, Switzerland",NEGATIVE,1
+Basilea,NEGATIVE,15
+Basilea,NEUTRAL,1
+Basilea,POSITIVE,7
+Bellinzona,NEGATIVE,33
+Bellinzona,POSITIVE,54
+Bern,NEGATIVE,4380
+Bern,NEUTRAL,122
+Bern,POSITIVE,6782
+Bern / Salzburg,POSITIVE,1
+"Bern, Schweiz",NEGATIVE,1
+Berna,NEGATIVE,2
+Berna,POSITIVE,1
+"Berne, Switzerland",NEGATIVE,2
+"Berne, Switzerland",NEUTRAL,1
+"Berne, Switzerland",POSITIVE,2
+Biel,NEGATIVE,59
+Biel,NEUTRAL,4
+Biel,POSITIVE,78
+Biel/Bienne,NEGATIVE,52
+Biel/Bienne,POSITIVE,86
+Bremgarten,NEGATIVE,2
+Bremgarten,NEUTRAL,2
+Bremgarten,POSITIVE,10
+Brig,NEGATIVE,373
+Brig,NEUTRAL,6
+Brig,POSITIVE,341
+Brugg,NEGATIVE,26
+Brugg,NEUTRAL,1
+Brugg,POSITIVE,36
+Buchs,NEGATIVE,1
+Buchs,POSITIVE,6
+Bulle,POSITIVE,1
+Bâle,POSITIVE,1
+Bülach,NEGATIVE,76
+Bülach,POSITIVE,131
+CH,NEGATIVE,1069
+CH,NEUTRAL,35
+CH,POSITIVE,1405
+CH-St.Gallen,POSITIVE,2
+Chur,NEGATIVE,425
+Chur,NEUTRAL,14
+Chur,POSITIVE,648
+Cologne,NEGATIVE,1
+Colombia,NEGATIVE,1
+Confoederatio Helvetica,NEGATIVE,13
+Confoederatio Helvetica,NEUTRAL,1
+Confoederatio Helvetica,POSITIVE,11
+DC and Baltimore,POSITIVE,1
+Delémont,POSITIVE,1
+Deutschland,NEGATIVE,4
+Deutschland,NEUTRAL,1
+Deutschland,POSITIVE,13
+Deutschland | Österreich | CH,POSITIVE,1
+Dielsdorf,NEGATIVE,3
+Dielsdorf,NEUTRAL,1
+Dielsdorf,POSITIVE,2
+Digital Services,POSITIVE,1
+Effretikon,POSITIVE,2
+Einsiedeln,NEGATIVE,9
+Einsiedeln,POSITIVE,35
+Flüelen,NEGATIVE,41
+Flüelen,POSITIVE,7
+Frauenfeld,NEGATIVE,41
+Frauenfeld,NEUTRAL,4
+Frauenfeld,POSITIVE,124
+Fribourg,NEGATIVE,404
+Fribourg,NEUTRAL,37
+Fribourg,POSITIVE,528
+Fribourg Switzerland,NEGATIVE,2
+Fribourg Switzerland,POSITIVE,1
+Fribourg | Freiburg,POSITIVE,1
+"Fribourg, Switzerland",POSITIVE,1
+Frutigen,NEGATIVE,8
+Frutigen,POSITIVE,14
+Geneva,NEGATIVE,57
+Geneva,NEUTRAL,17
+Geneva,POSITIVE,94
+Geneve,NEGATIVE,4
+Geneve,NEUTRAL,1
+Geneve,POSITIVE,5
+Genf,NEGATIVE,17
+Genf,POSITIVE,13
+Genève,NEGATIVE,31
+Genève,NEUTRAL,9
+Genève,POSITIVE,37
+Gersau,NEGATIVE,1
+Glarus,NEGATIVE,13
+Glarus,POSITIVE,28
+Grossraum Zürich,NEGATIVE,9
+Grossraum Zürich,NEUTRAL,1
+Grossraum Zürich,POSITIVE,6
+Helvetia,NEGATIVE,2
+Helvetia,POSITIVE,1
+Herisau,NEGATIVE,50
+Herisau,POSITIVE,67
+Hinwil,NEGATIVE,1
+Hinwil,POSITIVE,7
+Hochdorf,NEGATIVE,5
+Hochdorf,POSITIVE,10
+Horgen,NEGATIVE,1
+Horgen,POSITIVE,12
+India/Switzerland,POSITIVE,1
+Interlaken,NEGATIVE,170
+Interlaken,NEUTRAL,63
+Interlaken,POSITIVE,223
+Kreuzlingen,NEGATIVE,13
+Kreuzlingen,NEUTRAL,1
+Kreuzlingen,POSITIVE,16
+Lachen,NEGATIVE,1
+Lachen,POSITIVE,1
+Langnau,NEGATIVE,1
+Laufen,NEGATIVE,5
+Laufen,POSITIVE,6
+Laufenburg,NEGATIVE,15
+Laufenburg,NEUTRAL,1
+Laufenburg,POSITIVE,15
+Lausanne,NEGATIVE,119
+Lausanne,NEUTRAL,16
+Lausanne,POSITIVE,216
+"Lausanne, Suisse",NEGATIVE,2
+"Lausanne, Suisse",POSITIVE,1
+Lenzburg,NEGATIVE,262
+Lenzburg,NEUTRAL,6
+Lenzburg,POSITIVE,473
+Leuk,NEGATIVE,5
+Leuk,POSITIVE,5
+Liestal,NEGATIVE,115
+Liestal,NEUTRAL,1
+Liestal,POSITIVE,176
+Lucerne,NEGATIVE,86
+Lucerne,NEUTRAL,3
+Lucerne,POSITIVE,90
+Lugano,NEGATIVE,20
+Lugano,NEUTRAL,11
+Lugano,POSITIVE,28
+Luzern,NEGATIVE,1309
+Luzern,NEUTRAL,36
+Luzern,POSITIVE,1572
+Marly,NEGATIVE,1
+Meilen,NEGATIVE,1
+Meilen,POSITIVE,14
+Monthey,NEGATIVE,1
+Monthey,NEUTRAL,1
+Munich,POSITIVE,1
+Muri,POSITIVE,2
+Neuchatel,POSITIVE,1
+Neuchâtel,NEGATIVE,44
+Neuchâtel,POSITIVE,78
+None,NEGATIVE,59
+None,NEUTRAL,3
+None,POSITIVE,69
+Oberer Zürichsee,NEGATIVE,2
+Oberer Zürichsee,POSITIVE,4
+Oberwallis,POSITIVE,1
+Olten,NEGATIVE,183
+Olten,NEUTRAL,7
+Olten,POSITIVE,295
+Poschiavo,NEGATIVE,1
+Rheinfelden,NEGATIVE,46
+Rheinfelden,NEUTRAL,2
+Rheinfelden,POSITIVE,78
+Romanshorn,NEGATIVE,18
+Romanshorn,POSITIVE,15
+Saanen,NEGATIVE,27
+Saanen,NEUTRAL,7
+Saanen,POSITIVE,58
+Sankt Gallen,NEGATIVE,219
+Sankt Gallen,NEUTRAL,10
+Sankt Gallen,POSITIVE,278
+Sarnen,NEGATIVE,40
+Sarnen,POSITIVE,28
+Schaffhausen,NEGATIVE,224
+Schaffhausen,POSITIVE,423
+Schenkon,NEGATIVE,122
+Schenkon,NEUTRAL,4
+Schenkon,POSITIVE,126
+Schleitheim,NEGATIVE,1
+Schleitheim,POSITIVE,4
+Schmerikon,NEGATIVE,2
+Schmerikon,NEUTRAL,1
+Schweiz,NEGATIVE,15211
+Schweiz,NEUTRAL,456
+Schweiz,POSITIVE,22775
+Schwyz,NEGATIVE,19
+Schwyz,POSITIVE,28
+Schüpfheim,NEGATIVE,1
+Schüpfheim,POSITIVE,3
+Scuol,NEGATIVE,15
+Scuol,NEUTRAL,1
+Scuol,POSITIVE,16
+Sissach,NEGATIVE,9
+Sissach,NEUTRAL,1
+Sissach,POSITIVE,7
+Solothurn,NEGATIVE,249
+Solothurn,NEUTRAL,20
+Solothurn,POSITIVE,308
+Solothurn/Zurich Switzerland,POSITIVE,1
+St. Gallen,NEGATIVE,805
+St. Gallen,NEUTRAL,22
+St. Gallen,POSITIVE,1390
+Stans,NEGATIVE,54
+Stans,POSITIVE,46
+Steckborn,NEGATIVE,2
+Steckborn,POSITIVE,5
+Suhr,POSITIVE,1
+Suica,POSITIVE,1
+Suisse,NEGATIVE,121
+Suisse,NEUTRAL,43
+Suisse,POSITIVE,181
+Suiza,NEGATIVE,33
+Suiza,POSITIVE,8
+Sursee,NEGATIVE,27
+Sursee,NEUTRAL,1
+Sursee,POSITIVE,46
+Suíça,NEGATIVE,47
+Suíça,NEUTRAL,2
+Suíça,POSITIVE,38
+Suïssa,POSITIVE,1
+Svajcarska,NEGATIVE,2
+Svizra,NEGATIVE,1
+Svizra,POSITIVE,3
+Svizzera,NEGATIVE,2
+Svizzera,POSITIVE,11
+Swiss,NEGATIVE,979
+Swiss,NEUTRAL,41
+Swiss,POSITIVE,737
+Switzerland,NEGATIVE,18036
+Switzerland,NEUTRAL,806
+Switzerland,POSITIVE,22991
+"Switzerland, Zurich",NEGATIVE,1
+Thun,NEGATIVE,269
+Thun,NEUTRAL,14
+Thun,POSITIVE,346
+Uster,NEGATIVE,70
+Uster,NEUTRAL,1
+Uster,POSITIVE,188
+Visp,NEGATIVE,16
+Visp,POSITIVE,43
+Waldenburg,NEGATIVE,25
+Waldenburg,NEUTRAL,1
+Waldenburg,POSITIVE,30
+Weinfelden,NEGATIVE,13
+Weinfelden,NEUTRAL,1
+Weinfelden,POSITIVE,13
+Wengen,POSITIVE,3
+Willisau,NEGATIVE,6
+Willisau,POSITIVE,19
+Winterthur,NEGATIVE,839
+Winterthur,NEUTRAL,26
+Winterthur,POSITIVE,1123
+Zermatt,NEGATIVE,19
+Zermatt,NEUTRAL,2
+Zermatt,POSITIVE,15
+Zofingen,NEGATIVE,40
+Zofingen,POSITIVE,69
+Zuerich,NEGATIVE,121
+Zuerich,NEUTRAL,4
+Zuerich,POSITIVE,273
+Zurich,NEGATIVE,2654
+Zurich,NEUTRAL,78
+Zurich,POSITIVE,4385
+Zurich + Ocean Falls B.C.,NEGATIVE,1
+Zurich Switzerland,POSITIVE,2
+"Zurich, Switzerland",NEGATIVE,3
+"Zurich, Switzerland",NEUTRAL,1
+"Zurich, Switzerland",POSITIVE,16
+Zurigo,NEGATIVE,50
+Zurigo,POSITIVE,85
+Zwitserland,NEGATIVE,9
+Zwitserland,POSITIVE,3
+Zürich,NEGATIVE,13182
+Zürich,NEUTRAL,384
+Zürich,POSITIVE,20959
+meistens in Graubünden,POSITIVE,1
+portugal ↔ switzerland,POSITIVE,1
+İsviçre,NEGATIVE,2
+İsviçre,POSITIVE,5
+Швейцария,NEGATIVE,1
+スイス,NEGATIVE,11
+スイス,POSITIVE,20
