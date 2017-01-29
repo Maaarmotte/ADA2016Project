@@ -52,7 +52,7 @@ def parse_month(source, month_txt, month_num, ignore_language=None):
                             
                 if data:
                     output = os.path.join(output_path, output_file.format(source=source, month=month_txt))
-                    df.write.mode('append').json(output)
+                    data.write.mode('append').json(output)
 
 try:
     sc = SparkContext()
