@@ -5,7 +5,6 @@ from pyspark.sql.functions import lit
 from pyspark.sql.functions import col
 from py4j.protocol import Py4JJavaError
 
-ignore_language = 'en'  # Don't extract this language
 sources_attributes = {'twitter': ['source_location', 'lang', 'main', 'sentiment'],
                       'instagram': ['lang', 'main', 'sentiment', 'tags'], 
                       'news': ['lang', 'title', 'extract', 'sentiment', 'tags']}
@@ -33,20 +32,24 @@ def path_exists(path):
     except Py4JJavaError as e:
         return False
 
-def parse_month(source, month_txt, month_num):
+def parse_month(source, month_txt, month_num, ignore_language=None):
     df_month = None
     
     for i in range(31):
         for part in range(2):
             day = str(i+1).zfill(2)       # Pad with zero
-            file_path = base_path.format({'source': source, 'month': month_txt, 'day_num': day, 'month_num': month_num, 'part': part})
+            file_path = base_path.format(source=source, month=month_txt, day_num=day, month_num=month_num, part=part)
 
             if path_exists(file_path):
                 print('Parsing {}...'.format(file_path))
                 
                 attributes = sources_attributes[source]
                 data = sqlContext.read.json(file_path).select(['_source.' + attr for attr in attributes])
-                data = data.filter(data.lang != ignore_language).select(attributes)
+                
+                if ignore_language:
+                    data = data.filter(data.lang != ignore_language).select(attributes)
+                else:
+                    data = data.select(attributes)
                             
                 if not df_month:
                     df_month = data
@@ -56,7 +59,7 @@ def parse_month(source, month_txt, month_num):
     # Regroup the data locally and save to txt file
     if df_month:
         final = df_month.map(toCSV).collect()
-        output = os.path.join(output_path, output_file.format({'source': source, 'month': month_txt}))
+        output = os.path.join(output_path, output_file.format(source=source, month=month_txt))
         save(final, output)
         
 def toCSV(row):
@@ -78,5 +81,6 @@ sqlContext = SQLContext(sc)
 # Extract everything !
 for month, month_num in months:
     for source in sources_attributes.keys():
+        #parse_month(source, month, month_num, ignore_language='en')
         parse_month(source, month, month_num)
     
