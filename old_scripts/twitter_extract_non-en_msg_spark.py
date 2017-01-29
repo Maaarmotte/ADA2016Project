@@ -10,8 +10,8 @@ sources_attributes = {'twitter': ['source_location', 'lang', 'main', 'sentiment'
                       'news': ['lang', 'title', 'extract', 'sentiment', 'tags']}
 
 base_path = 'hdfs:///datasets/goodcitylife/{month}/harvest3r_{source}_data_{day_num}-{month_num}_{part}.json'
-output_path = 'hdfs:///user/lhabegge/'
-output_file = '{source}_non-en_{month}.json'
+output_path = '/home/lhabegge/processed'
+output_file = '{source}_non-en_msg_{month}.csv'
 
 months = [('january', '01'),
           ('february', '02'),
@@ -58,8 +58,18 @@ def parse_month(source, month_txt, month_num, ignore_language=None):
     
     # Regroup the data locally and save to txt file
     if df_month:
+        final = df_month.map(toCSV).collect()
         output = os.path.join(output_path, output_file.format(source=source, month=month_txt))
-        df_month.write.json(output)
+        save(final, output)
+        
+def toCSV(row):
+    return ','.join('"' + elem.replace("\\", "\\\\").replace('"', '\\"') + '"' if isinstance(elem, str) else '"' + str(elem).replace("\\", "\\\\").replace('"', '\\"') + '"' for elem in row)
+
+def save(lst, filename):
+    f = open(filename, 'w')
+    for line in lst:
+        f.write("{}\n".format(line))
+    f.close()
 
 try:
     sc = SparkContext()
