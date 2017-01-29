@@ -12,7 +12,7 @@ sources_attributes = {#'twitter': ['source_location', 'lang', 'main', 'sentiment
 
 base_path = 'hdfs:///datasets/goodcitylife/{month}/harvest3r_{source}_data_{day_num}-{month_num}_{part}.json'
 output_path = 'hdfs:///user/lhabegge/'
-output_file = '{source}_non-en_{month}.json'
+output_file = '{source}_{month}.json'
 
 months = [('january', '01'),
           ('february', '02'),
