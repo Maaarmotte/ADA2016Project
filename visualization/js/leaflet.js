@@ -1,19 +1,8 @@
-/*var background = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png', {
-	attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
-	subdomains: 'abcd',
-	maxZoom: 19
-});*/
+// Create the map
 
 var background = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
     attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ',
     maxZoom: 16
-});
-
-var names = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}.png', {
-	attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
-	subdomains: 'abcd',
-	maxZoom: 19,
-	opacity: 0.9
 });
 
 var map = L.map('map', {
@@ -22,8 +11,9 @@ var map = L.map('map', {
     minZoom: 8,
     maxZoom: 10,
     /* maxBounds: L.latLngBounds(L.latLng(45.72152, 5.60852), L.latLng(47.91266, 10.98083)), */
-    layers: [background]//, names],
 });
+
+map.addLayer(background);
 
 // Cantons boundaries
 
@@ -37,10 +27,12 @@ function style(feature) {
         weight: 2,
         opacity: 0.2,
         color: '#A9A9A9',
-        dashArray: '3',
+        dashArray: '4',
         fillOpacity: 0
     };
 }
+
+// Helper functions
 
 function markerToCity(marker) {
     var cityName = marker.options.title;
@@ -60,11 +52,11 @@ function resetHighlight(e) {
     info.update();
 }
 
-// Add markers
+// Create markers clusters
 
-function getClusterFunction(positiveCluster) {
+function getClusterFunction(isPositiveCluster) {
     var className = 'marker-cluster ';
-    if (positiveCluster) {
+    if (isPositiveCluster) {
         className += 'marker-cluster-small';
     } else {
         className += 'marker-cluster-large';
@@ -106,7 +98,9 @@ var negativeMarker = L.AwesomeMarkers.icon({
     markerColor: 'darkred'
 });
 
-function putMarkers(month) { 
+// Adding markers
+
+function putMarkers(month_num) { 
     positiveMarkers.clearLayers();
     negativeMarkers.clearLayers();
 
@@ -138,10 +132,8 @@ function putMarkers(month) {
 map.addLayer(positiveMarkers);
 map.addLayer(negativeMarkers);
 
-putMarkers(null);
-
 // Time slider
-newSlider = L.control.slider(function(value) {console.log(value);}, {
+newSlider = L.control.slider(putMarkers, {
     size: '300px',
     position: 'bottomleft',
     min: 1,
@@ -165,9 +157,13 @@ info.onAdd = function (map) {
 
 // method that we will use to update the control based on feature properties passed
 info.update = function (city) {
-    this._div.innerHTML = '<h4>More information</h4>' +  (city ?
-        '<b>' + city.name + '</b><br />' + city.data.Count + ' ' + city.data.Sentiment.toLowerCase() + ' tweets'
-        : 'Hover over a marker');
+    var text = '<h4>More information</h4>';
+    if (city) {
+        text += '<b>' + city.name + '</b><br />' + city.data.Count + ' ' + city.data.Sentiment.toLowerCase() + ' tweets';
+    } else {
+        text += 'Hover over a marker';
+    }
+    this._div.innerHTML = text;
 };
 
 info.addTo(map);
