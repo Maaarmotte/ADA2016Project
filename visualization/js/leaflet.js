@@ -106,7 +106,7 @@ var negativeMarker = L.AwesomeMarkers.icon({
     markerColor: 'darkred'
 });
 
-func putMarkers(month) { 
+function putMarkers(month) { 
     positiveMarkers.clearLayers();
     negativeMarkers.clearLayers();
 
@@ -137,6 +137,8 @@ func putMarkers(month) {
 
 map.addLayer(positiveMarkers);
 map.addLayer(negativeMarkers);
+
+putMarkers(null);
 
 // Time slider
 newSlider = L.control.slider(function(value) {console.log(value);}, {
