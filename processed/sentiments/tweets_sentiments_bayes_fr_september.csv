@@ -1,29 +1,29 @@
 source_location,sentiment,0
 #Barcelona,POSITIVE,1
 #Brussels,POSITIVE,1
-"#Chateauform-Champéry, Suissey",NEGATIVE,5
-"#Chateauform-Champéry, Suissey",POSITIVE,6
+"#Chateauform-Champéry, Suissey",NEGATIVE,4
+"#Chateauform-Champéry, Suissey",POSITIVE,7
 #JetSetLife✈️,POSITIVE,2
-#TeamMinaj #TeamTinashe,NEGATIVE,6
-#TeamMinaj #TeamTinashe,POSITIVE,2
+#TeamMinaj #TeamTinashe,NEGATIVE,7
+#TeamMinaj #TeamTinashe,POSITIVE,1
 #taken #study,NEUTRAL,1
-(JEAN 3;8 ) GENEVE,NEGATIVE,19
+(JEAN 3;8 ) GENEVE,NEGATIVE,20
 (JEAN 3;8 ) GENEVE,NEUTRAL,1
-(JEAN 3;8 ) GENEVE,POSITIVE,10
+(JEAN 3;8 ) GENEVE,POSITIVE,9
 ***Karless,NEGATIVE,4
 ***Karless,NEUTRAL,1
 ***Karless,POSITIVE,9
 ",Schweiz",POSITIVE,1
-- Genève,NEGATIVE,17
+- Genève,NEGATIVE,20
 - Genève,NEUTRAL,1
-- Genève,POSITIVE,8
+- Genève,POSITIVE,5
 .::MDX STREET::. SWITZERLAND,POSITIVE,1
-".fr, .be, .ch, .eu | Lausanne",NEGATIVE,9
-".fr, .be, .ch, .eu | Lausanne",POSITIVE,10
+".fr, .be, .ch, .eu | Lausanne",NEGATIVE,8
+".fr, .be, .ch, .eu | Lausanne",POSITIVE,11
 .الشرقية,POSITIVE,1
 "1006, Lausanne, Suisse",POSITIVE,15
-"1012 Lausanne, Switzerland",NEGATIVE,2
-"1012 Lausanne, Switzerland",POSITIVE,3
+"1012 Lausanne, Switzerland",NEGATIVE,3
+"1012 Lausanne, Switzerland",POSITIVE,2
 "1095 Lutry, Suisse",POSITIVE,1
 "11, ch. Delay, 1214 Vernier",POSITIVE,3
 "1110 Morges, Suisse",POSITIVE,5
@@ -33,29 +33,30 @@ source_location,sentiment,0
 "1337 Vallorbe, Schweiz",NEGATIVE,1
 "1337 Vallorbe, Schweiz",POSITIVE,1
 1544 Gletterens (Suisse ),NEGATIVE,1
-"1860 Aigle, Switzerland",POSITIVE,3
+"1860 Aigle, Switzerland",NEGATIVE,2
+"1860 Aigle, Switzerland",POSITIVE,1
 "1907 Saxon, Suisse",POSITIVE,5
-1920 Martigny / VS,NEGATIVE,2
-1920 Martigny / VS,POSITIVE,3
+1920 Martigny / VS,POSITIVE,5
 1936 Verbier,POSITIVE,1
 "1963 Vétroz, Switzerland",POSITIVE,3
-1968 Mase Suisse,NEGATIVE,5
+1968 Mase Suisse,NEGATIVE,8
 1968 Mase Suisse,NEUTRAL,1
-1968 Mase Suisse,POSITIVE,47
+1968 Mase Suisse,POSITIVE,44
 "1997 Haute-Nendaz, Suisse",POSITIVE,1
-"2001 Neuchâtel, Switzerland",NEGATIVE,2
-"2001 Neuchâtel, Switzerland",POSITIVE,6
-2034,NEGATIVE,6
-2034,POSITIVE,1
-"21 rue de Monthoux, Geneve",POSITIVE,18
+"2001 Neuchâtel, Switzerland",NEGATIVE,1
+"2001 Neuchâtel, Switzerland",POSITIVE,7
+2034,NEGATIVE,5
+2034,POSITIVE,2
+"21 rue de Monthoux, Geneve",NEGATIVE,2
+"21 rue de Monthoux, Geneve",POSITIVE,16
 25 Rue du Perron 1204 Genève,POSITIVE,3
 "25, rue Münster Luxembourg",NEGATIVE,1
 2718 Lajoux,NEGATIVE,1
 2718 Lajoux,POSITIVE,6
 28fevrier2012 P❤️,NEGATIVE,4
 28fevrier2012 P❤️,POSITIVE,2
-"2m2c, Montreux, Suisse",NEGATIVE,6
-"2m2c, Montreux, Suisse",POSITIVE,33
+"2m2c, Montreux, Suisse",NEGATIVE,7
+"2m2c, Montreux, Suisse",POSITIVE,32
 "3125 Toffen, Switzerland",NEGATIVE,1
 "3125 Toffen, Switzerland",POSITIVE,1
 "35 rue du Simplon, Lausanne",POSITIVE,2
@@ -72,50 +73,50 @@ source_location,sentiment,0
 "41.570042,2.002116",POSITIVE,1
 "43, Route des Acacias | Genève",POSITIVE,3
 "45.862832,6.142899",POSITIVE,1
-"46.464697,6.869727",NEGATIVE,1
-"46.464697,6.869727",POSITIVE,2
+"46.464697,6.869727",NEGATIVE,2
+"46.464697,6.869727",POSITIVE,1
 "46.519226,6.639824",POSITIVE,6
 "46.530002,6.621964",POSITIVE,3
 "46.801236,7.146669",NEGATIVE,4
 "46.801236,7.146669",POSITIVE,11
-"46.996904,6.934439",NEGATIVE,4
-"46.996904,6.934439",POSITIVE,5
+"46.996904,6.934439",NEGATIVE,5
+"46.996904,6.934439",POSITIVE,4
 "47.111425,6.830974",NEGATIVE,3
 "47.111425,6.830974",NEUTRAL,1
 "47.111425,6.830974",POSITIVE,4
 "47.155783,7.275922",POSITIVE,1
 "47.882639,7.05636",POSITIVE,1
-53 route de Suisse-1295 Mies,NEGATIVE,9
-53 route de Suisse-1295 Mies,POSITIVE,39
-"5h, ddl, ag, tk, NYD, 1D, t100",NEGATIVE,1
+53 route de Suisse-1295 Mies,NEGATIVE,24
+53 route de Suisse-1295 Mies,POSITIVE,24
 "5h, ddl, ag, tk, NYD, 1D, t100",NEUTRAL,1
+"5h, ddl, ag, tk, NYD, 1D, t100",POSITIVE,1
 "6 rue du Pré Jérôme, Genève",NEGATIVE,2
 6230.500,NEGATIVE,9
 6230.500,POSITIVE,1
 78,POSITIVE,1
 8 Ball Pool ID: 127-225-586-6,POSITIVE,1
 81200,NEUTRAL,1
-85100 les sables d olonne,POSITIVE,1
+85100 les sables d olonne,NEGATIVE,1
 "8800 Thalwil, Schweiz",NEUTRAL,1
 @Lausanne - Switzerland,POSITIVE,2
-"@ya mama's house, Switzerland",NEGATIVE,12
-"@ya mama's house, Switzerland",POSITIVE,5
-A Coruña,POSITIVE,2
+"@ya mama's house, Switzerland",NEGATIVE,9
+"@ya mama's house, Switzerland",POSITIVE,8
+A Coruña,NEGATIVE,1
+A Coruña,POSITIVE,1
 AG,NEUTRAL,2
 AG,POSITIVE,1
-"AG , organisation privée",NEGATIVE,256
+"AG , organisation privée",NEGATIVE,245
 "AG , organisation privée",NEUTRAL,5
-"AG , organisation privée",POSITIVE,112
+"AG , organisation privée",POSITIVE,123
 "AG,Melaka - Seremban,NS",NEGATIVE,1
-AI,NEGATIVE,1
-AI,POSITIVE,2
+AI,NEGATIVE,2
+AI,POSITIVE,1
 AMSTERDAM!!!!,POSITIVE,1
 "ARAU, PERLIS",NEGATIVE,1
-Aarau,NEGATIVE,1
-Aarau,POSITIVE,8
+Aarau,NEGATIVE,2
+Aarau,POSITIVE,7
 "Aarau, Schweiz",POSITIVE,1
-"Aarau, Switzerland",NEGATIVE,1
-"Aarau, Switzerland",POSITIVE,3
+"Aarau, Switzerland",POSITIVE,4
 Aarau/Marseille/East Germany,NEGATIVE,1
 Aarau/Marseille/East Germany,POSITIVE,1
 "Aarburg, Schweiz",NEUTRAL,1
@@ -123,9 +124,9 @@ Aargau,POSITIVE,1
 "Aargau, CH / Liguria, I",NEGATIVE,1
 "Aargau, Schweiz",NEUTRAL,1
 "Aargau, Schweiz",POSITIVE,1
-"Aargau, Switzerland",NEGATIVE,2
+"Aargau, Switzerland",NEGATIVE,3
 "Aargau, Switzerland",NEUTRAL,3
-"Aargau, Switzerland",POSITIVE,19
+"Aargau, Switzerland",POSITIVE,18
 Absurdistan,NEGATIVE,1
 Abu Dhabi,NEGATIVE,2
 Abu Dhabi,POSITIVE,2
@@ -135,14 +136,14 @@ Aesch BL,NEGATIVE,1
 Aesch BL,POSITIVE,3
 "Aeugst am Albis, Zürich",POSITIVE,1
 "Affoltern am Albis, Zürich",POSITIVE,1
-"Aguilas, Región de Murcia",NEGATIVE,23
+"Aguilas, Región de Murcia",NEGATIVE,24
 "Aguilas, Región de Murcia",NEUTRAL,1
-"Aguilas, Región de Murcia",POSITIVE,20
+"Aguilas, Región de Murcia",POSITIVE,19
 "Ahmedabad, India",POSITIVE,1
-Aigle,NEGATIVE,9
-Aigle,POSITIVE,19
-Aigle VD,NEGATIVE,5
-Aigle VD,POSITIVE,13
+Aigle,NEGATIVE,12
+Aigle,POSITIVE,16
+Aigle VD,NEGATIVE,11
+Aigle VD,POSITIVE,7
 "Aigle, Suisse",NEGATIVE,45
 "Aigle, Suisse",POSITIVE,39
 "Aigle, Suisse 23 ans",POSITIVE,3
@@ -156,8 +157,8 @@ Algarve-Portugal,POSITIVE,1
 Algeria,POSITIVE,1
 "Alicante, Spain.     ",NEUTRAL,1
 "Alicante, Spain.     ",POSITIVE,1
-"Allaman, Suisse",NEGATIVE,2
-"Allaman, Suisse",POSITIVE,10
+"Allaman, Suisse",NEGATIVE,1
+"Allaman, Suisse",POSITIVE,11
 "Allschwil, Basel-Land",NEGATIVE,6
 "Allschwil, Basel-Land",POSITIVE,3
 "Alps, Pyrenees, Dolomites",POSITIVE,2
@@ -165,32 +166,33 @@ Alsace,NEGATIVE,2
 Alsace,POSITIVE,3
 "Alsace, France",NEGATIVE,1
 "Alsace, France",POSITIVE,2
-"Alsace, France / Jura, Suisse",NEGATIVE,7
-"Alsace, France / Jura, Suisse",POSITIVE,2
+"Alsace, France / Jura, Suisse",NEGATIVE,5
+"Alsace, France / Jura, Suisse",POSITIVE,4
 Altcoinworld,POSITIVE,1
 Amiens,POSITIVE,1
 Amsterdam,POSITIVE,1
-Anières,NEGATIVE,1
-Anières,POSITIVE,3
-Annecy,POSITIVE,15
+Anières,NEGATIVE,2
+Anières,POSITIVE,2
+Annecy,NEGATIVE,2
+Annecy,POSITIVE,13
 "Annecy, Rhône-Alpes",NEGATIVE,1
-Annecy/Lyon/Paris .CH / .KR,NEGATIVE,1
-Annecy/Lyon/Paris .CH / .KR,POSITIVE,3
+Annecy/Lyon/Paris .CH / .KR,NEGATIVE,2
+Annecy/Lyon/Paris .CH / .KR,POSITIVE,2
 "Annemasse, Rhône-Alpes",POSITIVE,1
 "Anniviers, Switzerland",POSITIVE,1
 "Anniviers, Valais",NEGATIVE,1
 "Anniviers, Valais",POSITIVE,3
 "Antwerp / Brussels, Belgium",POSITIVE,1
-"Apes,Melina,Ju,Luca,Lou,Ks",NEGATIVE,1
 "Apes,Melina,Ju,Luca,Lou,Ks",NEUTRAL,1
-"Apes,Melina,Ju,Luca,Lou,Ks",POSITIVE,1
+"Apes,Melina,Ju,Luca,Lou,Ks",POSITIVE,2
 "Apples, Suisse",NEGATIVE,2
-"Aproz, Valais, Suisse",POSITIVE,2
+"Aproz, Valais, Suisse",NEGATIVE,1
+"Aproz, Valais, Suisse",POSITIVE,1
 Aquí,NEGATIVE,1
 Arau,NEUTRAL,1
-"Arau, Perlis",NEGATIVE,5
+"Arau, Perlis",NEGATIVE,4
 "Arau, Perlis",NEUTRAL,3
-"Arau, Perlis",POSITIVE,7
+"Arau, Perlis",POSITIVE,8
 "Arau,Perlis",POSITIVE,1
 "Arau,perlis",NEGATIVE,1
 "Arau,perlis",NEUTRAL,1
@@ -201,8 +203,8 @@ Arau,NEUTRAL,1
 "Ardon, Valais",POSITIVE,5
 Argentina,POSITIVE,1
 Arosa,POSITIVE,2
-"Arras, France",NEGATIVE,2
-"Arras, France",POSITIVE,1
+"Arras, France",NEGATIVE,1
+"Arras, France",POSITIVE,2
 Ascona,POSITIVE,2
 "Ascona, Ticino Svizzera",NEGATIVE,3
 "Ascona, Ticino Svizzera",POSITIVE,1
@@ -214,44 +216,43 @@ Au Paradis Des Diablesses,NEGATIVE,1
 "Aughton, England",POSITIVE,1
 Aurillac,POSITIVE,1
 Australia,POSITIVE,6
-"Avenches, Vaud",NEGATIVE,28
-"Avenches, Vaud",POSITIVE,9
+"Avenches, Vaud",NEGATIVE,23
+"Avenches, Vaud",POSITIVE,14
 "Avenue de Rumine 4, Lausanne",NEGATIVE,4
 "Avenue de Rumine 4, Lausanne",POSITIVE,8
-"Avenue de la Gare 47, Martigny",POSITIVE,10
+"Avenue de la Gare 47, Martigny",NEGATIVE,2
+"Avenue de la Gare 47, Martigny",POSITIVE,8
 "Avry, Suisse",POSITIVE,1
-Ayent,NEGATIVE,6
-Ayent,POSITIVE,8
+Ayent,NEGATIVE,5
+Ayent,POSITIVE,9
 "Ayent, Valais",NEGATIVE,1
 Azerbaijan,POSITIVE,1
 "Aéroport de Lausanne, Suisse",POSITIVE,1
 "BAR,BD",NEGATIVE,1
 BE based - Acting everywhere,POSITIVE,1
-"BE, CA, FR, CH",NEGATIVE,2
-"BE, CA, FR, CH",POSITIVE,13
+"BE, CA, FR, CH",POSITIVE,15
 "BERN,LCHVRSM",NEGATIVE,1
 "BERNE, Switzerland",POSITIVE,1
 BNCITYZOO,NEGATIVE,1
-"Baar ZG, Schweiz",NEGATIVE,1
-"Baar ZG, Schweiz",POSITIVE,1
+"Baar ZG, Schweiz",POSITIVE,2
 "Baar, Zug",POSITIVE,1
 "Bad Ragaz, Switzerland",POSITIVE,1
 Baden,NEGATIVE,1
 Baden,POSITIVE,4
 "Baden, Schweiz",NEGATIVE,1
 "Baden, Schweiz",NEUTRAL,1
-"Baden, Switzerland",NEGATIVE,2
-"Baden, Switzerland",POSITIVE,6
+"Baden, Switzerland",NEGATIVE,4
+"Baden, Switzerland",POSITIVE,4
 "Baffin, Zurich",NEUTRAL,1
-Bafoussam cameroun,NEGATIVE,19
-Bafoussam cameroun,POSITIVE,12
-Bagnes,NEGATIVE,31
+Bafoussam cameroun,NEGATIVE,22
+Bafoussam cameroun,POSITIVE,9
+Bagnes,NEGATIVE,29
 Bagnes,NEUTRAL,2
-Bagnes,POSITIVE,34
+Bagnes,POSITIVE,36
 "Baguio, Manila",NEUTRAL,1
 "Baguio, Manila",POSITIVE,1
-Bahamas,NEGATIVE,10
-Bahamas,POSITIVE,4
+Bahamas,NEGATIVE,8
+Bahamas,POSITIVE,6
 Bahnhofstr.1 4104 Oberwil BL,NEGATIVE,1
 Bala,POSITIVE,1
 "Balerna, Svizzera",NEGATIVE,1
@@ -267,9 +268,9 @@ Barcelona - 1997 - Málaga,POSITIVE,1
 "Barcelona, Països Catalans",POSITIVE,1
 "Barcelona, Spain",NEGATIVE,1
 "Barcelona, Spain",POSITIVE,1
-Basel,NEGATIVE,19
+Basel,NEGATIVE,34
 Basel,NEUTRAL,2
-Basel,POSITIVE,205
+Basel,POSITIVE,190
 Basel (Switzerland),NEGATIVE,8
 Basel (Switzerland),POSITIVE,6
 "Basel , Switzerland",NEGATIVE,1
@@ -280,30 +281,32 @@ Basel (Switzerland),POSITIVE,6
 "Basel, Münchenstein, Schweiz",POSITIVE,1
 "Basel, Schweiz",NEGATIVE,1
 "Basel, Schweiz",POSITIVE,3
-"Basel, Switzerland",NEGATIVE,253
+"Basel, Switzerland",NEGATIVE,299
 "Basel, Switzerland",NEUTRAL,5
-"Basel, Switzerland",POSITIVE,445
+"Basel, Switzerland",POSITIVE,399
 "Basel, Switzerland - East Ldn",NEGATIVE,453
 "Basel, Switzerland - East Ldn",NEUTRAL,3
 "Basel, Switzerland - East Ldn",POSITIVE,199
 "Basel, Switzerland, スイスのバーセル市",POSITIVE,1
-"Basel-City, Switzerland",NEGATIVE,54
-"Basel-City, Switzerland",POSITIVE,237
+"Basel-City, Switzerland",NEGATIVE,44
+"Basel-City, Switzerland",POSITIVE,247
 "Basel-Country, Switzerland",NEGATIVE,3
 "Basel-Country, Switzerland",POSITIVE,1
 "Basel-Land, Schweiz",POSITIVE,1
-"Basel-Stadt, Schweiz",NEGATIVE,4
-"Basel-Stadt, Schweiz",POSITIVE,26
-Basilea,NEGATIVE,1
-Basilea,POSITIVE,2
-"Basilea, Schwiiiiz",POSITIVE,2
+"Basel-Stadt, Schweiz",NEGATIVE,6
+"Basel-Stadt, Schweiz",POSITIVE,24
+Basilea,NEGATIVE,2
+Basilea,POSITIVE,1
+"Basilea, Schwiiiiz",NEGATIVE,1
+"Basilea, Schwiiiiz",POSITIVE,1
 "Basileia, Suíça",NEGATIVE,1
 "Basle, Basel City",NEGATIVE,16
 "Basle, Basel City",POSITIVE,12
 "Basle, Switzerland",POSITIVE,1
-Bassecourt,NEGATIVE,1
+Bassecourt,POSITIVE,1
 Baton Rouge ✈ NYC,NEGATIVE,1
-"Baulmes, Vaud",POSITIVE,6
+"Baulmes, Vaud",NEGATIVE,1
+"Baulmes, Vaud",POSITIVE,5
 Begnins,POSITIVE,3
 Beirut,POSITIVE,1
 Beirut • Paris • Switzerland,POSITIVE,2
@@ -313,16 +316,15 @@ Beirut • Paris • Switzerland,POSITIVE,2
 Belfort,NEGATIVE,14
 Belfort,POSITIVE,2
 "Belfort, Franche-Comté",NEGATIVE,1
-Belfort.,NEGATIVE,8
+Belfort.,NEGATIVE,6
 Belfort.,NEUTRAL,1
-Belfort.,POSITIVE,3
-Belgique,NEGATIVE,1
-Belgique,POSITIVE,1
-Belgium,NEGATIVE,29
+Belfort.,POSITIVE,5
+Belgique,POSITIVE,2
+Belgium,NEGATIVE,36
 Belgium,NEUTRAL,2
-Belgium,POSITIVE,23
-"Bellecombe, Jura",NEGATIVE,6
-"Bellecombe, Jura",POSITIVE,4
+Belgium,POSITIVE,16
+"Bellecombe, Jura",NEGATIVE,7
+"Bellecombe, Jura",POSITIVE,3
 Bellinzona,NEGATIVE,1
 Bellinzona,NEUTRAL,1
 Bellinzona,POSITIVE,9
@@ -331,13 +333,14 @@ Bellinzona,POSITIVE,9
 "Bellinzona, Ticino",POSITIVE,1
 "Belmont, Switzerland",NEGATIVE,1
 "Belmont, Switzerland",POSITIVE,4
-Belp,NEGATIVE,3
-Belp,POSITIVE,9
+Belp,NEGATIVE,1
+Belp,POSITIVE,11
 "Berkel & Rodenrijs,ZH,NL",POSITIVE,3
-"Berlin, Allemagne",NEGATIVE,3
-Bern,NEGATIVE,148
+"Berlin, Allemagne",NEGATIVE,2
+"Berlin, Allemagne",POSITIVE,1
+Bern,NEGATIVE,162
 Bern,NEUTRAL,9
-Bern,POSITIVE,397
+Bern,POSITIVE,383
 Bern (Switzerland),POSITIVE,1
 Bern - Bärn - Suisse,POSITIVE,1
 "Bern 72, Switzerland",NEGATIVE,1
@@ -348,35 +351,35 @@ Bern - Bärn - Suisse,POSITIVE,1
 "Bern, Berne",NEGATIVE,16
 "Bern, Berne",NEUTRAL,2
 "Bern, Berne",POSITIVE,104
-"Bern, CH",NEGATIVE,1
-"Bern, CH",POSITIVE,8
+"Bern, CH",POSITIVE,9
 "Bern, Fribourg, Lausanne",POSITIVE,1
 "Bern, San Francisco",POSITIVE,1
-"Bern, Schweiz",NEGATIVE,18
+"Bern, Schweiz",NEGATIVE,16
 "Bern, Schweiz",NEUTRAL,5
-"Bern, Schweiz",POSITIVE,55
+"Bern, Schweiz",POSITIVE,57
 "Bern, Schweiz - Switzerland",POSITIVE,1
-"Bern, Switzerland",NEGATIVE,8
-"Bern, Switzerland",POSITIVE,257
+"Bern, Switzerland",NEGATIVE,9
+"Bern, Switzerland",POSITIVE,256
 "Bern, Zürich, Lausanne,Brüssel",NEGATIVE,1
 "Bern, Zürich, Lausanne,Brüssel",POSITIVE,5
-Berna,NEGATIVE,3
-Berna,POSITIVE,3
+Berna,NEGATIVE,4
+Berna,POSITIVE,2
 "Berna, Suiza",POSITIVE,3
 "Berna, Suíça",POSITIVE,1
 "Berna, Svizzera",NEGATIVE,1
 "Berna, Svizzera",POSITIVE,1
-Berne,NEGATIVE,81
+Berne,NEGATIVE,98
 Berne,NEUTRAL,1
-Berne,POSITIVE,318
+Berne,POSITIVE,301
 "Berne , Suisse",POSITIVE,1
-"Berne, Genève",POSITIVE,2
-"Berne, Suisse",NEGATIVE,108
+"Berne, Genève",NEGATIVE,1
+"Berne, Genève",POSITIVE,1
+"Berne, Suisse",NEGATIVE,110
 "Berne, Suisse",NEUTRAL,2
-"Berne, Suisse",POSITIVE,192
-"Berne, Switzerland",NEGATIVE,91
+"Berne, Suisse",POSITIVE,190
+"Berne, Switzerland",NEGATIVE,93
 "Berne, Switzerland",NEUTRAL,2
-"Berne, Switzerland",POSITIVE,150
+"Berne, Switzerland",POSITIVE,148
 "Bernex, Gnv",NEGATIVE,6
 "Bernex, Gnv",POSITIVE,2
 "Besançon, France",NEGATIVE,1
@@ -386,30 +389,30 @@ Between Riyadh & Khobar,POSITIVE,1
 "Bevaix, Neuchâtel",POSITIVE,23
 Bex,NEGATIVE,1
 Bex,POSITIVE,2
-"Bex, Suisse",NEGATIVE,18
-"Bex, Suisse",POSITIVE,25
+"Bex, Suisse",NEGATIVE,23
+"Bex, Suisse",POSITIVE,20
 "Bex, Vaud",NEGATIVE,2
 "Bex, Vaud",POSITIVE,11
 "Bex, switzerland",POSITIVE,1
 Biberist,POSITIVE,1
-Biel,NEGATIVE,2
-Biel,POSITIVE,14
-"Biel / Bienne, Switzerland",NEGATIVE,4
-"Biel / Bienne, Switzerland",POSITIVE,33
-"Biel, Bern",NEGATIVE,16
+Biel,NEGATIVE,4
+Biel,POSITIVE,12
+"Biel / Bienne, Switzerland",NEGATIVE,5
+"Biel / Bienne, Switzerland",POSITIVE,32
+"Biel, Bern",NEGATIVE,15
 "Biel, Bern",NEUTRAL,1
-"Biel, Bern",POSITIVE,24
+"Biel, Bern",POSITIVE,25
 "Biel, CH",POSITIVE,5
 "Biel, Schweiz",POSITIVE,2
-"Biel, Switzerland",NEGATIVE,80
+"Biel, Switzerland",NEGATIVE,85
 "Biel, Switzerland",NEUTRAL,3
-"Biel, Switzerland",POSITIVE,105
-Biel-Bienne,NEGATIVE,31
-Biel-Bienne,POSITIVE,50
-"Biel-Bienne, Switzerland",NEGATIVE,28
-"Biel-Bienne, Switzerland",POSITIVE,48
-Biel/Bienne,NEGATIVE,10
-Biel/Bienne,POSITIVE,65
+"Biel, Switzerland",POSITIVE,100
+Biel-Bienne,NEGATIVE,30
+Biel-Bienne,POSITIVE,51
+"Biel-Bienne, Switzerland",NEGATIVE,32
+"Biel-Bienne, Switzerland",POSITIVE,44
+Biel/Bienne,NEGATIVE,16
+Biel/Bienne,POSITIVE,59
 "Biel/Bienne City , Switzerland",NEGATIVE,1
 "Biel/Bienne City , Switzerland",POSITIVE,1
 "Biel/Bienne, CH",POSITIVE,1
@@ -417,47 +420,48 @@ Biel/Bienne,POSITIVE,65
 "Biel/Bienne, Suisse",POSITIVE,9
 "Biel/Bienne, Switzerland",NEUTRAL,1
 "Biel/Bienne, Switzerland",POSITIVE,2
+Biel/bienne,NEGATIVE,1
 Biel/bienne,NEUTRAL,1
-Biel/bienne,POSITIVE,1
-Bienne,NEGATIVE,26
-Bienne,POSITIVE,6
+Bienne,NEGATIVE,19
+Bienne,POSITIVE,13
 Bienne (Biel),NEGATIVE,1
 Bienne (Biel),POSITIVE,1
 "Bienne / Biel, Switzerland",POSITIVE,11
 Bienne Switzerland,POSITIVE,1
-"Bienne, Suisse",NEGATIVE,209
+"Bienne, Suisse",NEGATIVE,204
 "Bienne, Suisse",NEUTRAL,1
-"Bienne, Suisse",POSITIVE,74
+"Bienne, Suisse",POSITIVE,79
 "Bienne, Switzerland",POSITIVE,2
 "Bioggio, Svizzera",NEGATIVE,4
 "Bioggio, Svizzera",POSITIVE,31
 "Birmensdorf (ZH), Schweiz",POSITIVE,1
 "Birmingham, united kingdom",POSITIVE,2
 "Birsfelden, Switzerland",POSITIVE,1
-"Bière, Vaud, Suisse",NEGATIVE,1
-"Bière, Vaud, Suisse",POSITIVE,15
+"Bière, Vaud, Suisse",NEGATIVE,2
+"Bière, Vaud, Suisse",POSITIVE,14
 Blonay,NEGATIVE,2
 Blonay,POSITIVE,1
 "Blonay, Suisse",POSITIVE,2
 "Blonay, Vaud",POSITIVE,1
 "Bluche, Switzerland",POSITIVE,3
 "Blvd Carl-VOGT 34, 1205 GE, CH",POSITIVE,2
-Bogota,POSITIVE,2
+Bogota,NEGATIVE,1
+Bogota,POSITIVE,1
 "Bolligen, Bern",POSITIVE,1
 "Bolton, ON",NEGATIVE,2
 "Bolton, ON",NEUTRAL,1
 "Bonaduz, Switzerland",NEUTRAL,1
-"Boncourt, Picardie",NEGATIVE,185
-"Boncourt, Picardie",POSITIVE,77
-"Boncourt, Suisse",NEGATIVE,28
-"Boncourt, Suisse",POSITIVE,34
+"Boncourt, Picardie",NEGATIVE,179
+"Boncourt, Picardie",POSITIVE,83
+"Boncourt, Suisse",NEGATIVE,26
+"Boncourt, Suisse",POSITIVE,36
 "Bonfol (Jura), Suisse",POSITIVE,1
-"Bonfol, Jura",NEGATIVE,6
-"Bonfol, Jura",POSITIVE,7
+"Bonfol, Jura",NEGATIVE,5
+"Bonfol, Jura",POSITIVE,8
 Bordeaux,NEGATIVE,1
 "Bordeaux, France",POSITIVE,5
-"Borex, VD",NEGATIVE,2
-"Borex, VD",POSITIVE,9
+"Borex, VD",NEGATIVE,4
+"Borex, VD",POSITIVE,7
 Boston,NEGATIVE,1
 "Boston, MA",POSITIVE,1
 "Bottens (VD), Suisse",NEGATIVE,2
@@ -468,9 +472,9 @@ Boulder/Lausanne,POSITIVE,1
 "Bournemouth, GB/Basel, CH",POSITIVE,1
 "Boussens, Vaud",POSITIVE,2
 Bouveret Suisse,POSITIVE,2
-"Bramois, Valais",NEGATIVE,70
+"Bramois, Valais",NEGATIVE,66
 "Bramois, Valais",NEUTRAL,3
-"Bramois, Valais",POSITIVE,23
+"Bramois, Valais",POSITIVE,27
 Brasília,POSITIVE,11
 Brazil,POSITIVE,1
 "Brazzaville, Congo",POSITIVE,1
@@ -482,61 +486,60 @@ Brighton,POSITIVE,1
 "Brooklyn, NYC",NEGATIVE,26
 "Brooklyn, NYC",NEUTRAL,1
 "Brooklyn, NYC",POSITIVE,5
-"Broye, Switzerland",POSITIVE,1
-"Broye, Vaud, Suisse",NEGATIVE,477
+"Broye, Switzerland",NEGATIVE,1
+"Broye, Vaud, Suisse",NEGATIVE,486
 "Broye, Vaud, Suisse",NEUTRAL,5
-"Broye, Vaud, Suisse",POSITIVE,228
-Brugg,POSITIVE,11
+"Broye, Vaud, Suisse",POSITIVE,219
+Brugg,NEGATIVE,1
+Brugg,POSITIVE,10
 "Brugg, Switzerland",NEGATIVE,1
 "Brunnen, Switzerland",POSITIVE,1
 Brussels,POSITIVE,2
 "Brussels, Belgium",NEUTRAL,1
-"Bruxelles, Genève, Casablanca",NEGATIVE,2
-"Bruxelles, Genève, Casablanca",POSITIVE,5
+"Bruxelles, Genève, Casablanca",NEGATIVE,1
+"Bruxelles, Genève, Casablanca",POSITIVE,6
 "Brünisried, Switzerland",POSITIVE,1
-Bubikon,NEGATIVE,1
-Bubikon,POSITIVE,2
+Bubikon,POSITIVE,3
 "Buchholterberg, Schweiz",POSITIVE,1
-Bulle,NEGATIVE,73
+Bulle,NEGATIVE,74
 Bulle,NEUTRAL,1
-Bulle,POSITIVE,141
-"Bulle, Fribourg",NEGATIVE,1
-"Bulle, Fribourg",POSITIVE,27
-"Bulle, Fribourg, Suisse",NEGATIVE,5
-"Bulle, Fribourg, Suisse",POSITIVE,36
-"Bulle, Suisse",NEGATIVE,1
-"Bulle, Suisse",POSITIVE,3
-"Bulle, Switzerland",NEGATIVE,19
-"Bulle, Switzerland",POSITIVE,64
-"Bullet,Suisse.",NEGATIVE,521
+Bulle,POSITIVE,140
+"Bulle, Fribourg",NEGATIVE,4
+"Bulle, Fribourg",POSITIVE,24
+"Bulle, Fribourg, Suisse",NEGATIVE,4
+"Bulle, Fribourg, Suisse",POSITIVE,37
+"Bulle, Suisse",POSITIVE,4
+"Bulle, Switzerland",NEGATIVE,25
+"Bulle, Switzerland",POSITIVE,58
+"Bullet,Suisse.",NEGATIVE,498
 "Bullet,Suisse.",NEUTRAL,2
-"Bullet,Suisse.",POSITIVE,362
-"Bundesgasse 18, 3000 Bern",POSITIVE,1
-"Buochs, Nidwalden, Suisse",NEGATIVE,2
-"Buochs, Nidwalden, Suisse",POSITIVE,1
-"Burgdorf, Bern",NEGATIVE,1
+"Bullet,Suisse.",POSITIVE,385
+"Bundesgasse 18, 3000 Bern",NEGATIVE,1
+"Buochs, Nidwalden, Suisse",NEGATIVE,3
+"Burgdorf, Bern",POSITIVE,1
 "Bursinel, Switzerland",NEGATIVE,1
 "Bursins, Suisse",NEGATIVE,2
 "Bursins, Suisse",POSITIVE,1
 "Burtigny, Switzerland",POSITIVE,1
-Burundi,NEGATIVE,7
-Burundi,POSITIVE,22
-Bussigny,NEGATIVE,1
-"Bussigny (VD), Suisse",NEGATIVE,58
-"Bussigny (VD), Suisse",POSITIVE,90
-"Bussigny, Suisse",NEGATIVE,10
-"Bussigny, Suisse",POSITIVE,125
-"Bussigny, Switzerland",NEGATIVE,10
-"Bussigny, Switzerland",POSITIVE,19
+Burundi,NEGATIVE,10
+Burundi,POSITIVE,19
+Bussigny,POSITIVE,1
+"Bussigny (VD), Suisse",NEGATIVE,59
+"Bussigny (VD), Suisse",POSITIVE,89
+"Bussigny, Suisse",NEGATIVE,14
+"Bussigny, Suisse",POSITIVE,121
+"Bussigny, Switzerland",NEGATIVE,12
+"Bussigny, Switzerland",POSITIVE,17
 Bussy Saint Georges,POSITIVE,1
 "Bville, BL, Farmington",POSITIVE,1
-Bâle,NEGATIVE,6
-Bâle,POSITIVE,19
-"Bâle, Suisse",NEGATIVE,11
-"Bâle, Suisse",POSITIVE,23
-"Bärn, Bienne",NEGATIVE,5
-"Bärn, Bienne",POSITIVE,35
-"Bémont, Neuchâtel Suisse",POSITIVE,9
+Bâle,NEGATIVE,7
+Bâle,POSITIVE,18
+"Bâle, Suisse",NEGATIVE,12
+"Bâle, Suisse",POSITIVE,22
+"Bärn, Bienne",NEGATIVE,6
+"Bärn, Bienne",POSITIVE,34
+"Bémont, Neuchâtel Suisse",NEGATIVE,1
+"Bémont, Neuchâtel Suisse",POSITIVE,8
 "Büren an der Aare, Schweiz",NEGATIVE,2
 "Büren an der Aare, Schweiz",POSITIVE,2
 CABA - Argentina,NEGATIVE,1
@@ -544,16 +547,15 @@ CABA - Argentina,NEUTRAL,1
 CERN,POSITIVE,1
 "CERN, Geneva, Switzerland",NEUTRAL,1
 "CERN, Geneva, Switzerland",POSITIVE,1
-CH,NEGATIVE,305
+CH,NEGATIVE,307
 CH,NEUTRAL,3
-CH,POSITIVE,225
-CH Nidau Suisse,NEGATIVE,1
-CH Nidau Suisse,POSITIVE,5
-CH PT,NEGATIVE,90
+CH,POSITIVE,223
+CH Nidau Suisse,POSITIVE,6
+CH PT,NEGATIVE,92
 CH PT,NEUTRAL,1
-CH PT,POSITIVE,17
-"CH, DE, AT",NEGATIVE,2
-"CH, DE, AT",POSITIVE,6
+CH PT,POSITIVE,15
+"CH, DE, AT",NEGATIVE,3
+"CH, DE, AT",POSITIVE,5
 "CH, Earth, Milky Way, Laniakea",NEGATIVE,1
 "CH, FR",NEGATIVE,2
 "CH, FR",POSITIVE,16
@@ -565,63 +567,63 @@ CH-1874 Champéry,POSITIVE,2
 "CH-8142 Uitikon, Switzerland",POSITIVE,1
 CHUR,NEUTRAL,1
 CHUR,POSITIVE,1
-"CHUV, Lausanne",NEGATIVE,5
-"CHUV, Lausanne",POSITIVE,20
+"CHUV, Lausanne",NEGATIVE,3
+"CHUV, Lausanne",POSITIVE,22
 CU Boulder,POSITIVE,1
-CYB,NEGATIVE,1
-CYB,POSITIVE,7
-Ca: 0963-1205-4182,NEGATIVE,17
-Ca: 0963-1205-4182,POSITIVE,29
-Cachée en Valais (Suisse),POSITIVE,1
+CYB,POSITIVE,8
+Ca: 0963-1205-4182,NEGATIVE,21
+Ca: 0963-1205-4182,POSITIVE,25
+Cachée en Valais (Suisse),NEGATIVE,1
 Cadenazzo,POSITIVE,2
 Caen / France,NEGATIVE,1
 Caen / France,POSITIVE,4
-Cahors,NEGATIVE,10
-Cahors,POSITIVE,3
-"Calabasas, CA",NEGATIVE,19
-"Calabasas, CA",POSITIVE,9
+Cahors,NEGATIVE,9
+Cahors,POSITIVE,4
+"Calabasas, CA",NEGATIVE,16
+"Calabasas, CA",POSITIVE,12
 Canmore,NEGATIVE,1
 Cannes,POSITIVE,3
 Canoas,NEGATIVE,1
 "Canton Zug, Switzerland",POSITIVE,1
-"Canton de Fribourg, Suisse",POSITIVE,12
+"Canton de Fribourg, Suisse",NEGATIVE,1
+"Canton de Fribourg, Suisse",POSITIVE,11
 "Canton de Neuchâtel, Suisse",POSITIVE,1
-"Canton de Vaud, Suisse",NEGATIVE,18
-"Canton de Vaud, Suisse",POSITIVE,10
-"Canton of GenevaCH, Geneva",POSITIVE,1
+"Canton de Vaud, Suisse",NEGATIVE,15
+"Canton de Vaud, Suisse",POSITIVE,13
+"Canton of GenevaCH, Geneva",NEGATIVE,1
 "Canvee, Switzerland",POSITIVE,1
 Cape Town,POSITIVE,3
 "Cardiff, Wales",NEGATIVE,1
 Carouge,NEGATIVE,5
 Carouge,POSITIVE,22
-"Carouge (GE), Genève",NEGATIVE,141
+"Carouge (GE), Genève",NEGATIVE,124
 "Carouge (GE), Genève",NEUTRAL,3
-"Carouge (GE), Genève",POSITIVE,119
-"Carouge (GE), Suisse",NEGATIVE,45
+"Carouge (GE), Genève",POSITIVE,136
+"Carouge (GE), Suisse",NEGATIVE,46
 "Carouge (GE), Suisse",NEUTRAL,1
-"Carouge (GE), Suisse",POSITIVE,15
+"Carouge (GE), Suisse",POSITIVE,14
 Carouge GE,POSITIVE,3
-"Carouge, GE, Suisse",NEGATIVE,69
+"Carouge, GE, Suisse",NEGATIVE,71
 "Carouge, GE, Suisse",NEUTRAL,1
-"Carouge, GE, Suisse",POSITIVE,69
+"Carouge, GE, Suisse",POSITIVE,67
 "Carouge, Geneva, Switzerland",NEGATIVE,1
 "Carouge, Geneva, Switzerland",POSITIVE,2
-"Carouge, Genève",NEGATIVE,54
+"Carouge, Genève",NEGATIVE,51
 "Carouge, Genève",NEUTRAL,2
-"Carouge, Genève",POSITIVE,47
+"Carouge, Genève",POSITIVE,50
 "Carouge, Suisse",NEGATIVE,2
-"Castelo Branco, Portugal",NEGATIVE,4
-"Castelo Branco, Portugal",POSITIVE,1
-"CdF, NE, Suisse",NEGATIVE,7
-"CdF, NE, Suisse",POSITIVE,7
+"Castelo Branco, Portugal",NEGATIVE,3
+"Castelo Branco, Portugal",POSITIVE,2
+"CdF, NE, Suisse",NEGATIVE,8
+"CdF, NE, Suisse",POSITIVE,6
 Celerina,POSITIVE,1
 Centre France : Bourges,POSITIVE,1
-Cernier,NEGATIVE,32
-Cernier,POSITIVE,18
+Cernier,NEGATIVE,30
+Cernier,POSITIVE,20
 Chablais,POSITIVE,1
-Chacripanie,NEGATIVE,221
+Chacripanie,NEGATIVE,220
 Chacripanie,NEUTRAL,6
-Chacripanie,POSITIVE,69
+Chacripanie,POSITIVE,70
 Chad,POSITIVE,2
 Chalais,NEGATIVE,2
 "Chalais, Valais",NEGATIVE,1
@@ -630,10 +632,10 @@ Chalais,NEGATIVE,2
 "Chalais, Valais, Suisse",POSITIVE,7
 "Cham, Schweiz",POSITIVE,2
 "Chamonix-Mont-Blanc, France",POSITIVE,2
-Chamoson,NEGATIVE,7
-Chamoson,POSITIVE,89
-"Champel, Geneva",NEGATIVE,16
-"Champel, Geneva",POSITIVE,4
+Chamoson,NEGATIVE,13
+Chamoson,POSITIVE,83
+"Champel, Geneva",NEGATIVE,14
+"Champel, Geneva",POSITIVE,6
 "Champvent, Switzerland",NEGATIVE,4
 "Champvent, Switzerland",POSITIVE,12
 "Champvent, Vaud",POSITIVE,1
@@ -642,54 +644,53 @@ Champéry,NEGATIVE,1
 "Champéry, Switzerland",NEGATIVE,5
 "Champéry, Switzerland",POSITIVE,27
 "Champéry, Valais",NEGATIVE,1
-"Chapelle (Glâne), Fribourg",NEGATIVE,1
-Charmey,NEGATIVE,4
-Charmey,POSITIVE,8
+"Chapelle (Glâne), Fribourg",POSITIVE,1
+Charmey,NEGATIVE,5
+Charmey,POSITIVE,7
 "Charmey, Fribourg",NEGATIVE,1
 "Charmey, Fribourg",POSITIVE,1
 "Charmey, Suisse",POSITIVE,1
-Charmilles,NEGATIVE,7
+Charmilles,NEGATIVE,8
 Charmilles,NEUTRAL,1
-Charmilles,POSITIVE,3
+Charmilles,POSITIVE,2
 "Chartres, France",POSITIVE,2
 "Chaska, MN",POSITIVE,1
 "Chateau d Oex, Switzerland",POSITIVE,2
 "Chatel, France",NEGATIVE,1
 "Chatel, France",POSITIVE,1
 "Chatel-St-Denis, Switzerland",POSITIVE,1
-Chating CH,POSITIVE,8
-Chaux-de-Fonds,NEGATIVE,13
-Chaux-de-Fonds,POSITIVE,4
-"Chaux-de-Fonds, Suisse",NEGATIVE,1
-"Chaux-de-Fonds, Suisse",POSITIVE,2
+Chating CH,NEGATIVE,1
+Chating CH,POSITIVE,7
+Chaux-de-Fonds,NEGATIVE,12
+Chaux-de-Fonds,POSITIVE,5
+"Chaux-de-Fonds, Suisse",POSITIVE,3
 Chavannes,NEGATIVE,1
 "Chavannes-pres-Renens, Suisse",POSITIVE,1
-Chavannes-près-Renens,NEGATIVE,14
+Chavannes-près-Renens,NEGATIVE,10
 Chavannes-près-Renens,NEUTRAL,1
-Chavannes-près-Renens,POSITIVE,6
-Chavornay,NEGATIVE,2
-Chavornay,POSITIVE,6
-"Chemin du Closel 5, Renens VD, CH",POSITIVE,1
+Chavannes-près-Renens,POSITIVE,10
+Chavornay,NEGATIVE,5
+Chavornay,POSITIVE,3
+"Chemin du Closel 5, Renens VD, CH",NEGATIVE,1
 "Chermignon, Switzerland",POSITIVE,4
 "Cheseaux-sur-Lausanne, Suisse",NEGATIVE,2
 "Cheseaux-sur-Lausanne, Suisse",POSITIVE,3
-"Cheseaux-sur-Lausanne, Vaud",NEGATIVE,1
-"Cheseaux-sur-Lausanne, Vaud",POSITIVE,10
+"Cheseaux-sur-Lausanne, Vaud",NEGATIVE,2
+"Cheseaux-sur-Lausanne, Vaud",POSITIVE,9
 "Chevilly, Switzerland",NEGATIVE,2
 "Chevilly, Switzerland",POSITIVE,3
-"Chexbres, Suisse",NEGATIVE,12
-"Chexbres, Suisse",POSITIVE,18
+"Chexbres, Suisse",NEGATIVE,15
+"Chexbres, Suisse",POSITIVE,15
 "Chexbres, Switzerland",POSITIVE,1
-"Chexbres, Vaud",NEGATIVE,5
-"Chexbres, Vaud",POSITIVE,16
+"Chexbres, Vaud",NEGATIVE,4
+"Chexbres, Vaud",POSITIVE,17
 Chiasso,NEGATIVE,2
 Chiasso,POSITIVE,14
 Chicago / Chiraq,NEGATIVE,1
-Chile,NEGATIVE,3
-Chile,POSITIVE,3
+Chile,NEGATIVE,2
+Chile,POSITIVE,4
 "Chippis, Switzerland",POSITIVE,1
-Chiraq - Pakiraq - Englewood,NEGATIVE,5
-Chiraq - Pakiraq - Englewood,POSITIVE,1
+Chiraq - Pakiraq - Englewood,NEGATIVE,6
 Chur,NEGATIVE,1
 Chur,POSITIVE,1
 "Chur, Schweiz",NEGATIVE,3
@@ -701,30 +702,29 @@ Château-d'Oex,POSITIVE,1
 "Château-d'Oex, Switzerland",NEUTRAL,1
 "Château-d'Oex, Switzerland",POSITIVE,1
 "Château-d'Oex, Vaud",POSITIVE,1
-"Châtel-Saint-Denis, Fribourg",NEGATIVE,5
-"Châtel-Saint-Denis, Fribourg",POSITIVE,11
+"Châtel-Saint-Denis, Fribourg",NEGATIVE,4
+"Châtel-Saint-Denis, Fribourg",POSITIVE,12
 Châtel-St-Denis,NEGATIVE,10
 Châtel-St-Denis,POSITIVE,19
-"Châtel-St-Denis, Suisse",POSITIVE,104
-"Châtel-St-Denis,Switzerland",NEGATIVE,7
-"Châtel-St-Denis,Switzerland",POSITIVE,3
+"Châtel-St-Denis, Suisse",NEGATIVE,16
+"Châtel-St-Denis, Suisse",POSITIVE,88
+"Châtel-St-Denis,Switzerland",NEGATIVE,8
+"Châtel-St-Denis,Switzerland",POSITIVE,2
 Châtelaine - Genève,POSITIVE,2
-Châtelard,NEGATIVE,8
-Châtelard,POSITIVE,5
-"Châtelard, Limousin",NEGATIVE,23
-"Châtelard, Limousin",POSITIVE,20
-"Chãtelaine, Vernier, Genève",NEGATIVE,25
-"Chãtelaine, Vernier, Genève",POSITIVE,68
-Chêne-Bougeries,NEGATIVE,9
-Chêne-Bougeries,POSITIVE,7
+Châtelard,NEGATIVE,9
+Châtelard,POSITIVE,4
+"Châtelard, Limousin",NEGATIVE,20
+"Châtelard, Limousin",POSITIVE,23
+"Chãtelaine, Vernier, Genève",NEGATIVE,27
+"Chãtelaine, Vernier, Genève",POSITIVE,66
+Chêne-Bougeries,NEGATIVE,7
+Chêne-Bougeries,POSITIVE,9
 City of Angels and angles,POSITIVE,1
-Cité de Calvin & Novum Castrum,NEGATIVE,62
-Cité de Calvin & Novum Castrum,POSITIVE,73
+Cité de Calvin & Novum Castrum,NEGATIVE,57
+Cité de Calvin & Novum Castrum,POSITIVE,78
 Clermont- Ferrand Auvergne,POSITIVE,1
-Clermont-Ferrand,NEGATIVE,4
-Clermont-Ferrand,POSITIVE,3
-"Cognac, France",NEGATIVE,2
-"Cognac, France",POSITIVE,1
+Clermont-Ferrand,NEGATIVE,7
+"Cognac, France",NEGATIVE,3
 "Collombey, CH",POSITIVE,3
 "Collombey, Valais, Switzerland",NEGATIVE,1
 "Collombey, Valais, Switzerland",POSITIVE,4
@@ -736,32 +736,33 @@ Colombia,NEGATIVE,1
 Colombia,POSITIVE,2
 Colombier,NEGATIVE,4
 Colombier,POSITIVE,6
-"Colombier (NE), Neuchâtel",POSITIVE,2
+"Colombier (NE), Neuchâtel",NEGATIVE,2
 "Comano, Svizzera",NEGATIVE,2
 "Commeire, Switzerland",POSITIVE,3
 "Commugny, Vaud",NEGATIVE,11
 "Commugny, Vaud",POSITIVE,12
 Confederaziun svizra,NEGATIVE,1
-Confignon,POSITIVE,6
-"Confignon, Genève",NEGATIVE,16
+Confignon,NEGATIVE,2
+Confignon,POSITIVE,4
+"Confignon, Genève",NEGATIVE,17
 "Confignon, Genève",NEUTRAL,2
-"Confignon, Genève",POSITIVE,13
+"Confignon, Genève",POSITIVE,12
 Confoederatio Helvetica,NEUTRAL,1
-Conte,NEGATIVE,11
-Conte,POSITIVE,14
+Conte,NEGATIVE,10
+Conte,POSITIVE,15
 Conthey,POSITIVE,6
-"Conthey , Valais , Suisse",NEGATIVE,2
-"Conthey , Valais , Suisse",POSITIVE,2
+"Conthey , Valais , Suisse",NEGATIVE,1
+"Conthey , Valais , Suisse",POSITIVE,3
 "Conthey, Suisse",NEGATIVE,3
 "Conthey, Switzerland",POSITIVE,1
-"Conthey, Valais",NEGATIVE,39
-"Conthey, Valais",POSITIVE,22
+"Conthey, Valais",NEGATIVE,40
+"Conthey, Valais",POSITIVE,21
 "Coppet, Switzerland",POSITIVE,2
-"Corbières, Suisse",NEGATIVE,3
-"Corbières, Suisse",POSITIVE,6
+"Corbières, Suisse",NEGATIVE,2
+"Corbières, Suisse",POSITIVE,7
 Cordoba,POSITIVE,1
-Corgémont,NEGATIVE,1
-Corgémont,POSITIVE,2
+Corgémont,NEGATIVE,2
+Corgémont,POSITIVE,1
 "Corgémont, CH",NEGATIVE,2
 "Corgémont, CH",POSITIVE,1
 "Corgémont, Suisse",NEUTRAL,1
@@ -769,17 +770,15 @@ Corgémont,POSITIVE,2
 "Corin, Valais, Switzerland",POSITIVE,1
 Corminboeuf,NEGATIVE,2
 Corminboeuf,POSITIVE,1
-"Cortaillod et Delémont, Suisse",NEGATIVE,2
-"Cortaillod et Delémont, Suisse",POSITIVE,2
+"Cortaillod et Delémont, Suisse",NEGATIVE,1
+"Cortaillod et Delémont, Suisse",POSITIVE,3
 "Cortaillod, Neuchâtel",NEGATIVE,14
 "Cortaillod, Neuchâtel",POSITIVE,26
 "Cortaillod, Suisse",NEGATIVE,1
 "Cortaillod, Suisse",POSITIVE,6
-Cossonay-Ville,NEGATIVE,1
-Cossonay-Ville,POSITIVE,1
-Costa Rica/Switzerland,POSITIVE,1
-"Cottens (FR), Fribourg",NEGATIVE,1
-"Cottens (FR), Fribourg",POSITIVE,1
+Cossonay-Ville,NEGATIVE,2
+Costa Rica/Switzerland,NEGATIVE,1
+"Cottens (FR), Fribourg",NEGATIVE,2
 Court,NEUTRAL,7
 Court,POSITIVE,3
 Crans-Montana - Valais - CH,POSITIVE,1
@@ -787,13 +786,13 @@ Crans-Montana - Valais - CH,POSITIVE,1
 "Crans-Montana, Switzerland",POSITIVE,4
 "Crans-Montana,Switzerland",POSITIVE,4
 "Crans-près-Céligny, Vaud",POSITIVE,9
-"Crassier, Vaud",NEGATIVE,1
-"Cressier/NE,Switzerland",NEGATIVE,8
-"Cressier/NE,Switzerland",POSITIVE,15
+"Crassier, Vaud",POSITIVE,1
+"Cressier/NE,Switzerland",NEGATIVE,6
+"Cressier/NE,Switzerland",POSITIVE,17
 "Crissier, Suisse",NEGATIVE,2
 "Crissier, Suisse",POSITIVE,4
-Cugy,NEGATIVE,2
-Cugy,POSITIVE,3
+Cugy,NEGATIVE,3
+Cugy,POSITIVE,2
 "Cugy, Suisse",POSITIVE,4
 Cuimey,POSITIVE,2
 Cuira,NEGATIVE,3
@@ -802,39 +801,39 @@ Cully,POSITIVE,1
 "Cumbel, Svizra",POSITIVE,1
 "Cunter, Svizra",NEUTRAL,6
 "Cunter, Svizra",POSITIVE,1
-Cyberia,NEGATIVE,15
-Cyberia,POSITIVE,18
-Córdoba/Genève,NEGATIVE,1
-Córdoba/Genève,POSITIVE,2
+Cyberia,NEGATIVE,11
+Cyberia,POSITIVE,22
+Córdoba/Genève,NEGATIVE,2
+Córdoba/Genève,POSITIVE,1
 DJ VIELO,POSITIVE,1
 "DTC, Suisse",NEGATIVE,147
 "DTC, Suisse",NEUTRAL,3
 "DTC, Suisse",POSITIVE,109
 Da détente éternel,NEUTRAL,1
-"Daillens, Vaud",NEGATIVE,20
+"Daillens, Vaud",NEGATIVE,21
 "Daillens, Vaud",NEUTRAL,1
-"Daillens, Vaud",POSITIVE,49
+"Daillens, Vaud",POSITIVE,48
 "Dakar, Senegal",POSITIVE,1
 Dammam,POSITIVE,1
-"Dans la déchettrie, Suisse",NEGATIVE,267
+"Dans la déchettrie, Suisse",NEGATIVE,265
 "Dans la déchettrie, Suisse",NEUTRAL,2
-"Dans la déchettrie, Suisse",POSITIVE,123
+"Dans la déchettrie, Suisse",POSITIVE,125
 Davos,NEUTRAL,1
-"De Pere, WI",NEGATIVE,11
-"De Pere, WI",POSITIVE,2
+"De Pere, WI",NEGATIVE,9
+"De Pere, WI",POSITIVE,4
 Delhi/NCR,POSITIVE,1
-Delémont,NEGATIVE,47
-Delémont,POSITIVE,119
-Delémont Suisse,POSITIVE,1
-"Delémont, Jura",NEGATIVE,70
-"Delémont, Jura",POSITIVE,49
+Delémont,NEGATIVE,54
+Delémont,POSITIVE,112
+Delémont Suisse,NEGATIVE,1
+"Delémont, Jura",NEGATIVE,66
+"Delémont, Jura",POSITIVE,53
 "Delémont, Jura, Suisse",POSITIVE,1
 "Delémont, Jura, Suisse, Europe",NEGATIVE,79
 "Delémont, Jura, Suisse, Europe",POSITIVE,93
 "Delémont, Suisse",NEGATIVE,1
 "Delémont, Suisse",POSITIVE,1
-"Delémont, Switzerland",NEGATIVE,1
-"Delémont, Switzerland",POSITIVE,54
+"Delémont, Switzerland",NEGATIVE,2
+"Delémont, Switzerland",POSITIVE,53
 "Denezy, Switzerland",POSITIVE,3
 "Denver, CO, USA & Geneva, CH",NEGATIVE,1
 Detroit,POSITIVE,1
@@ -850,64 +849,64 @@ Disentis/Mustér,POSITIVE,1
 "Doha, Qatar",POSITIVE,1
 "Dombresson, Neuchâtel",NEGATIVE,2
 "Dombresson, Neuchâtel",POSITIVE,2
-"Domdidier, Suisse",NEGATIVE,18
-"Domdidier, Suisse",POSITIVE,13
+"Domdidier, Suisse",NEGATIVE,19
+"Domdidier, Suisse",POSITIVE,12
 Dorf,NEUTRAL,1
 Dornach,NEGATIVE,1
 Dornach,POSITIVE,3
-Douvaine,POSITIVE,2
+Douvaine,NEGATIVE,1
+Douvaine,POSITIVE,1
 Dubai - Barcelona,POSITIVE,2
 "Duillier, Vaud",POSITIVE,2
 "Dunston, England",POSITIVE,1
-"Dübendorf, Switzerland",NEGATIVE,1
-"Dübendorf, Switzerland",POSITIVE,1
-Düdingen,NEGATIVE,1
-Düdingen,POSITIVE,1
+"Dübendorf, Switzerland",NEGATIVE,2
+Düdingen,NEGATIVE,2
 Dünyalıydi Marsa Tasindi,POSITIVE,1
 EAP,NEGATIVE,1
 "EPFL, Lausanne",POSITIVE,1
-"EPFL, Lausanne, Switzerland",NEGATIVE,2
-"EPFL, Lausanne, Switzerland",POSITIVE,35
-"EST.A, SwitzerLand",NEGATIVE,4
-"EST.A, SwitzerLand",POSITIVE,7
+"EPFL, Lausanne, Switzerland",NEGATIVE,4
+"EPFL, Lausanne, Switzerland",POSITIVE,33
+"EST.A, SwitzerLand",NEGATIVE,7
+"EST.A, SwitzerLand",POSITIVE,4
 "ETH Zurich, Switzerland",NEGATIVE,4
 "ETH Zurich, Switzerland",POSITIVE,8
 East Africa,POSITIVE,1
-Echallens,NEGATIVE,8
+Echallens,NEGATIVE,7
 Echallens,NEUTRAL,1
-Echallens,POSITIVE,21
+Echallens,POSITIVE,22
 "Echandens, Vaud",NEGATIVE,2
-Echichens,POSITIVE,4
-Ecublens,NEGATIVE,147
+Echichens,NEGATIVE,1
+Echichens,POSITIVE,3
+Ecublens,NEGATIVE,145
 Ecublens,NEUTRAL,2
-Ecublens,POSITIVE,154
+Ecublens,POSITIVE,156
 "Ecublens (VD), Suisse",NEGATIVE,7
 "Ecublens (VD), Suisse",POSITIVE,4
-"Ecublens (VD), Vaud",NEGATIVE,6
-"Ecublens (VD), Vaud",POSITIVE,2
-"Ecublens, Suisse",NEGATIVE,1
-"Ecublens, Suisse",POSITIVE,3
-"Ecublens,vevey",NEGATIVE,5
+"Ecublens (VD), Vaud",NEGATIVE,7
+"Ecublens (VD), Vaud",POSITIVE,1
+"Ecublens, Suisse",POSITIVE,4
+"Ecublens,vevey",NEGATIVE,3
+"Ecublens,vevey",POSITIVE,2
 Ecublens/Suisse,POSITIVE,2
 Einsiedeln,POSITIVE,1
 "Einsiedeln, Switzerland",POSITIVE,2
-Elche,POSITIVE,1
+Elche,NEGATIVE,1
 "Embassy of Sweden, Bern",POSITIVE,1
 "En Gruyère, Suisse",NEGATIVE,4
 "En Gruyère, Suisse",POSITIVE,25
-"Engelberg, Obwalden",NEGATIVE,63
+"Engelberg, Obwalden",NEGATIVE,67
 "Engelberg, Obwalden",NEUTRAL,1
-"Engelberg, Obwalden",POSITIVE,35
+"Engelberg, Obwalden",POSITIVE,31
 "Engelberg, Switzerland",POSITIVE,1
 "England, United Kingdom",POSITIVE,1
 Entre tus sábanas. «MNG - MLG»,POSITIVE,1
 "Entremont, Valais",NEGATIVE,2
 "Entremont, Valais",POSITIVE,15
-Epalinges,NEGATIVE,7
-Epalinges,POSITIVE,12
-"Epalinges, Vaud Suisse",POSITIVE,1
-"Epalinges, Vaud, Suisse",NEGATIVE,6
-"Epalinges, Vaud, Suisse",POSITIVE,6
+Epalinges,NEGATIVE,5
+Epalinges,POSITIVE,14
+"Epalinges, Vaud Suisse",NEGATIVE,1
+"Epalinges, Vaud, Suisse",NEGATIVE,2
+"Epalinges, Vaud, Suisse",POSITIVE,10
 "Epalinges, Vaud, Switzerland",POSITIVE,1
 Erlangen,POSITIVE,1
 "Erlinsbach SO, Switzerland",NEGATIVE,1
@@ -916,61 +915,60 @@ Erlangen,POSITIVE,1
 Est de la France - 25,POSITIVE,1
 Estadio do Dragão,NEUTRAL,2
 Estadio do Dragão,POSITIVE,1
-Estavayer-le-Lac,NEGATIVE,23
+Estavayer-le-Lac,NEGATIVE,22
 Estavayer-le-Lac,NEUTRAL,2
-Estavayer-le-Lac,POSITIVE,9
-"Estavayer-le-Lac, Fribourg",NEGATIVE,15
-"Estavayer-le-Lac, Fribourg",POSITIVE,47
+Estavayer-le-Lac,POSITIVE,10
+"Estavayer-le-Lac, Fribourg",NEGATIVE,16
+"Estavayer-le-Lac, Fribourg",POSITIVE,46
 "Estavayer-le-Lac, Suisse #Fr",NEGATIVE,7
 "Estavayer-le-Lac, Suisse #Fr",POSITIVE,2
-"Estavayer-le-Lac, Switzerland",NEGATIVE,115
-"Estavayer-le-Lac, Switzerland",POSITIVE,219
-"Estavayer-le-lac, Suisse",NEGATIVE,11
+"Estavayer-le-Lac, Switzerland",NEGATIVE,117
+"Estavayer-le-Lac, Switzerland",POSITIVE,217
+"Estavayer-le-lac, Suisse",NEGATIVE,15
 "Estavayer-le-lac, Suisse",NEUTRAL,2
-"Estavayer-le-lac, Suisse",POSITIVE,35
+"Estavayer-le-lac, Suisse",POSITIVE,31
 "Estavayer-le-lac, Switzerland",POSITIVE,4
-"Etagnières, Switzerland",NEGATIVE,1
-"Etagnières, Switzerland",POSITIVE,4
+"Etagnières, Switzerland",POSITIVE,5
 "Etagnières, Vaud, Switzerland",NEGATIVE,1
 "Etagnières, Vaud, Switzerland",POSITIVE,2
-Europe,NEGATIVE,1
-Europe,POSITIVE,7
+Europe,NEGATIVE,3
+Europe,POSITIVE,5
 "Europe North, Switzerland",NEGATIVE,1
 "Europe, Switzerland, Canada",NEGATIVE,1
 "Europe, Switzerland, Canada",POSITIVE,3
-Everywhere,NEGATIVE,7
-Everywhere,POSITIVE,15
+Everywhere,NEGATIVE,5
+Everywhere,POSITIVE,17
 "Everywhere (Run,Fra,Sui)",POSITIVE,1
 Evian-les-Bains,NEGATIVE,1
 Evian-les-Bains,POSITIVE,4
-"Evolène, Suisse",NEGATIVE,1
-"Evolène, Suisse",POSITIVE,10
-"Evolène, Valais",NEGATIVE,6
-"Evolène, Valais",POSITIVE,4
+"Evolène, Suisse",POSITIVE,11
+"Evolène, Valais",NEGATIVE,7
+"Evolène, Valais",POSITIVE,3
 "Evreux, France",NEGATIVE,1
 "Evreux, France",POSITIVE,1
-"Eysins, Suisse",NEGATIVE,19
-"Eysins, Suisse",POSITIVE,50
+"Eysins, Suisse",NEGATIVE,21
+"Eysins, Suisse",POSITIVE,48
 "Eysins-VD / Saxon-VS, CH",POSITIVE,1
 F-90999 Belfort-Montbéliard,NEGATIVE,1
 F-90999 Belfort-Montbéliard,POSITIVE,1
-FD Design,POSITIVE,1
+FD Design,NEGATIVE,1
 "FR, ES, AR, CH",POSITIVE,5
 FRANCE,POSITIVE,1
 "Falkenstrasse 11, Zürich",POSITIVE,1
-"Faoug, Vaud",NEGATIVE,86
+"Faoug, Vaud",NEGATIVE,81
 "Faoug, Vaud",NEUTRAL,1
-"Faoug, Vaud",POSITIVE,63
+"Faoug, Vaud",POSITIVE,68
 Faubourg de Lutèce,POSITIVE,1
-Fauvillers Ardennes - Lux-BE,NEGATIVE,5
-Fauvillers Ardennes - Lux-BE,POSITIVE,3
-Faverges France Haute Savoie,NEGATIVE,5
-Faverges France Haute Savoie,POSITIVE,8
-"Felsberg, Schweiz",POSITIVE,6
+Fauvillers Ardennes - Lux-BE,NEGATIVE,3
+Fauvillers Ardennes - Lux-BE,POSITIVE,5
+Faverges France Haute Savoie,NEGATIVE,7
+Faverges France Haute Savoie,POSITIVE,6
+"Felsberg, Schweiz",NEGATIVE,1
+"Felsberg, Schweiz",POSITIVE,5
 "Fenin, Switzerland",POSITIVE,1
 Ferney-Voltaire,POSITIVE,1
 "Ferney-Voltaire, France",POSITIVE,1
-"Ferney-Voltaire, Rhône-Alpes",POSITIVE,1
+"Ferney-Voltaire, Rhône-Alpes",NEGATIVE,1
 "Field, court, diamond.",POSITIVE,1
 Flamatt,POSITIVE,4
 Flawil,NEGATIVE,1
@@ -978,14 +976,16 @@ Flawil,POSITIVE,1
 Fontainemelon,NEGATIVE,1
 Fontainemelon,POSITIVE,2
 "Fontainemelon, Neuchâtel",POSITIVE,1
-"Forel VD, Switzerland",POSITIVE,3
+"Forel VD, Switzerland",NEGATIVE,1
+"Forel VD, Switzerland",POSITIVE,2
 "Fort Myers, Florida",POSITIVE,2
-France,NEGATIVE,14
-France,POSITIVE,24
+France,NEGATIVE,18
+France,POSITIVE,20
 France #AURA Hte-Savoie Thonon,NEGATIVE,1
 France #AURA Hte-Savoie Thonon,POSITIVE,1
 France ; Polska ; Italia,POSITIVE,1
-France Var,NEGATIVE,2
+France Var,NEGATIVE,1
+France Var,POSITIVE,1
 France | Albanie,NEGATIVE,1
 "France, Annecy",NEGATIVE,2
 "France, Annecy",POSITIVE,1
@@ -996,24 +996,24 @@ France/Suisse,POSITIVE,1
 Fraser Coast Queensland,POSITIVE,1
 Frauenfeld,NEGATIVE,1
 Frauenfeld,POSITIVE,3
-"Frauenkappelen, Schweiz",NEGATIVE,6
-"Frauenkappelen, Schweiz",POSITIVE,3
+"Frauenkappelen, Schweiz",NEGATIVE,7
+"Frauenkappelen, Schweiz",POSITIVE,2
 "Freaktal, Schweiz",POSITIVE,1
 "Frecher Geist weht, wo er will",POSITIVE,1
-Freiburg / Fribourg,NEGATIVE,1
-"Freiburg, Schweiz",NEGATIVE,41
-"Freiburg, Schweiz",POSITIVE,68
-Fribourg,NEGATIVE,286
+Freiburg / Fribourg,POSITIVE,1
+"Freiburg, Schweiz",NEGATIVE,39
+"Freiburg, Schweiz",POSITIVE,70
+Fribourg,NEGATIVE,304
 Fribourg,NEUTRAL,3
-Fribourg,POSITIVE,621
+Fribourg,POSITIVE,603
 Fribourg (Suisse),NEGATIVE,1
 Fribourg (Suisse),POSITIVE,5
-Fribourg - Milano - Napoli,NEGATIVE,9
-Fribourg - Milano - Napoli,POSITIVE,10
-Fribourg - Rte de Villars 37,NEGATIVE,2
-Fribourg - Rte de Villars 37,POSITIVE,8
-"Fribourg / Lausanne, Suisse",NEGATIVE,2
-"Fribourg / Lausanne, Suisse",POSITIVE,11
+Fribourg - Milano - Napoli,NEGATIVE,10
+Fribourg - Milano - Napoli,POSITIVE,9
+Fribourg - Rte de Villars 37,NEGATIVE,3
+Fribourg - Rte de Villars 37,POSITIVE,7
+"Fribourg / Lausanne, Suisse",NEGATIVE,3
+"Fribourg / Lausanne, Suisse",POSITIVE,10
 Fribourg Switzerland,POSITIVE,2
 Fribourg ocds,NEGATIVE,1
 Fribourg ocds,POSITIVE,1
@@ -1023,99 +1023,99 @@ Fribourg ocds,POSITIVE,1
 "Fribourg, CH",POSITIVE,43
 "Fribourg, CH | Istanbul, TR",NEGATIVE,1
 "Fribourg, CH | Istanbul, TR",POSITIVE,3
-"Fribourg, CH | Türkiye 24",NEGATIVE,107
+"Fribourg, CH | Türkiye 24",NEGATIVE,102
 "Fribourg, CH | Türkiye 24",NEUTRAL,1
-"Fribourg, CH | Türkiye 24",POSITIVE,24
+"Fribourg, CH | Türkiye 24",POSITIVE,29
 "Fribourg, Lausanne",NEGATIVE,1
-"Fribourg, Suisse",NEGATIVE,1326
+"Fribourg, Suisse",NEGATIVE,1302
 "Fribourg, Suisse",NEUTRAL,18
-"Fribourg, Suisse",POSITIVE,1186
-"Fribourg, Suisse.",NEGATIVE,2
-"Fribourg, Suisse.",POSITIVE,10
-"Fribourg, Switzerland",NEGATIVE,486
+"Fribourg, Suisse",POSITIVE,1210
+"Fribourg, Suisse.",NEGATIVE,3
+"Fribourg, Suisse.",POSITIVE,9
+"Fribourg, Switzerland",NEGATIVE,510
 "Fribourg, Switzerland",NEUTRAL,12
-"Fribourg, Switzerland",POSITIVE,389
+"Fribourg, Switzerland",POSITIVE,365
 "Fribourg, ch /Holborn, London",NEGATIVE,1
 "Fribourg, de toutes nos forces",NEGATIVE,1
 "Fribourg, de toutes nos forces",POSITIVE,2
-"Fribourg/Freiburg, Suisse",NEGATIVE,49
+"Fribourg/Freiburg, Suisse",NEGATIVE,57
 "Fribourg/Freiburg, Suisse",NEUTRAL,3
-"Fribourg/Freiburg, Suisse",POSITIVE,55
-"Fribourg/Freiburg, Switzerland",NEGATIVE,9
+"Fribourg/Freiburg, Suisse",POSITIVE,47
+"Fribourg/Freiburg, Switzerland",NEGATIVE,18
 "Fribourg/Freiburg, Switzerland",NEUTRAL,1
-"Fribourg/Freiburg, Switzerland",POSITIVE,67
+"Fribourg/Freiburg, Switzerland",POSITIVE,58
 "Fribroug/Genève, Suisse",NEGATIVE,1
 "Fribroug/Genève, Suisse",POSITIVE,5
-"Friburg, Switzerland",NEGATIVE,140
+"Friburg, Switzerland",NEGATIVE,152
 "Friburg, Switzerland",NEUTRAL,2
-"Friburg, Switzerland",POSITIVE,200
+"Friburg, Switzerland",POSITIVE,188
 "Friburgo, Suíça",POSITIVE,1
-Froideville,POSITIVE,15
+Froideville,NEGATIVE,1
+Froideville,POSITIVE,14
 "Froideville, Suisse",NEGATIVE,1
 "Froideville, Vaud",POSITIVE,2
 Frutigen,POSITIVE,1
 Fréjus,POSITIVE,1
-Fully,NEGATIVE,30
+Fully,NEGATIVE,25
 Fully,NEUTRAL,1
-Fully,POSITIVE,27
-"Fully, Suisse",NEGATIVE,33
+Fully,POSITIVE,32
+"Fully, Suisse",NEGATIVE,29
 "Fully, Suisse",NEUTRAL,2
-"Fully, Suisse",POSITIVE,57
+"Fully, Suisse",POSITIVE,61
 "Fully, Switzerland",NEGATIVE,1
 "Fully, Switzerland",POSITIVE,5
-"Fully, Valais",NEGATIVE,3
+"Fully, Valais",NEGATIVE,4
 "Fully, Valais",NEUTRAL,1
-"Fully, Valais",POSITIVE,3
+"Fully, Valais",POSITIVE,2
 "Fägswil, Switzerland",POSITIVE,2
-"GE, Suisse",NEGATIVE,36
-"GE, Suisse",POSITIVE,7
-GENEVA,NEGATIVE,66
-GENEVA,POSITIVE,86
+"GE, Suisse",NEGATIVE,38
+"GE, Suisse",POSITIVE,5
+GENEVA,NEGATIVE,71
+GENEVA,POSITIVE,81
 "GENEVA, Switzerland",NEGATIVE,2
 "GENEVA, Switzerland",POSITIVE,4
-GENEVE,NEGATIVE,85
+GENEVE,NEGATIVE,90
 GENEVE,NEUTRAL,1
-GENEVE,POSITIVE,111
+GENEVE,POSITIVE,106
 GENF CITY,POSITIVE,1
-GENÈVE,NEGATIVE,2
-GENÈVE,POSITIVE,20
+GENÈVE,NEGATIVE,3
+GENÈVE,POSITIVE,19
 GENèVE,NEGATIVE,1
 GENèVE,POSITIVE,4
 GINEBRA / MADRID,NEGATIVE,7
 GINEBRA / MADRID,POSITIVE,3
 GL,NEGATIVE,1
 GL,POSITIVE,1
-GNV,NEGATIVE,35
-GNV,POSITIVE,10
-GVA,NEGATIVE,191
+GNV,NEGATIVE,33
+GNV,POSITIVE,12
+GVA,NEGATIVE,179
 GVA,NEUTRAL,2
-GVA,POSITIVE,88
+GVA,POSITIVE,100
 "GVA, Switzerland",POSITIVE,1
 Gais,POSITIVE,1
 Gate E,POSITIVE,1
-"Gebiet ohne Netzabdeckung, SH",NEGATIVE,2
+"Gebiet ohne Netzabdeckung, SH",NEGATIVE,3
 "Gebiet ohne Netzabdeckung, SH",NEUTRAL,1
-"Gebiet ohne Netzabdeckung, SH",POSITIVE,3
+"Gebiet ohne Netzabdeckung, SH",POSITIVE,2
 GeneVa,NEGATIVE,1
 Genebra,NEUTRAL,1
 Genebra,POSITIVE,4
 "Genebra,Suiça- Genève, Suisse.",POSITIVE,2
-Geneva,NEGATIVE,3500
+Geneva,NEGATIVE,3511
 Geneva,NEUTRAL,50
-Geneva,POSITIVE,3440
-"Geneva & Lausanne, Switzerland",NEGATIVE,2
-"Geneva & Lausanne, Switzerland",POSITIVE,1
+Geneva,POSITIVE,3429
+"Geneva & Lausanne, Switzerland",NEGATIVE,3
 Geneva & elsewhere…,NEGATIVE,5
 Geneva & elsewhere…,POSITIVE,6
-Geneva + watchmaking planet,NEGATIVE,8
-Geneva + watchmaking planet,POSITIVE,15
-"Geneva , Switzerland",NEGATIVE,25
-"Geneva , Switzerland",POSITIVE,19
+Geneva + watchmaking planet,NEGATIVE,7
+Geneva + watchmaking planet,POSITIVE,16
+"Geneva , Switzerland",NEGATIVE,27
+"Geneva , Switzerland",POSITIVE,17
 Geneva - CH,POSITIVE,2
 "Geneva - Lausanne, Switzerland",POSITIVE,5
-Geneva - Switzerland,NEGATIVE,5
+Geneva - Switzerland,NEGATIVE,4
 Geneva - Switzerland,NEUTRAL,1
-Geneva - Switzerland,POSITIVE,6
+Geneva - Switzerland,POSITIVE,7
 Geneva - Tokyo,POSITIVE,1
 "Geneva - Zurich, Switzerland",NEGATIVE,1
 "Geneva - Zurich, Switzerland",POSITIVE,2
@@ -1124,9 +1124,9 @@ Geneva / Chambéry / Paris,POSITIVE,4
 Geneva / Switzerland,POSITIVE,5
 "Geneva Area, Switzerland",NEGATIVE,6
 "Geneva Area, Switzerland",POSITIVE,5
-Geneva City,NEGATIVE,14
+Geneva City,NEGATIVE,12
 Geneva City,NEUTRAL,1
-Geneva City,POSITIVE,2
+Geneva City,POSITIVE,4
 "Geneva City, Switzerland",NEGATIVE,1
 "Geneva City, Switzerland",POSITIVE,2
 Geneva Switzerland,POSITIVE,1
@@ -1136,16 +1136,17 @@ Geneva | Paris,NEGATIVE,1
 "Geneva, Baghdad, Monastir",POSITIVE,12
 "Geneva, Beirut, Sana'a",NEGATIVE,2
 "Geneva, Beirut, Sana'a",POSITIVE,3
-"Geneva, CH",NEGATIVE,130
+"Geneva, CH",NEGATIVE,134
 "Geneva, CH",NEUTRAL,1
-"Geneva, CH",POSITIVE,62
+"Geneva, CH",POSITIVE,58
 "Geneva, CH & Montréal, Canada",NEGATIVE,5
 "Geneva, CH & Montréal, Canada",POSITIVE,5
-"Geneva, CH // Rio Maior, PT",NEGATIVE,10
-"Geneva, CH // Rio Maior, PT",POSITIVE,4
+"Geneva, CH // Rio Maior, PT",NEGATIVE,9
+"Geneva, CH // Rio Maior, PT",POSITIVE,5
 "Geneva, Dubai, Abu Dhabi.",POSITIVE,2
 "Geneva, Geneva, Switzerland",POSITIVE,1
-"Geneva, Genf, Switzerland",POSITIVE,2
+"Geneva, Genf, Switzerland",NEGATIVE,1
+"Geneva, Genf, Switzerland",POSITIVE,1
 "Geneva, HK, Philadelphia, KWSK",POSITIVE,3
 "Geneva, Hong-Kong & Paris",POSITIVE,3
 "Geneva, Lausanne",NEGATIVE,1
@@ -1153,14 +1154,14 @@ Geneva | Paris,NEGATIVE,1
 "Geneva, London",POSITIVE,2
 "Geneva, London, Lyon...",NEGATIVE,2
 "Geneva, London, Lyon...",POSITIVE,2
-"Geneva, London, Monaco",POSITIVE,1
+"Geneva, London, Monaco",NEGATIVE,1
 "Geneva, London, Paris",POSITIVE,3
-"Geneva, London, global",POSITIVE,3
+"Geneva, London, global",NEGATIVE,3
 "Geneva, Montreal, Lyon",NEGATIVE,1
 "Geneva, Montreal, Lyon",POSITIVE,1
 "Geneva, Neb",NEUTRAL,1
-"Geneva, New York City",NEGATIVE,2
-"Geneva, New York City",POSITIVE,4
+"Geneva, New York City",NEGATIVE,1
+"Geneva, New York City",POSITIVE,5
 "Geneva, Palexpo, Switzerland",NEGATIVE,1
 "Geneva, Palexpo, Switzerland",POSITIVE,12
 "Geneva, Paris",NEGATIVE,5
@@ -1173,202 +1174,203 @@ Geneva | Paris,NEGATIVE,1
 "Geneva, Shanghai, NYC, Paris",POSITIVE,1
 "Geneva, Switerzland",POSITIVE,1
 "Geneva, Switsrland",POSITIVE,1
-"Geneva, Switzerland",NEGATIVE,9541
+"Geneva, Switzerland",NEGATIVE,9453
 "Geneva, Switzerland",NEUTRAL,145
-"Geneva, Switzerland",POSITIVE,19984
+"Geneva, Switzerland",POSITIVE,20072
 "Geneva, Switzerland CH",NEGATIVE,12
 "Geneva, Switzerland CH",POSITIVE,6
 "Geneva, Switzerland via NY/NJ",POSITIVE,1
 "Geneva, Switzerland via Wales",NEGATIVE,1
 "Geneva, Switzerland ❤️",NEGATIVE,1
-"Geneva, Switzerland.",NEGATIVE,11
-"Geneva, Switzerland.",POSITIVE,8
+"Geneva, Switzerland.",NEGATIVE,10
+"Geneva, Switzerland.",POSITIVE,9
 "Geneva, UN",POSITIVE,1
 "Geneva, Varna",NEGATIVE,1
 "Geneva, roaming",POSITIVE,2
-"Geneva, switzerland",NEGATIVE,62
-"Geneva, switzerland",POSITIVE,30
+"Geneva, switzerland",NEGATIVE,59
+"Geneva, switzerland",POSITIVE,33
 "Geneva, the world",NEGATIVE,1
-"Geneva,Confederation Helvetica",NEGATIVE,3
-"Geneva,Confederation Helvetica",POSITIVE,2
+"Geneva,Confederation Helvetica",NEGATIVE,2
+"Geneva,Confederation Helvetica",POSITIVE,3
 "Geneva,Ohio. 44041",POSITIVE,1
-"Geneva,Switzerland",NEGATIVE,53
-"Geneva,Switzerland",POSITIVE,668
+"Geneva,Switzerland",NEGATIVE,85
+"Geneva,Switzerland",POSITIVE,636
 "Geneva-Zurich, Switzerland",POSITIVE,5
 "Geneva/Lausanne, Switzerland",POSITIVE,1
 "Geneva/Zurich, Switzerland",NEGATIVE,1
 "Geneva/Zurich, Switzerland",POSITIVE,22
-Geneve,NEGATIVE,568
+Geneve,NEGATIVE,581
 Geneve,NEUTRAL,3
-Geneve,POSITIVE,351
-"Geneve , Suisse",NEGATIVE,13
-"Geneve , Suisse",POSITIVE,2
+Geneve,POSITIVE,338
+"Geneve , Suisse",NEGATIVE,12
+"Geneve , Suisse",POSITIVE,3
 Geneve / Kumanov,NEGATIVE,13
 Geneve / WashingtonDC,NEGATIVE,1
 Geneve / WashingtonDC,POSITIVE,1
 Geneve Swiss,POSITIVE,3
 "Geneve, Annecy, Paris",POSITIVE,1
-"Geneve, CH",NEGATIVE,62
+"Geneve, CH",NEGATIVE,64
 "Geneve, CH",NEUTRAL,1
-"Geneve, CH",POSITIVE,23
+"Geneve, CH",POSITIVE,21
 "Geneve, Europe",POSITIVE,1
 "Geneve, Lyon",POSITIVE,1
-"Geneve, Nice, Lyon",NEGATIVE,20
-"Geneve, Nice, Lyon",POSITIVE,20
+"Geneve, Nice, Lyon",NEGATIVE,18
+"Geneve, Nice, Lyon",POSITIVE,22
 "Geneve, Suisse",NEGATIVE,38
 "Geneve, Suisse",POSITIVE,18
-"Geneve, Switzerland",NEGATIVE,77
+"Geneve, Switzerland",NEGATIVE,69
 "Geneve, Switzerland",NEUTRAL,1
-"Geneve, Switzerland",POSITIVE,94
+"Geneve, Switzerland",POSITIVE,102
 "Geneve, Zwitserland.",POSITIVE,1
-Genf,NEGATIVE,24
+Genf,NEGATIVE,28
 Genf,NEUTRAL,1
-Genf,POSITIVE,95
+Genf,POSITIVE,91
 "Genf, Schweiz",POSITIVE,9
-"Genolier, Suisse",NEGATIVE,1
-Genève,NEGATIVE,15411
+"Genolier, Suisse",POSITIVE,1
+Genève,NEGATIVE,15538
 Genève,NEUTRAL,179
-Genève,POSITIVE,14978
-Genève (CH) - Ferizaj (KS),NEGATIVE,85
+Genève,POSITIVE,14851
+Genève (CH) - Ferizaj (KS),NEGATIVE,89
 Genève (CH) - Ferizaj (KS),NEUTRAL,1
-Genève (CH) - Ferizaj (KS),POSITIVE,41
-Genève (Geneva - Switzerland),POSITIVE,3
+Genève (CH) - Ferizaj (KS),POSITIVE,37
+Genève (Geneva - Switzerland),NEGATIVE,1
+Genève (Geneva - Switzerland),POSITIVE,2
 Genève (Suisse),POSITIVE,3
 "Genève (Suisse, Switzerland)",NEGATIVE,1
 "Genève (Suisse, Switzerland)",POSITIVE,1
 "Genève , Paris",NEGATIVE,6
 "Genève , Paris",POSITIVE,12
-"Genève , Suisse",NEGATIVE,78
+"Genève , Suisse",NEGATIVE,79
 "Genève , Suisse",NEUTRAL,1
-"Genève , Suisse",POSITIVE,52
-"Genève , Thonex",NEGATIVE,6
+"Genève , Suisse",POSITIVE,51
+"Genève , Thonex",NEGATIVE,7
 "Genève , Thonex",NEUTRAL,1
-"Genève , Thonex",POSITIVE,12
+"Genève , Thonex",POSITIVE,11
 "Genève , Thônex",NEGATIVE,15
 "Genève , Thônex",POSITIVE,6
 Genève - Lausanne,POSITIVE,2
-Genève - Lausanne - Zürich,POSITIVE,6
+Genève - Lausanne - Zürich,NEGATIVE,1
+Genève - Lausanne - Zürich,POSITIVE,5
 Genève - Marseille,POSITIVE,1
-Genève - Paris - London,NEGATIVE,2
-Genève - Paris - London,POSITIVE,8
+Genève - Paris - London,NEGATIVE,3
+Genève - Paris - London,POSITIVE,7
 Genève - Paris - StJean de Luz,NEGATIVE,1
 Genève - Paris - StJean de Luz,POSITIVE,2
-Genève - Portugal,NEGATIVE,105
+Genève - Portugal,NEGATIVE,106
 Genève - Portugal,NEUTRAL,1
-Genève - Portugal,POSITIVE,34
-Genève - Suisse,NEGATIVE,15
-Genève - Suisse,POSITIVE,42
+Genève - Portugal,POSITIVE,33
+Genève - Suisse,NEGATIVE,17
+Genève - Suisse,POSITIVE,40
 Genève - Suisse - switzerland,POSITIVE,3
-"Genève / Geneva, CH",POSITIVE,5
-Genève / Gjilan,NEGATIVE,6
-Genève / Gjilan,POSITIVE,1
-Genève / Suisse,NEGATIVE,3
-Genève / Suisse,POSITIVE,5
+"Genève / Geneva, CH",NEGATIVE,1
+"Genève / Geneva, CH",POSITIVE,4
+Genève / Gjilan,NEGATIVE,7
+Genève / Suisse,NEGATIVE,4
+Genève / Suisse,POSITIVE,4
 "Genève GE, Suisse",POSITIVE,1
-Genève Lausanne Bâle Lyon,POSITIVE,1
-Genève Suisse,NEGATIVE,26
-Genève Suisse,POSITIVE,33
-Genève et Haute Savoie,NEGATIVE,6
-Genève et Haute Savoie,POSITIVE,17
-"Genève et Lausanne, Suisse",NEGATIVE,400
-"Genève et Lausanne, Suisse",POSITIVE,852
+Genève Lausanne Bâle Lyon,NEGATIVE,1
+Genève Suisse,NEGATIVE,27
+Genève Suisse,POSITIVE,32
+Genève et Haute Savoie,NEGATIVE,4
+Genève et Haute Savoie,POSITIVE,19
+"Genève et Lausanne, Suisse",NEGATIVE,463
+"Genève et Lausanne, Suisse",POSITIVE,789
 Genève et Sion,POSITIVE,1
 Genève | Haute Savoie,POSITIVE,1
 Genève ㄺ \\ FC VYR ⚽ N°10,NEGATIVE,2
 Genève ㄺ \\ FC VYR ⚽ N°10,POSITIVE,3
-"Genève, Bosna",NEGATIVE,55
-"Genève, Bosna",POSITIVE,16
-"Genève, CFPAA",NEGATIVE,76
+"Genève, Bosna",NEGATIVE,50
+"Genève, Bosna",POSITIVE,21
+"Genève, CFPAA",NEGATIVE,72
 "Genève, CFPAA",NEUTRAL,1
-"Genève, CFPAA",POSITIVE,55
-"Genève, CH",NEGATIVE,11
-"Genève, CH",POSITIVE,18
-"Genève, CH / Manchester, UK",NEGATIVE,16
-"Genève, CH / Manchester, UK",POSITIVE,24
+"Genève, CFPAA",POSITIVE,59
+"Genève, CH",NEGATIVE,7
+"Genève, CH",POSITIVE,22
+"Genève, CH / Manchester, UK",NEGATIVE,19
+"Genève, CH / Manchester, UK",POSITIVE,21
 "Genève, Carouge",NEGATIVE,1
 "Genève, Carouge",POSITIVE,8
-"Genève, Kenya",NEGATIVE,60
+"Genève, Kenya",NEGATIVE,61
 "Genève, Kenya",NEUTRAL,1
-"Genève, Kenya",POSITIVE,29
-"Genève, Kosovo",NEGATIVE,48
+"Genève, Kenya",POSITIVE,28
+"Genève, Kosovo",NEGATIVE,46
 "Genève, Kosovo",NEUTRAL,1
-"Genève, Kosovo",POSITIVE,16
-"Genève, Lausanne",NEGATIVE,20
-"Genève, Lausanne",POSITIVE,86
+"Genève, Kosovo",POSITIVE,18
+"Genève, Lausanne",NEGATIVE,22
+"Genève, Lausanne",POSITIVE,84
 "Genève, Lausanne, Fribourg,",NEGATIVE,2
 "Genève, Lausanne, Fribourg,",POSITIVE,4
-"Genève, Lausanne, Suisse",NEGATIVE,5
-"Genève, Lausanne, Suisse",POSITIVE,5
-"Genève, Lecce",NEGATIVE,17
-"Genève, Lecce",POSITIVE,11
-"Genève, Lyon, Paris",NEGATIVE,33
-"Genève, Lyon, Paris",POSITIVE,54
+"Genève, Lausanne, Suisse",NEGATIVE,6
+"Genève, Lausanne, Suisse",POSITIVE,4
+"Genève, Lecce",NEGATIVE,18
+"Genève, Lecce",POSITIVE,10
+"Genève, Lyon, Paris",NEGATIVE,34
+"Genève, Lyon, Paris",POSITIVE,53
 "Genève, Lyon, Paris, St-Tropez",NEGATIVE,5
 "Genève, Lyon, Paris, St-Tropez",POSITIVE,5
-"Genève, Marseille",NEGATIVE,4
-"Genève, Marseille",POSITIVE,1
+"Genève, Marseille",NEGATIVE,3
+"Genève, Marseille",POSITIVE,2
 "Genève, Nyon et Aubonne",POSITIVE,3
-"Genève, Onex",NEGATIVE,10
-"Genève, Onex",POSITIVE,1
-"Genève, Paris",NEGATIVE,22
-"Genève, Paris",POSITIVE,31
-"Genève, Paris, Lyon",NEGATIVE,66
-"Genève, Paris, Lyon",POSITIVE,38
+"Genève, Onex",NEGATIVE,9
+"Genève, Onex",POSITIVE,2
+"Genève, Paris",NEGATIVE,27
+"Genève, Paris",POSITIVE,26
+"Genève, Paris, Lyon",NEGATIVE,60
+"Genève, Paris, Lyon",POSITIVE,44
 "Genève, Paris, Nantes",NEUTRAL,1
 "Genève, Paris, Nantes",POSITIVE,2
-"Genève, PdG & Lyon",NEGATIVE,431
+"Genève, PdG & Lyon",NEGATIVE,397
 "Genève, PdG & Lyon",NEUTRAL,4
-"Genève, PdG & Lyon",POSITIVE,239
+"Genève, PdG & Lyon",POSITIVE,273
 "Genève, Plan-les-Ouates",NEGATIVE,118
 "Genève, Plan-les-Ouates",NEUTRAL,6
 "Genève, Plan-les-Ouates",POSITIVE,30
-"Genève, Porto",NEGATIVE,207
+"Genève, Porto",NEGATIVE,196
 "Genève, Porto",NEUTRAL,1
-"Genève, Porto",POSITIVE,45
-"Genève, Portugal",NEGATIVE,32
-"Genève, Portugal",POSITIVE,5
+"Genève, Porto",POSITIVE,56
+"Genève, Portugal",NEGATIVE,31
+"Genève, Portugal",POSITIVE,6
 "Genève, Schweiz",NEGATIVE,2
 "Genève, Schweiz",POSITIVE,2
-"Genève, Suisse",NEGATIVE,20889
+"Genève, Suisse",NEGATIVE,20998
 "Genève, Suisse",NEUTRAL,253
-"Genève, Suisse",POSITIVE,13224
+"Genève, Suisse",POSITIVE,13115
 "Genève, Suisse - Amsterdam, NL",POSITIVE,3
-"Genève, Suisse - Baghdad, Iraq",NEGATIVE,241
+"Genève, Suisse - Baghdad, Iraq",NEGATIVE,222
 "Genève, Suisse - Baghdad, Iraq",NEUTRAL,5
-"Genève, Suisse - Baghdad, Iraq",POSITIVE,68
-"Genève, Suisse - Italie",NEGATIVE,6
-"Genève, Suisse - Italie",POSITIVE,7
+"Genève, Suisse - Baghdad, Iraq",POSITIVE,87
+"Genève, Suisse - Italie",NEGATIVE,9
+"Genève, Suisse - Italie",POSITIVE,4
 "Genève, Suisse - Singapore",NEGATIVE,1
 "Genève, Suisse - Singapore",POSITIVE,6
-"Genève, Suisse / Paris, France",NEGATIVE,21
-"Genève, Suisse / Paris, France",POSITIVE,58
-"Genève, Suisse / Portugal",NEGATIVE,1
-"Genève, Suisse / Portugal",POSITIVE,1
-"Genève, Suisse / sismondi",NEGATIVE,49
+"Genève, Suisse / Paris, France",NEGATIVE,22
+"Genève, Suisse / Paris, France",POSITIVE,57
+"Genève, Suisse / Portugal",NEGATIVE,2
+"Genève, Suisse / sismondi",NEGATIVE,50
 "Genève, Suisse / sismondi",NEUTRAL,2
-"Genève, Suisse / sismondi",POSITIVE,13
-"Genève, Suisse 1201",NEGATIVE,32
+"Genève, Suisse / sismondi",POSITIVE,12
+"Genève, Suisse 1201",NEGATIVE,29
 "Genève, Suisse 1201",NEUTRAL,1
-"Genève, Suisse 1201",POSITIVE,20
+"Genève, Suisse 1201",POSITIVE,23
 "Genève, Suisse 19eme",NEGATIVE,4
 "Genève, Suisse 19eme",POSITIVE,6
-"Genève, Suisse Egypte",NEGATIVE,107
+"Genève, Suisse Egypte",NEGATIVE,104
 "Genève, Suisse Egypte",NEUTRAL,1
-"Genève, Suisse Egypte",POSITIVE,21
+"Genève, Suisse Egypte",POSITIVE,24
 "Genève, Suisse Moroccangirl",NEGATIVE,5
 "Genève, Suisse Moroccangirl",POSITIVE,1
 "Genève, Suisse romande",POSITIVE,1
-"Genève, Suisse | Bahia, Brasil",NEGATIVE,110
-"Genève, Suisse | Bahia, Brasil",POSITIVE,75
+"Genève, Suisse | Bahia, Brasil",NEGATIVE,112
+"Genève, Suisse | Bahia, Brasil",POSITIVE,73
 "Genève, Suisse.",NEGATIVE,122
 "Genève, Suisse.",NEUTRAL,6
 "Genève, Suisse.",POSITIVE,46
-"Genève, Suisse/",NEGATIVE,57
+"Genève, Suisse/",NEGATIVE,61
 "Genève, Suisse/",NEUTRAL,2
-"Genève, Suisse/",POSITIVE,15
-"Genève, Switzerland",NEGATIVE,207
+"Genève, Suisse/",POSITIVE,11
+"Genève, Switzerland",NEGATIVE,204
 "Genève, Switzerland",NEUTRAL,4
-"Genève, Switzerland",POSITIVE,208
+"Genève, Switzerland",POSITIVE,211
 "Genève, Tunisie",NEGATIVE,54
 "Genève, Tunisie",NEUTRAL,1
 "Genève, Tunisie",POSITIVE,13
@@ -1378,18 +1380,18 @@ Genève ㄺ \\ FC VYR ⚽ N°10,POSITIVE,3
 "Genève, Zurich",POSITIVE,1
 "Genève, côté français",POSITIVE,2
 "Genève, en Suisse",POSITIVE,1
-"Genève, et Paris, TX",NEGATIVE,2
-"Genève, et Paris, TX",POSITIVE,9
+"Genève, et Paris, TX",NEGATIVE,1
+"Genève, et Paris, TX",POSITIVE,10
 "Genève, hôtel Bristol",POSITIVE,1
-"Genève, lausanne, Annecy, Gex",NEGATIVE,211
-"Genève, lausanne, Annecy, Gex",POSITIVE,419
+"Genève, lausanne, Annecy, Gex",NEGATIVE,256
+"Genève, lausanne, Annecy, Gex",POSITIVE,374
 "Genève, tunis",NEGATIVE,41
 "Genève, tunis",NEUTRAL,1
 "Genève, tunis",POSITIVE,6
 "Genève,- Rdc, Angola",NEGATIVE,6
 "Genève,- Rdc, Angola",POSITIVE,1
-"Genève,CH",NEGATIVE,22
-"Genève,CH",POSITIVE,21
+"Genève,CH",NEGATIVE,27
+"Genève,CH",POSITIVE,16
 "Genève,Paris",POSITIVE,4
 "Genève,Suisse",NEGATIVE,16
 "Genève,Suisse",POSITIVE,13
@@ -1398,45 +1400,46 @@ Genève ㄺ \\ FC VYR ⚽ N°10,POSITIVE,3
 "Genève,Suisse;Sciez,France",NEGATIVE,1
 "Genève,Suisse;Sciez,France",POSITIVE,15
 "Genève,Zürich .",NEGATIVE,3
-"Genève-Geneva, Switzerland",NEGATIVE,1
-"Genève-Geneva, Switzerland",POSITIVE,3
+"Genève-Geneva, Switzerland",NEGATIVE,2
+"Genève-Geneva, Switzerland",POSITIVE,2
 Genève-Lausanne,NEGATIVE,2
 Genève-Lausanne,POSITIVE,6
 Genève.,NEGATIVE,1
 Genève.,POSITIVE,2
-"Genève/Fribourg/Zurich, Suisse",NEGATIVE,25
-"Genève/Fribourg/Zurich, Suisse",POSITIVE,46
+"Genève/Fribourg/Zurich, Suisse",NEGATIVE,22
+"Genève/Fribourg/Zurich, Suisse",POSITIVE,49
 Genève/Geneva,POSITIVE,2
-Genève/Istog,NEGATIVE,3
-"Genébra, Suíça",POSITIVE,1
+Genève/Istog,NEGATIVE,2
+Genève/Istog,POSITIVE,1
+"Genébra, Suíça",NEGATIVE,1
 Germany,POSITIVE,2
-Gex,POSITIVE,1
+Gex,NEGATIVE,1
 Gießen,NEGATIVE,1
-"Gimel, Switzerland",NEGATIVE,29
-"Gimel, Switzerland",POSITIVE,70
+"Gimel, Switzerland",NEGATIVE,35
+"Gimel, Switzerland",POSITIVE,64
 Ginebra,NEGATIVE,19
 Ginebra,POSITIVE,13
 "Ginebra ✈ Murcia, Talavera",POSITIVE,1
-"Ginebra, Suiza",NEGATIVE,25
-"Ginebra, Suiza",POSITIVE,12
-"Ginebra, Suiza - Geneva, CH",POSITIVE,1
+"Ginebra, Suiza",NEGATIVE,28
+"Ginebra, Suiza",POSITIVE,9
+"Ginebra, Suiza - Geneva, CH",NEGATIVE,1
 "Ginebra, Suiza /Mvd-Uruguay",POSITIVE,4
 "Ginebra, Suiza.",NEGATIVE,1
 "Ginevra, Svizzera",NEGATIVE,2
 "Ginevra, Svizzera",POSITIVE,1
-"Gingins, Valais, Suisse",NEGATIVE,143
+"Gingins, Valais, Suisse",NEGATIVE,151
 "Gingins, Valais, Suisse",NEUTRAL,6
-"Gingins, Valais, Suisse",POSITIVE,402
+"Gingins, Valais, Suisse",POSITIVE,394
 Giubiasco,NEGATIVE,1
 Givisiez,NEGATIVE,1
 Givisiez,POSITIVE,2
-Gland,NEGATIVE,134
-Gland,POSITIVE,111
+Gland,NEGATIVE,123
+Gland,POSITIVE,122
 "Gland, Prépuce sur Seine",NEGATIVE,8
 "Gland, Prépuce sur Seine",POSITIVE,7
-"Gland, Suisse",NEGATIVE,984
+"Gland, Suisse",NEGATIVE,956
 "Gland, Suisse",NEUTRAL,10
-"Gland, Suisse",POSITIVE,652
+"Gland, Suisse",POSITIVE,680
 "Gland, Switzerland",NEGATIVE,1
 "Gland, Switzerland",POSITIVE,2
 "Gland, VD.",POSITIVE,1
@@ -1444,68 +1447,69 @@ Gland,POSITIVE,111
 "Glarus, Schweiz",POSITIVE,1
 Glasgow | Fort William,POSITIVE,2
 "Glattbrugg, Switzerland",NEGATIVE,1
-Global,NEGATIVE,1
-Global,POSITIVE,3
+Global,NEGATIVE,3
+Global,POSITIVE,1
 "Glovelier, Jura, Suisse",NEGATIVE,5
 "Glovelier, Jura, Suisse",POSITIVE,2
-Gnv,NEGATIVE,114
-Gnv,POSITIVE,27
+Gnv,NEGATIVE,111
+Gnv,POSITIVE,30
 Gnv / Coruña,NEGATIVE,1
 Gorgier Suisse,NEGATIVE,3
-"Gorgier, Neuchâtel",NEGATIVE,1
-"Gorgier, Neuchâtel",POSITIVE,1
+"Gorgier, Neuchâtel",NEGATIVE,2
 "Gossau, Suiza",NEUTRAL,1
 "Gossau,SG,Switzerland",POSITIVE,1
-Gotham City,NEGATIVE,23
-Gotham City,POSITIVE,12
+Gotham City,NEGATIVE,24
+Gotham City,POSITIVE,11
 "Gotthard Base Tunnel, Swiss",POSITIVE,1
-Grand Lyon,NEGATIVE,1
-Grand Lyon,POSITIVE,2
-"Grand-Lancy, suisse",NEGATIVE,17
-"Grand-Lancy, suisse",POSITIVE,11
+Grand Lyon,NEGATIVE,2
+Grand Lyon,POSITIVE,1
+"Grand-Lancy, suisse",NEGATIVE,15
+"Grand-Lancy, suisse",POSITIVE,13
 "Grand-Pont 22, 1950 Sion / VS",NEGATIVE,1
 "Grand-Pont 22, 1950 Sion / VS",POSITIVE,2
 "Grand-Rue 5, 1820 Montreux, Switzerland",POSITIVE,19
 "Grandson, Suisse",POSITIVE,4
-"Grandvaux, Suisse",NEGATIVE,276
-"Grandvaux, Suisse",POSITIVE,173
+"Grandvaux, Suisse",NEGATIVE,265
+"Grandvaux, Suisse",POSITIVE,184
 "Granges-Paccot, Fribourg",NEGATIVE,1
 "Granges-Paccot, Fribourg",POSITIVE,1
 "Graubünden, Schweiz",NEUTRAL,1
 "Graubünden, Switzerland",POSITIVE,1
 "Greater Frankfurt, Germany",POSITIVE,1
 "Greensboro, N.C.",POSITIVE,1
-Grenchen,NEGATIVE,9
+Grenchen,NEGATIVE,12
 Grenchen,NEUTRAL,1
-Grenchen,POSITIVE,36
+Grenchen,POSITIVE,33
 "Grenchen, Solothurn",POSITIVE,2
 Grenoble,NEGATIVE,1
-"Grenoble, France",NEGATIVE,8
-"Grenoble, France",POSITIVE,5
+"Grenoble, France",NEGATIVE,9
+"Grenoble, France",POSITIVE,4
 Grenoble-Paris,POSITIVE,1
 "Grimentz, Switzerland",POSITIVE,2
 "Grimentz, VS, Suisse",POSITIVE,6
 Grimisuat,POSITIVE,4
-Grindelwald,NEGATIVE,2
+Grindelwald,NEGATIVE,1
+Grindelwald,POSITIVE,1
 "Grischun, Svizra",NEGATIVE,2
 Grolley / Fribourg,POSITIVE,5
-"Grolley, Fribourg",NEGATIVE,3
-"Grolley, Fribourg",POSITIVE,4
-"Gruyères, Switzerland",NEGATIVE,6
-"Gruyères, Switzerland",POSITIVE,16
-Grésy sur Isère - Savoie,NEGATIVE,2
-Grésy sur Isère - Savoie,POSITIVE,1
+"Grolley, Fribourg",NEGATIVE,4
+"Grolley, Fribourg",POSITIVE,3
+"Gruyères, Switzerland",NEGATIVE,4
+"Gruyères, Switzerland",POSITIVE,18
+Grésy sur Isère - Savoie,NEGATIVE,1
+Grésy sur Isère - Savoie,POSITIVE,2
 Grône,POSITIVE,3
 Gstaad,POSITIVE,1
 "Gstaad, Switzerland",NEUTRAL,1
 "Guadalajara, México.",POSITIVE,2
-Guadeloupe,POSITIVE,1
-Guantanamo,NEGATIVE,2
-Guantanamo,POSITIVE,4
+Guadeloupe,NEGATIVE,1
+Guantanamo,NEGATIVE,3
+Guantanamo,POSITIVE,3
 "Guayaquil, Ecuador",POSITIVE,1
-Gva,NEGATIVE,53
-Gva,POSITIVE,34
-"Gèneve, Suisse",POSITIVE,5
+Gva,NEGATIVE,52
+Gva,POSITIVE,35
+"Gèneve, Suisse",NEGATIVE,3
+"Gèneve, Suisse",POSITIVE,2
 Güttingen,POSITIVE,1
 HERE AND ELSEWHERE..-,POSITIVE,1
 "HQ Geneva, Switzerland",POSITIVE,3
@@ -1513,25 +1517,24 @@ HERE AND ELSEWHERE..-,POSITIVE,1
 Haiti-Brooklyn-Miami-Geneva,POSITIVE,1
 "Haut-Vully, Fribourg",POSITIVE,1
 "Haute-Savoie, France",NEGATIVE,1
-"Haute-Savoie, Rhône-Alpes",NEGATIVE,3
-"Haute-Savoie, Rhône-Alpes",POSITIVE,1
+"Haute-Savoie, Rhône-Alpes",NEGATIVE,4
 "Hauterive (NE), Neuchâtel",NEGATIVE,7
 "Hauterive (NE), Neuchâtel",POSITIVE,1
 Hedingen,NEGATIVE,1
 Heilbronn | Germany,POSITIVE,1
-"Hellsau, Schweiz",NEGATIVE,23
+"Hellsau, Schweiz",NEGATIVE,28
 "Hellsau, Schweiz",NEUTRAL,1
-"Hellsau, Schweiz",POSITIVE,23
-Helvetia,NEGATIVE,21
-Helvetia,POSITIVE,25
+"Hellsau, Schweiz",POSITIVE,18
+Helvetia,NEGATIVE,24
+Helvetia,POSITIVE,22
 "Hermance, Switzerland",NEGATIVE,1
 "Hermance, Switzerland",POSITIVE,10
 "Herrliberg, Switzerland",POSITIVE,1
-"Herrliberg, Zürich, Suisse",NEGATIVE,4
-"Herrliberg, Zürich, Suisse",POSITIVE,4
+"Herrliberg, Zürich, Suisse",NEGATIVE,6
+"Herrliberg, Zürich, Suisse",POSITIVE,2
 High Wycombe,POSITIVE,2
 "Ho Chi Minh city, Vietnam",POSITIVE,1
-Hochfelden,POSITIVE,1
+Hochfelden,NEGATIVE,1
 Hogwarts.,NEGATIVE,50
 Hogwarts.,POSITIVE,26
 HomeSweetHome,POSITIVE,1
@@ -1553,36 +1556,36 @@ Ibi,POSITIVE,1
 Ici et là...,NEGATIVE,1
 Ici et là...,POSITIVE,1
 Illarsaz,POSITIVE,3
-"In a booth, Switzerland",NEGATIVE,20
+"In a booth, Switzerland",NEGATIVE,21
 "In a booth, Switzerland",NEUTRAL,1
-"In a booth, Switzerland",POSITIVE,31
+"In a booth, Switzerland",POSITIVE,30
 In a pizza box,POSITIVE,1
 India,POSITIVE,1
-"Ins, Schweiz",NEGATIVE,1
+"Ins, Schweiz",POSITIVE,1
 "Interlaken, Schweiz, spain",POSITIVE,1
-Iquique Chile,POSITIVE,4
+Iquique Chile,NEGATIVE,1
+Iquique Chile,POSITIVE,3
 "Iron Throne, Westeros",NEGATIVE,1
 "Iron Throne, Westeros",POSITIVE,1
 Istanbul,POSITIVE,2
-"Istanbul, Turkey",NEGATIVE,1
-"Istanbul, Turkey",POSITIVE,1
+"Istanbul, Turkey",POSITIVE,2
 Italia - Schweiz - România,NEGATIVE,5
 Italia - Schweiz - România,POSITIVE,1
-Italia/Lecce,NEGATIVE,21
-Italia/Lecce,POSITIVE,8
+Italia/Lecce,NEGATIVE,18
+Italia/Lecce,POSITIVE,11
 Italy,NEUTRAL,1
 "Ittigen, SUI",NEGATIVE,1
 "Ittigen, SUI",POSITIVE,6
 "Ittigen, Switzerland",POSITIVE,2
 "Ixelles, Belgique",POSITIVE,1
-J-18,NEGATIVE,318
+J-18,NEGATIVE,312
 J-18,NEUTRAL,3
-J-18,POSITIVE,125
+J-18,POSITIVE,131
 JB-SA,POSITIVE,2
-JU,NEGATIVE,26
-JU,POSITIVE,3
-JURA,NEGATIVE,69
-JURA,POSITIVE,62
+JU,NEGATIVE,25
+JU,POSITIVE,4
+JURA,NEGATIVE,67
+JURA,POSITIVE,64
 Jakarta,POSITIVE,9
 Jeddah,NEUTRAL,2
 Jeddah,POSITIVE,1
@@ -1591,17 +1594,17 @@ Jeddah,POSITIVE,1
 "Johannesburg, South Africa",POSITIVE,1
 Jona,POSITIVE,1
 Jongny,POSITIVE,5
-"Jouxtens-Mézery, Switzerland",POSITIVE,1
-Ju,NEGATIVE,57
+"Jouxtens-Mézery, Switzerland",NEGATIVE,1
+Ju,NEGATIVE,56
 Ju,NEUTRAL,1
-Ju,POSITIVE,33
+Ju,POSITIVE,34
 "Ju, ms",POSITIVE,1
 Jung Yong Hwa Wonderland,POSITIVE,1
-Jura,NEGATIVE,1205
+Jura,NEGATIVE,1188
 Jura,NEUTRAL,10
-Jura,POSITIVE,852
-"Jura , France",NEGATIVE,16
-"Jura , France",POSITIVE,13
+Jura,POSITIVE,869
+"Jura , France",NEGATIVE,15
+"Jura , France",POSITIVE,14
 Jura bernois,POSITIVE,10
 "Jura bernois, Suisse",NEGATIVE,1
 "Jura bernois, Suisse",POSITIVE,9
@@ -1609,20 +1612,20 @@ Jura bernois,POSITIVE,10
 "Jura, Basel-Süd, Zürich-West",POSITIVE,4
 "Jura, FRANCE.",NEGATIVE,5
 "Jura, FRANCE.",POSITIVE,3
-"Jura, France",NEGATIVE,115
+"Jura, France",NEGATIVE,121
 "Jura, France",NEUTRAL,1
-"Jura, France",POSITIVE,93
-"Jura, France.",NEGATIVE,14
-"Jura, France.",POSITIVE,68
-"Jura, Franche-Comté",NEGATIVE,1795
+"Jura, France",POSITIVE,87
+"Jura, France.",NEGATIVE,29
+"Jura, France.",POSITIVE,53
+"Jura, Franche-Comté",NEGATIVE,1759
 "Jura, Franche-Comté",NEUTRAL,22
-"Jura, Franche-Comté",POSITIVE,1046
-"Jura, Franche-Comté.",NEGATIVE,36
-"Jura, Franche-Comté.",POSITIVE,12
-"Jura, Suisse",NEGATIVE,118
-"Jura, Suisse",POSITIVE,96
-"Jura, Switzerland",NEGATIVE,11
-"Jura, Switzerland",POSITIVE,7
+"Jura, Franche-Comté",POSITIVE,1082
+"Jura, Franche-Comté.",NEGATIVE,38
+"Jura, Franche-Comté.",POSITIVE,10
+"Jura, Suisse",NEGATIVE,120
+"Jura, Suisse",POSITIVE,94
+"Jura, Switzerland",NEGATIVE,9
+"Jura, Switzerland",POSITIVE,9
 "Jura, loin dans la montagne",NEGATIVE,4
 "Jura, loin dans la montagne",POSITIVE,3
 "Justin,Cody,John followed",POSITIVE,1
@@ -1632,13 +1635,13 @@ KTown.,NEGATIVE,1
 KalethKmoralista,POSITIVE,1
 "Kallnach, Switzerland",NEGATIVE,1
 "Kandersteg, Bern",POSITIVE,1
-Kattegat,NEGATIVE,6
-Kattegat,POSITIVE,1
+Kattegat,NEGATIVE,4
+Kattegat,POSITIVE,3
 "Kedah, Malaysia",NEUTRAL,1
-"Kerzers, Freiburg",NEGATIVE,1
+"Kerzers, Freiburg",POSITIVE,1
 "King's Landing, Westeros",NEGATIVE,1
 "King's Landing, Westeros",POSITIVE,1
-Kinshasa,NEGATIVE,1
+Kinshasa,POSITIVE,1
 Kloten,NEGATIVE,1
 Kloten,POSITIVE,1
 "Kreuzlingen, Switzerland",NEUTRAL,1
@@ -1646,8 +1649,9 @@ Kloten,POSITIVE,1
 Kriens,POSITIVE,1
 "Kriens, Lucerne",POSITIVE,1
 "Kuala Lumpur , Malaysia",POSITIVE,1
+Kuwait,NEGATIVE,1
 Kuwait,NEUTRAL,1
-Kuwait,POSITIVE,4
+Kuwait,POSITIVE,3
 Kuwait ~ Selenator 279,POSITIVE,2
 Kyiv / Geneva,NEGATIVE,1
 Kyiv / Geneva,POSITIVE,3
@@ -1656,62 +1660,61 @@ Kyiv / Geneva,POSITIVE,3
 "Küsnacht (ZH), Schweiz",NEUTRAL,1
 "Küsnacht (ZH), Zürich",POSITIVE,1
 Küsnacht ZH,POSITIVE,1
-LAUSANNE,NEGATIVE,2
+LAUSANNE,NEGATIVE,4
 LAUSANNE,NEUTRAL,2
-LAUSANNE,POSITIVE,10
+LAUSANNE,POSITIVE,8
 LOSE YOUR D N I M,POSITIVE,2
 LUGANO,NEGATIVE,2
 LUGANO,NEUTRAL,1
 LUGANO,POSITIVE,5
-"La Brévine, Switzerland",NEGATIVE,16
-"La Brévine, Switzerland",POSITIVE,11
+"La Brévine, Switzerland",NEGATIVE,18
+"La Brévine, Switzerland",POSITIVE,9
 La Chaux-de-Fonds,NEGATIVE,14
 La Chaux-de-Fonds,POSITIVE,93
 La Chaux-de-Fonds / Porrentruy,POSITIVE,3
 "La Chaux-de-Fonds, CH",POSITIVE,1
-"La Chaux-de-Fonds, Neuchâtel",NEGATIVE,164
+"La Chaux-de-Fonds, Neuchâtel",NEGATIVE,162
 "La Chaux-de-Fonds, Neuchâtel",NEUTRAL,4
-"La Chaux-de-Fonds, Neuchâtel",POSITIVE,132
-"La Chaux-de-Fonds, Suisse",NEGATIVE,137
-"La Chaux-de-Fonds, Suisse",POSITIVE,88
-"La Chaux-de-Fonds, Switzerland",NEGATIVE,301
+"La Chaux-de-Fonds, Neuchâtel",POSITIVE,134
+"La Chaux-de-Fonds, Suisse",NEGATIVE,139
+"La Chaux-de-Fonds, Suisse",POSITIVE,86
+"La Chaux-de-Fonds, Switzerland",NEGATIVE,290
 "La Chaux-de-Fonds, Switzerland",NEUTRAL,6
-"La Chaux-de-Fonds, Switzerland",POSITIVE,583
+"La Chaux-de-Fonds, Switzerland",POSITIVE,594
 La Conversion,POSITIVE,1
 "La Courneuve, Seine Saint-Denis",POSITIVE,1
 La Forclaz,POSITIVE,1
 La Forclaz/Evolène,NEGATIVE,1
 La Forclaz/Evolène,POSITIVE,1
 La Neuveville,POSITIVE,1
-"La Neuveville, Suisse",NEGATIVE,263
-"La Neuveville, Suisse",POSITIVE,160
+"La Neuveville, Suisse",NEGATIVE,262
+"La Neuveville, Suisse",POSITIVE,161
 La Nouvelle Jerusalem,POSITIVE,4
 La Sarraz,POSITIVE,5
 "La Tchaux, Suisse",NEGATIVE,1
 "La Tour de Peilz,Switzerland",NEGATIVE,1
 "La Tour de Peilz,Switzerland",POSITIVE,2
-La Tour-de-Peilz,NEGATIVE,52
-La Tour-de-Peilz,POSITIVE,2
+La Tour-de-Peilz,NEGATIVE,53
+La Tour-de-Peilz,POSITIVE,1
 "La Tour-de-Peilz, Switzerland",NEGATIVE,74
 "La Tour-de-Peilz, Switzerland",NEUTRAL,2
 "La Tour-de-Peilz, Switzerland",POSITIVE,39
 La Tour-de-Trême,NEGATIVE,3
 "Lago di Como, Italia",POSITIVE,2
-Lake District,NEGATIVE,1
+Lake District,NEGATIVE,2
 Lake District,NEUTRAL,3
-Lake District,POSITIVE,7
+Lake District,POSITIVE,6
 "Lake District, England",NEUTRAL,1
-"Lake District, Lancashire & UK",POSITIVE,1
+"Lake District, Lancashire & UK",NEGATIVE,1
 "Lake District, UK",NEGATIVE,1
 "Lake District, UK",NEUTRAL,1
 "Lake District, UK",POSITIVE,2
-Lake of Geneva region,NEGATIVE,1
-Lake of Geneva region,POSITIVE,1
+Lake of Geneva region,POSITIVE,2
 Lancy,POSITIVE,1
 "Lancy, Geneva",POSITIVE,2
-"Lancy, Genève",NEGATIVE,73
+"Lancy, Genève",NEGATIVE,79
 "Lancy, Genève",NEUTRAL,1
-"Lancy, Genève",POSITIVE,53
+"Lancy, Genève",POSITIVE,47
 "Lancy, Suisse",NEGATIVE,214
 "Lancy, Suisse",NEUTRAL,3
 "Lancy, Suisse",POSITIVE,79
@@ -1721,81 +1724,79 @@ Lancy,POSITIVE,1
 "Langenthal, Schweiz",NEGATIVE,3
 "Langenthal, Schweiz",POSITIVE,3
 "Langkawi, Kedah",NEGATIVE,1
-"Langnau, Bern",POSITIVE,1
+"Langnau, Bern",NEGATIVE,1
 "Laredo, Texas, USA",POSITIVE,3
+Laufenburg,NEGATIVE,1
 Laufenburg,NEUTRAL,1
-Laufenburg,POSITIVE,10
+Laufenburg,POSITIVE,9
 "Lauperswil, Bern",POSITIVE,1
 Lauri Pinedo - Alicante,POSITIVE,1
-Lausana,NEGATIVE,1
-"Lausane, Switzerland",NEGATIVE,3
-"Lausane, Switzerland",POSITIVE,5
-Lausanne,NEGATIVE,3974
+Lausana,POSITIVE,1
+"Lausane, Switzerland",NEGATIVE,2
+"Lausane, Switzerland",POSITIVE,6
+Lausanne,NEGATIVE,4089
 Lausanne,NEUTRAL,36
-Lausanne,POSITIVE,6035
-"Lausanne & Rolle, Switzerland",NEGATIVE,1
-"Lausanne & Rolle, Switzerland",POSITIVE,7
+Lausanne,POSITIVE,5920
+"Lausanne & Rolle, Switzerland",POSITIVE,8
 Lausanne ( Suiza ),POSITIVE,1
 Lausanne (Suisse) - Lyon,NEGATIVE,3
 Lausanne (Suisse) - Lyon,POSITIVE,2
 "Lausanne , Suisse",NEGATIVE,2
 "Lausanne , Suisse",POSITIVE,2
 Lausanne - Barcelona - London,POSITIVE,2
-Lausanne - CH,NEGATIVE,1
-Lausanne - CH,POSITIVE,5
+Lausanne - CH,NEGATIVE,2
+Lausanne - CH,POSITIVE,4
 Lausanne - Paudex,POSITIVE,1
-Lausanne - Suisse,NEGATIVE,19
-Lausanne - Suisse,POSITIVE,73
-"Lausanne - Suisse, Switzerland",NEGATIVE,24
-"Lausanne - Suisse, Switzerland",POSITIVE,114
-Lausanne - Switzerland,NEGATIVE,156
+Lausanne - Suisse,NEGATIVE,28
+Lausanne - Suisse,POSITIVE,64
+"Lausanne - Suisse, Switzerland",NEGATIVE,33
+"Lausanne - Suisse, Switzerland",POSITIVE,105
+Lausanne - Switzerland,NEGATIVE,155
 Lausanne - Switzerland,NEUTRAL,2
-Lausanne - Switzerland,POSITIVE,64
-Lausanne / Suisse,NEGATIVE,4
-Lausanne / Suisse,POSITIVE,15
+Lausanne - Switzerland,POSITIVE,65
+Lausanne / Suisse,NEGATIVE,3
+Lausanne / Suisse,POSITIVE,16
 Lausanne Suisse,POSITIVE,2
 Lausanne Swiss / London UK,NEGATIVE,1
 Lausanne city,NEGATIVE,11
 Lausanne city,POSITIVE,5
-Lausanne la Verte,NEGATIVE,1
-Lausanne la Verte,POSITIVE,1
-Lausanne — Sarandë,NEGATIVE,1
-Lausanne — Sarandë,POSITIVE,1
+Lausanne la Verte,NEGATIVE,2
+Lausanne — Sarandë,POSITIVE,2
 "Lausanne ⇆ Bern, Switzerland",POSITIVE,4
 "Lausanne ⇋ Bern, Switzerland",POSITIVE,2
 "Lausanne, Bamako, Abidjan, etc",NEGATIVE,2
 "Lausanne, Bienne, Vladivostok",NEGATIVE,1
 "Lausanne, Bienne, Vladivostok",POSITIVE,2
-"Lausanne, CH",NEGATIVE,15
-"Lausanne, CH",POSITIVE,33
+"Lausanne, CH",NEGATIVE,13
+"Lausanne, CH",POSITIVE,35
 "Lausanne, CH (et Lyon, FR)",NEGATIVE,1
 "Lausanne, CH (et Lyon, FR)",POSITIVE,2
 "Lausanne, CH | Montréal, CAN",POSITIVE,2
-"Lausanne, EJFJ State",NEGATIVE,111
-"Lausanne, EJFJ State",POSITIVE,245
-"Lausanne, France, Mauritius",NEGATIVE,14
-"Lausanne, France, Mauritius",POSITIVE,26
-"Lausanne, Fribourg",NEGATIVE,3
-"Lausanne, Fribourg",POSITIVE,4
-"Lausanne, Genève",POSITIVE,6
-"Lausanne, Genève.",NEGATIVE,4
-"Lausanne, Genève.",POSITIVE,6
-"Lausanne, Olympic capital",NEGATIVE,1
-"Lausanne, Olympic capital",POSITIVE,2
-"Lausanne, Paris & Béziers",NEGATIVE,32
-"Lausanne, Paris & Béziers",POSITIVE,54
-"Lausanne, Prilly",POSITIVE,1
+"Lausanne, EJFJ State",NEGATIVE,147
+"Lausanne, EJFJ State",POSITIVE,209
+"Lausanne, France, Mauritius",NEGATIVE,10
+"Lausanne, France, Mauritius",POSITIVE,30
+"Lausanne, Fribourg",NEGATIVE,1
+"Lausanne, Fribourg",POSITIVE,6
+"Lausanne, Genève",NEGATIVE,1
+"Lausanne, Genève",POSITIVE,5
+"Lausanne, Genève.",NEGATIVE,6
+"Lausanne, Genève.",POSITIVE,4
+"Lausanne, Olympic capital",POSITIVE,3
+"Lausanne, Paris & Béziers",NEGATIVE,31
+"Lausanne, Paris & Béziers",POSITIVE,55
+"Lausanne, Prilly",NEGATIVE,1
 "Lausanne, Savièse, Suisse",POSITIVE,15
 "Lausanne, Singapore",POSITIVE,1
 "Lausanne, St-Prex, Genève",POSITIVE,1
 "Lausanne, Strasbourg",POSITIVE,2
-"Lausanne, Suisse",NEGATIVE,1481
+"Lausanne, Suisse",NEGATIVE,1484
 "Lausanne, Suisse",NEUTRAL,25
-"Lausanne, Suisse",POSITIVE,1659
-"Lausanne, Suisse / Switzerland",NEGATIVE,8
-"Lausanne, Suisse / Switzerland",POSITIVE,10
-"Lausanne, Suisse − İsviçre",NEGATIVE,14
-"Lausanne, Suisse − İsviçre",POSITIVE,6
+"Lausanne, Suisse",POSITIVE,1656
+"Lausanne, Suisse / Switzerland",NEGATIVE,9
+"Lausanne, Suisse / Switzerland",POSITIVE,9
+"Lausanne, Suisse − İsviçre",NEGATIVE,15
+"Lausanne, Suisse − İsviçre",POSITIVE,5
 "Lausanne, Suisse.",NEGATIVE,11
 "Lausanne, Suisse.",NEUTRAL,2
 "Lausanne, Suisse.",POSITIVE,8
@@ -1804,62 +1805,66 @@ Lausanne — Sarandë,POSITIVE,1
 "Lausanne, SweetZerland",POSITIVE,1
 "Lausanne, Sweetzerland",NEGATIVE,2
 "Lausanne, Sweetzerland",POSITIVE,4
-"Lausanne, Switzerland",NEGATIVE,3536
+"Lausanne, Switzerland",NEGATIVE,3548
 "Lausanne, Switzerland",NEUTRAL,44
-"Lausanne, Switzerland",POSITIVE,3705
-"Lausanne, Switzerland / Suisse",POSITIVE,15
+"Lausanne, Switzerland",POSITIVE,3693
+"Lausanne, Switzerland / Suisse",NEGATIVE,1
+"Lausanne, Switzerland / Suisse",POSITIVE,14
 "Lausanne, Swizerland",NEGATIVE,5
 "Lausanne, Swizerland",POSITIVE,2
-"Lausanne, Vaud",NEGATIVE,994
+"Lausanne, Vaud",NEGATIVE,998
 "Lausanne, Vaud",NEUTRAL,13
-"Lausanne, Vaud",POSITIVE,1199
+"Lausanne, Vaud",POSITIVE,1195
 "Lausanne, Vaud Suisse",POSITIVE,2
 "Lausanne, Vaud, Suisse",NEGATIVE,18
 "Lausanne, Vaud, Suisse",POSITIVE,24
-"Lausanne, Vaud, Switzerland",NEGATIVE,8
-"Lausanne, Vaud, Switzerland",POSITIVE,28
+"Lausanne, Vaud, Switzerland",NEGATIVE,7
+"Lausanne, Vaud, Switzerland",POSITIVE,29
 "Lausanne, Vidy",POSITIVE,5
 "Lausanne, suisse",POSITIVE,6
-"Lausanne, switzerland",POSITIVE,1
+"Lausanne, switzerland",NEGATIVE,1
 "Lausanne,CH",POSITIVE,2
 "Lausanne,Suisse",NEGATIVE,1
 "Lausanne,Suisse",POSITIVE,1
-"Lausanne,Switzerland",NEGATIVE,31
-"Lausanne,Switzerland",POSITIVE,5
-Lausanne-suiza,POSITIVE,2
+"Lausanne,Switzerland",NEGATIVE,30
+"Lausanne,Switzerland",POSITIVE,6
+Lausanne-suiza,NEGATIVE,1
+Lausanne-suiza,POSITIVE,1
 Lausanne/ unige,NEGATIVE,1
 Lausanne/ unige,POSITIVE,4
 "Lausanne/Genève, Suisse",POSITIVE,5
 Lausanne/Luzern,NEUTRAL,1
-Lausanne/Switzerland,POSITIVE,1
+Lausanne/Switzerland,NEGATIVE,1
 Lausen,POSITIVE,1
 "Lausen, Schweiz",POSITIVE,2
 "Le Bourget-du-Lac, Rhône-Alpes",NEGATIVE,1
 Le Chesnay,POSITIVE,1
-Le Châtelard,NEGATIVE,1
-Le Châtelard,POSITIVE,20
+Le Châtelard,POSITIVE,21
 Le Châtelard (FR) / Suisse,POSITIVE,1
-"Le Châtelard, Rhône-Alpes",NEGATIVE,2
-"Le Châtelard, Rhône-Alpes",POSITIVE,19
-"Le Côty, Switzerland",POSITIVE,13
-"Le Grand Genève, Geneva",POSITIVE,16
+"Le Châtelard, Rhône-Alpes",NEGATIVE,3
+"Le Châtelard, Rhône-Alpes",POSITIVE,18
+"Le Côty, Switzerland",NEGATIVE,1
+"Le Côty, Switzerland",POSITIVE,12
+"Le Grand Genève, Geneva",NEGATIVE,1
+"Le Grand Genève, Geneva",POSITIVE,15
 "Le Landeron, Suisse",NEGATIVE,2
 "Le Landeron, Suisse",POSITIVE,12
-Le Locle,NEGATIVE,5
+Le Locle,NEGATIVE,2
 Le Locle,NEUTRAL,1
-Le Locle,POSITIVE,12
-"Le Locle, Neuchâtel",NEGATIVE,4
-"Le Locle, Neuchâtel",POSITIVE,1
+Le Locle,POSITIVE,15
+"Le Locle, Neuchâtel",NEGATIVE,3
+"Le Locle, Neuchâtel",POSITIVE,2
 "Le Locle, Suisse",NEGATIVE,5
 "Le Locle, Suisse",POSITIVE,13
 "Le Mont-Pèlerin, Switzerland",NEGATIVE,3
 "Le Mont-Pèlerin, Switzerland",POSITIVE,76
 "Le Mont-sur-Lausanne, Suisse",POSITIVE,6
-"Le Mont-sur-Lausanne, Vaud",NEGATIVE,65
+"Le Mont-sur-Lausanne, Vaud",NEGATIVE,57
 "Le Mont-sur-Lausanne, Vaud",NEUTRAL,3
-"Le Mont-sur-Lausanne, Vaud",POSITIVE,47
+"Le Mont-sur-Lausanne, Vaud",POSITIVE,55
 Le Noirmont,POSITIVE,1
-"Le Pont, Suisse",POSITIVE,8
+"Le Pont, Suisse",NEGATIVE,1
+"Le Pont, Suisse",POSITIVE,7
 "Le Sentier, Switzerland",POSITIVE,6
 Le Vaud,NEGATIVE,1
 Le Vaud,POSITIVE,4
@@ -1869,22 +1874,21 @@ Leeds,POSITIVE,1
 Lenk,POSITIVE,1
 Lenzburg,POSITIVE,1
 "Lenzburg, Aargau",POSITIVE,1
-"Lenzburg, ch",NEGATIVE,1
-"Lenzburg, ch",POSITIVE,6
+"Lenzburg, ch",NEGATIVE,2
+"Lenzburg, ch",POSITIVE,5
 "Les Avanchets, Suisse",POSITIVE,1
 Les Bois,NEGATIVE,1
 Les Bois,POSITIVE,3
 "Les Crosets, Switzerland",POSITIVE,1
-Les Diablerets,NEGATIVE,2
-Les Diablerets,POSITIVE,7
-"Les Diablerets, Switzerland",NEGATIVE,1
-"Les Diablerets, Switzerland",POSITIVE,1
-"Les Enfers, Jura",NEGATIVE,50
+Les Diablerets,NEGATIVE,3
+Les Diablerets,POSITIVE,6
+"Les Diablerets, Switzerland",POSITIVE,2
+"Les Enfers, Jura",NEGATIVE,49
 "Les Enfers, Jura",NEUTRAL,2
-"Les Enfers, Jura",POSITIVE,17
-"Les Enfers, Suisse",NEGATIVE,162
+"Les Enfers, Jura",POSITIVE,18
+"Les Enfers, Suisse",NEGATIVE,176
 "Les Enfers, Suisse",NEUTRAL,4
-"Les Enfers, Suisse",POSITIVE,101
+"Les Enfers, Suisse",POSITIVE,87
 Les Evouettes,POSITIVE,1
 "Les Hauts-Geneveys, Neuchâtel",NEGATIVE,1
 "Les Hauts-Geneveys, Neuchâtel",POSITIVE,1
@@ -1894,11 +1898,12 @@ Leuk,POSITIVE,1
 Leukerbad,POSITIVE,1
 Leysin,NEGATIVE,7
 Leysin,POSITIVE,19
-"Leysin, Switzerland",POSITIVE,4
+"Leysin, Switzerland",NEGATIVE,1
+"Leysin, Switzerland",POSITIVE,3
 "Leysin, Vaud",NEGATIVE,3
 "Leysin, Vaud",POSITIVE,15
-"Leytron, Suisse",NEGATIVE,65
-"Leytron, Suisse",POSITIVE,54
+"Leytron, Suisse",NEGATIVE,68
+"Leytron, Suisse",POSITIVE,51
 León - Salamanca,POSITIVE,1
 Liechtenstein,NEGATIVE,1
 "Liestal, Baselland, Schweiz",NEGATIVE,3
@@ -1911,8 +1916,8 @@ Lille-Munich-Dornbirn,POSITIVE,1
 "Lima Peru/Geneva, Switzerland",NEGATIVE,7
 "Lima Peru/Geneva, Switzerland",POSITIVE,1
 "Linden, Switzerland",POSITIVE,1
-"Lisboa, Tomar - Gnv",NEGATIVE,46
-"Lisboa, Tomar - Gnv",POSITIVE,11
+"Lisboa, Tomar - Gnv",NEGATIVE,48
+"Lisboa, Tomar - Gnv",POSITIVE,9
 "Lisbon, Portugal",POSITIVE,3
 "Lissone, MB, Italy",POSITIVE,2
 "Liverpool, England.",POSITIVE,1
@@ -1925,12 +1930,12 @@ Locarno,POSITIVE,2
 "Locarno, Switzerland",POSITIVE,3
 "Locarno, Ticino",NEGATIVE,1
 "Lonay, Switzerland",NEGATIVE,1
-London,NEGATIVE,1
 London,NEUTRAL,1
-London,POSITIVE,7
+London,POSITIVE,8
 London / LA / Zurich,POSITIVE,1
 London vs. Switzerland,POSITIVE,1
-"London, England",POSITIVE,11
+"London, England",NEGATIVE,1
+"London, England",POSITIVE,10
 "London, Paris, Europe - mainly",POSITIVE,1
 "London, UK",NEGATIVE,1
 "London, UK",POSITIVE,2
@@ -1938,10 +1943,10 @@ London vs. Switzerland,POSITIVE,1
 "London, sometimes Switzerland, each time less Spain",NEGATIVE,1
 "London, sometimes Switzerland, each time less Spain",POSITIVE,1
 "London,UK",POSITIVE,1
-"Londres, Angleterre",NEGATIVE,14
-"Londres, Angleterre",POSITIVE,9
-"Lons le Saunier, Jura",NEGATIVE,2
-"Lons le Saunier, Jura",POSITIVE,7
+"Londres, Angleterre",NEGATIVE,18
+"Londres, Angleterre",POSITIVE,5
+"Lons le Saunier, Jura",NEGATIVE,3
+"Lons le Saunier, Jura",POSITIVE,6
 Lorient,POSITIVE,1
 Los Angeles,NEGATIVE,4
 Los Angeles,POSITIVE,5
@@ -1949,25 +1954,26 @@ Los Angeles,POSITIVE,5
 "Lourtier, Verbier",NEGATIVE,1
 "Lourtier, Verbier",POSITIVE,2
 Lovington Somerset BA7 7PS,NEGATIVE,3
-Loz,NEGATIVE,2
+Loz,NEGATIVE,1
+Loz,POSITIVE,1
 Lucens,NEGATIVE,3
 Lucens,POSITIVE,3
 "Lucerna, Suiza",NEGATIVE,1
-Lucerne,NEGATIVE,3
+Lucerne,NEGATIVE,4
 Lucerne,NEUTRAL,1
-Lucerne,POSITIVE,17
-"Lucerne, Suisse, Kinshasa,RDC",NEGATIVE,597
+Lucerne,POSITIVE,16
+"Lucerne, Suisse, Kinshasa,RDC",NEGATIVE,734
 "Lucerne, Suisse, Kinshasa,RDC",NEUTRAL,2
-"Lucerne, Suisse, Kinshasa,RDC",POSITIVE,924
-"Lucerne, Switzerland",NEGATIVE,10
+"Lucerne, Suisse, Kinshasa,RDC",POSITIVE,787
+"Lucerne, Switzerland",NEGATIVE,11
 "Lucerne, Switzerland",NEUTRAL,1
-"Lucerne, Switzerland",POSITIVE,9
+"Lucerne, Switzerland",POSITIVE,8
 "Lucerne, switzerland",POSITIVE,1
 "Luchsingen, Switzerland",NEGATIVE,1
-Lugano,NEGATIVE,57
+Lugano,NEGATIVE,58
 Lugano,NEUTRAL,47
-Lugano,POSITIVE,82
-Lugano - Lake Como,NEGATIVE,1
+Lugano,POSITIVE,81
+Lugano - Lake Como,POSITIVE,1
 "Lugano, Alsina",NEUTRAL,2
 "Lugano, Alsina",POSITIVE,1
 "Lugano, Argentina",NEGATIVE,4
@@ -1977,16 +1983,17 @@ Lugano - Lake Como,NEGATIVE,1
 "Lugano, Maglie, Pechino",POSITIVE,1
 "Lugano, Schweiz",NEGATIVE,1
 "Lugano, Swiss",POSITIVE,1
-"Lugano, Switzerland",NEGATIVE,8
+"Lugano, Switzerland",NEGATIVE,7
 "Lugano, Switzerland",NEUTRAL,1
-"Lugano, Switzerland",POSITIVE,21
+"Lugano, Switzerland",POSITIVE,22
 "Lugano, Switzerland.",POSITIVE,1
-"Lugano, Ticino",NEGATIVE,7
+"Lugano, Ticino",NEGATIVE,9
 "Lugano, Ticino",NEUTRAL,1
-"Lugano, Ticino",POSITIVE,11
+"Lugano, Ticino",POSITIVE,9
 "Lugano, Ticino Milano",NEGATIVE,1
 "Lugano, capital federal",NEUTRAL,1
-"Lugano,Buenos Aires,Argentina",POSITIVE,2
+"Lugano,Buenos Aires,Argentina",NEGATIVE,1
+"Lugano,Buenos Aires,Argentina",POSITIVE,1
 "Lugano,Buenos Aires.",POSITIVE,1
 "Lugano-Paradiso, Switzerland",POSITIVE,1
 "Lugo, Galicia",POSITIVE,1
@@ -1994,28 +2001,28 @@ Lugano - Lake Como,NEGATIVE,1
 "Lummi,Zurich",NEUTRAL,2
 "Lummi,Zurich",POSITIVE,1
 "Luthern, Schweiz",POSITIVE,1
-Lutry,NEGATIVE,122
-Lutry,POSITIVE,267
+Lutry,NEGATIVE,142
+Lutry,POSITIVE,247
 "Lutry, Suisse",NEGATIVE,3
 "Lutry, Suisse",POSITIVE,6
 "Lutry, Switzerland",NEGATIVE,1
-"Lutry, Vaud",NEGATIVE,6
-"Lutry, Vaud",POSITIVE,4
+"Lutry, Vaud",NEGATIVE,8
+"Lutry, Vaud",POSITIVE,2
 Luzern,NEGATIVE,5
 Luzern,NEUTRAL,1
 Luzern,POSITIVE,12
-"Luzern, Schweiz",NEGATIVE,3
+"Luzern, Schweiz",NEGATIVE,4
 "Luzern, Schweiz",NEUTRAL,1
-"Luzern, Schweiz",POSITIVE,13
+"Luzern, Schweiz",POSITIVE,12
 "Luzern, Switzerland",NEGATIVE,1
 Luzern/Cavigliano TI,POSITIVE,1
-Lyon,NEGATIVE,5
-Lyon,POSITIVE,4
+Lyon,NEGATIVE,3
+Lyon,POSITIVE,6
 Lyon 1er,POSITIVE,1
-"Lyon, France",NEGATIVE,24
-"Lyon, France",POSITIVE,22
+"Lyon, France",NEGATIVE,23
+"Lyon, France",POSITIVE,23
 "Lyon, Ongola, Paris, Mtl Qc ❤",POSITIVE,1
-"Lyon, Rhône-Alpes",NEGATIVE,1
+"Lyon, Rhône-Alpes",POSITIVE,1
 Lyon/Genève,NEGATIVE,1
 Lyon/Genève,POSITIVE,2
 Lyss,POSITIVE,1
@@ -2023,15 +2030,14 @@ Lyss,POSITIVE,1
 "Lyss, Bern",POSITIVE,1
 "Lyss, Switzerland",POSITIVE,4
 Lytham St. Anne's,POSITIVE,1
-MK.,NEGATIVE,44
+MK.,NEGATIVE,43
 MK.,NEUTRAL,1
-MK.,POSITIVE,14
+MK.,POSITIVE,15
 MONTE,NEGATIVE,1
-MONTHEY,NEGATIVE,13
-MONTHEY,POSITIVE,5
+MONTHEY,NEGATIVE,14
+MONTHEY,POSITIVE,4
 MY • LIVERPOOL,POSITIVE,1
-MZ,NEGATIVE,5
-MZ,POSITIVE,1
+MZ,NEGATIVE,6
 Macau,NEUTRAL,1
 Machilly City,NEGATIVE,2
 Machilly City,POSITIVE,1
@@ -2056,36 +2062,37 @@ Manson's heart,NEUTRAL,1
 "Marang,Terengganu",NEGATIVE,1
 "Marbleton, Québec",POSITIVE,1
 "Margate, Kent",POSITIVE,1
-Marin,NEGATIVE,2
-"Marly, Fribourg",NEGATIVE,5
+Marin,NEGATIVE,1
+Marin,POSITIVE,1
+"Marly, Fribourg",NEGATIVE,4
 "Marly, Fribourg",NEUTRAL,1
-"Marly, Fribourg",POSITIVE,9
+"Marly, Fribourg",POSITIVE,10
 "Marly, Suisse",NEGATIVE,11
 "Marly, Suisse",POSITIVE,22
 "Marnaz, France",POSITIVE,2
 Mars,NEGATIVE,1
-Marseille / Suisse,NEGATIVE,7
-Marseille / Suisse,POSITIVE,5
-Martigny,NEGATIVE,32
-Martigny,POSITIVE,200
+Marseille / Suisse,NEGATIVE,9
+Marseille / Suisse,POSITIVE,3
+Martigny,NEGATIVE,35
+Martigny,POSITIVE,197
 Martigny // Switzerland,POSITIVE,7
-"Martigny, Suisse",NEGATIVE,149
+"Martigny, Suisse",NEGATIVE,147
 "Martigny, Suisse",NEUTRAL,2
-"Martigny, Suisse",POSITIVE,39
-"Martigny, Switzerland",NEGATIVE,12
+"Martigny, Suisse",POSITIVE,41
+"Martigny, Switzerland",NEGATIVE,15
 "Martigny, Switzerland",NEUTRAL,1
-"Martigny, Switzerland",POSITIVE,81
-"Martigny, Valais",NEGATIVE,57
+"Martigny, Switzerland",POSITIVE,78
+"Martigny, Valais",NEGATIVE,54
 "Martigny, Valais",NEUTRAL,1
-"Martigny, Valais",POSITIVE,46
+"Martigny, Valais",POSITIVE,49
 "Martigny, Valais, Suisse",POSITIVE,5
 Martigny-Combe,POSITIVE,1
-"Massongex,Suisse",NEGATIVE,65
-"Massongex,Suisse",POSITIVE,16
-"Mathod,Vaud,Suisse",NEGATIVE,25
-"Mathod,Vaud,Suisse",POSITIVE,11
-Matran,NEGATIVE,1
-Matran,POSITIVE,11
+"Massongex,Suisse",NEGATIVE,60
+"Massongex,Suisse",POSITIVE,21
+"Mathod,Vaud,Suisse",NEGATIVE,24
+"Mathod,Vaud,Suisse",POSITIVE,12
+Matran,NEGATIVE,2
+Matran,POSITIVE,10
 "Matran, Switzerland",POSITIVE,2
 "Meisterschwanden, Aargau",NEGATIVE,1
 "Meisterschwanden, Aargau",POSITIVE,1
@@ -2097,36 +2104,38 @@ Mendrisio,NEGATIVE,4
 Mendrisio,NEUTRAL,2
 Mendrisio,POSITIVE,9
 Mendrisio - Svizzera,NEUTRAL,1
-"Mendrisio, Switzerland",NEGATIVE,1
+"Mendrisio, Switzerland",NEGATIVE,3
 "Mendrisio, Switzerland",NEUTRAL,1
-"Mendrisio, Switzerland",POSITIVE,12
+"Mendrisio, Switzerland",POSITIVE,10
 "Mendrisio, Ticino",NEGATIVE,1
 Menziken,POSITIVE,5
 Metz,POSITIVE,1
 "Metz, Lorraine",POSITIVE,1
-Meyrin,POSITIVE,9
-"Meyrin, Genève",NEGATIVE,211
-"Meyrin, Genève",POSITIVE,83
-"Meyrin, Genève, Suisse",NEGATIVE,1
-"Meyrin, Genève, Suisse",POSITIVE,10
-"Meyrin, genève, suisse",NEGATIVE,2
-"Meyrin, genève, suisse",POSITIVE,3
+Meyrin,NEGATIVE,1
+Meyrin,POSITIVE,8
+"Meyrin, Genève",NEGATIVE,200
+"Meyrin, Genève",POSITIVE,94
+"Meyrin, Genève, Suisse",NEGATIVE,3
+"Meyrin, Genève, Suisse",POSITIVE,8
+"Meyrin, genève, suisse",NEGATIVE,1
+"Meyrin, genève, suisse",POSITIVE,4
 Milan | Switzerland,NEGATIVE,1
-Milano,NEGATIVE,28
-Milano,POSITIVE,20
+Milano,NEGATIVE,32
+Milano,POSITIVE,16
 "Milano, Italy",POSITIVE,1
 "Milano, Lombardia",NEGATIVE,1
-Milão,NEGATIVE,1
+Milão,POSITIVE,1
 "Minusio, Switzerland",NEGATIVE,2
 "Minusio, Switzerland",NEUTRAL,1
 "Minusio, Switzerland",POSITIVE,5
 Mojacar - Marruecos - Ibiza,POSITIVE,1
 Monaco,POSITIVE,2
-Mont-Cul-Sur-La-Commode,NEGATIVE,91
-Mont-Cul-Sur-La-Commode,POSITIVE,36
-"Montana, Suisse",NEGATIVE,22
-"Montana, Suisse",POSITIVE,16
-Monte,NEGATIVE,2
+Mont-Cul-Sur-La-Commode,NEGATIVE,87
+Mont-Cul-Sur-La-Commode,POSITIVE,40
+"Montana, Suisse",NEGATIVE,20
+"Montana, Suisse",POSITIVE,18
+Monte,NEGATIVE,1
+Monte,POSITIVE,1
 "Monte Carasso, Switzerland",NEGATIVE,1
 "Monte Carasso, Switzerland",POSITIVE,18
 "Monte Carasso, Ticino, CH",POSITIVE,1
@@ -2138,57 +2147,57 @@ Monte,NEGATIVE,2
 "Monte,Culebra y Azfalto ~o~",NEUTRAL,3
 "Monte,Culebra y Azfalto ~o~",POSITIVE,9
 "Monterrey City / Chihuahua, Ch",NEGATIVE,1
-Monthey,NEGATIVE,102
-Monthey,POSITIVE,158
-"Monthey, Suisse",NEGATIVE,138
+Monthey,NEGATIVE,100
+Monthey,POSITIVE,160
+"Monthey, Suisse",NEGATIVE,137
 "Monthey, Suisse",NEUTRAL,1
-"Monthey, Suisse",POSITIVE,67
+"Monthey, Suisse",POSITIVE,68
 "Monthey, Switzerland",NEUTRAL,1
 "Monthey, Switzerland",POSITIVE,3
-"Monthey, Valais",NEGATIVE,198
+"Monthey, Valais",NEGATIVE,192
 "Monthey, Valais",NEUTRAL,7
-"Monthey, Valais",POSITIVE,64
-"Monthey, Valais, Suisse",NEGATIVE,3
-"Monthey, Valais, Suisse",POSITIVE,40
+"Monthey, Valais",POSITIVE,70
+"Monthey, Valais, Suisse",NEGATIVE,2
+"Monthey, Valais, Suisse",POSITIVE,41
 "Montpellier, France",POSITIVE,1
 "Montreal, Canada",POSITIVE,1
 "Montreal, QC",POSITIVE,2
-Montreux,NEGATIVE,47
-Montreux,POSITIVE,109
+Montreux,NEGATIVE,54
+Montreux,POSITIVE,102
 Montreux - Villeneuve,POSITIVE,3
 Montreux Riviera,POSITIVE,5
-"Montreux, Suisse",NEGATIVE,37
+"Montreux, Suisse",NEGATIVE,41
 "Montreux, Suisse",NEUTRAL,3
-"Montreux, Suisse",POSITIVE,48
-"Montreux, Suisse.",NEGATIVE,2
-"Montreux, Suisse.",POSITIVE,5
-"Montreux, Switzerland",NEGATIVE,19
+"Montreux, Suisse",POSITIVE,44
+"Montreux, Suisse.",NEGATIVE,3
+"Montreux, Suisse.",POSITIVE,4
+"Montreux, Switzerland",NEGATIVE,16
 "Montreux, Switzerland",NEUTRAL,1
-"Montreux, Switzerland",POSITIVE,69
-"Montreux, Vaud",NEGATIVE,29
-"Montreux, Vaud",POSITIVE,18
+"Montreux, Switzerland",POSITIVE,72
+"Montreux, Vaud",NEGATIVE,32
+"Montreux, Vaud",POSITIVE,15
 "Montreux, Vaud, Suisse",POSITIVE,2
-"Montreux,Suisse",NEGATIVE,9
-"Montreux,Suisse",POSITIVE,58
+"Montreux,Suisse",NEGATIVE,19
+"Montreux,Suisse",POSITIVE,48
 "Montricher (VD), Suisse",POSITIVE,1
 Montévrain,NEGATIVE,22
 Montévrain,NEUTRAL,1
 Montévrain,POSITIVE,31
 Monza,NEGATIVE,2
 Morat (Switzerland),POSITIVE,1
-Morges,NEGATIVE,8
-Morges,POSITIVE,34
+Morges,NEGATIVE,9
+Morges,POSITIVE,33
 "Morges / Fribourg, Suisse",POSITIVE,15
 Morges / Suisse,POSITIVE,1
 "Morges, CH",POSITIVE,1
-"Morges, Lausanne, Switzerland",NEGATIVE,5
-"Morges, Lausanne, Switzerland",POSITIVE,9
-"Morges, Suisse",NEGATIVE,174
+"Morges, Lausanne, Switzerland",NEGATIVE,7
+"Morges, Lausanne, Switzerland",POSITIVE,7
+"Morges, Suisse",NEGATIVE,172
 "Morges, Suisse",NEUTRAL,3
-"Morges, Suisse",POSITIVE,114
-"Morges, Switzerland",NEGATIVE,35
+"Morges, Suisse",POSITIVE,116
+"Morges, Switzerland",NEGATIVE,43
 "Morges, Switzerland",NEUTRAL,1
-"Morges, Switzerland",POSITIVE,103
+"Morges, Switzerland",POSITIVE,95
 "Morges, Vaud",NEGATIVE,3
 "Morges, Vaud",POSITIVE,3
 "Morges, Vaud, Switzerland",POSITIVE,2
@@ -2199,34 +2208,34 @@ Morgins,POSITIVE,6
 Morzine,NEGATIVE,1
 Moscow,POSITIVE,1
 Moudon,POSITIVE,2
-"Moudon, Suisse",NEGATIVE,6
+"Moudon, Suisse",NEGATIVE,5
 "Moudon, Suisse",NEUTRAL,1
-"Moudon, Suisse",POSITIVE,1
-Moutier,NEGATIVE,10
-Moutier,POSITIVE,4
+"Moudon, Suisse",POSITIVE,2
+Moutier,NEGATIVE,9
+Moutier,POSITIVE,5
 "Moutier, Suisse.",NEGATIVE,1
-"Moutier, Switzerland",NEGATIVE,38
-"Moutier, Switzerland",POSITIVE,79
+"Moutier, Switzerland",NEGATIVE,42
+"Moutier, Switzerland",POSITIVE,75
 Muhen,POSITIVE,24
 "Muhen, Schweiz",NEUTRAL,1
-"Mula, USA",NEGATIVE,4
-"Mula, USA",POSITIVE,3
+"Mula, USA",NEGATIVE,3
+"Mula, USA",POSITIVE,4
 Mulhouse FRANCE,NEGATIVE,2
 "Mulhouse, Alsace",NEGATIVE,1
 "Mulhouse, Alsace",POSITIVE,4
-Munich,POSITIVE,1
+Munich,NEGATIVE,1
 "Munich, Germany",POSITIVE,1
 Muri bei Bern,POSITIVE,1
 "Murten, Freiburg",NEGATIVE,1
 "Murten, Freiburg",POSITIVE,5
-"Murten, Fribourg",NEGATIVE,13
-"Murten, Fribourg",POSITIVE,38
+"Murten, Fribourg",NEGATIVE,10
+"Murten, Fribourg",POSITIVE,41
 "Muttenz, Schweiz",NEGATIVE,4
 "Muttenz, Schweiz",NEUTRAL,2
 "Muttenz, Schweiz",POSITIVE,2
 Myrn,NEUTRAL,1
-Mystic Falls,NEGATIVE,2
-Mystic Falls,POSITIVE,1
+Mystic Falls,NEGATIVE,1
+Mystic Falls,POSITIVE,2
 "Málaga, España",NEUTRAL,1
 Málaga/Geneva,POSITIVE,1
 Münchenstein,NEGATIVE,1
@@ -2241,52 +2250,53 @@ NW,POSITIVE,8
 "NW, London",NEUTRAL,1
 "NW, UK",POSITIVE,1
 "NW, United Kingdom",POSITIVE,1
-"NYON, Switzerland",NEGATIVE,2
-"NYON, Switzerland",POSITIVE,7
+"NYON, Switzerland",NEGATIVE,1
+"NYON, Switzerland",POSITIVE,8
 Nancy • Suisse • Montpellier,NEGATIVE,1
 Nancy • Suisse • Montpellier,POSITIVE,2
 Nantes,NEGATIVE,1
-Naters,POSITIVE,4
+Naters,NEGATIVE,1
+Naters,POSITIVE,3
 "Nauchâtel, Suisse",POSITIVE,30
 "Near Zurich, Switzerland",NEGATIVE,1
 "Near Zurich, Switzerland",POSITIVE,1
-"Nendaz, Switzerland",NEGATIVE,16
-"Nendaz, Switzerland",POSITIVE,14
+"Nendaz, Switzerland",NEGATIVE,13
+"Nendaz, Switzerland",POSITIVE,17
 "Nendaz, Valais",NEGATIVE,17
 "Nendaz, Valais",NEUTRAL,1
 "Nendaz, Valais",POSITIVE,5
-"Nendaz, Valais, Suisse",NEGATIVE,7
-"Nendaz, Valais, Suisse",POSITIVE,7
-"Nendaz, Valais, Switzerland",NEGATIVE,3
-"Nendaz, Valais, Switzerland",POSITIVE,27
+"Nendaz, Valais, Suisse",NEGATIVE,8
+"Nendaz, Valais, Suisse",POSITIVE,6
+"Nendaz, Valais, Switzerland",NEGATIVE,4
+"Nendaz, Valais, Switzerland",POSITIVE,26
 Neuchatel,POSITIVE,1
-Neuchatel 2000,NEGATIVE,1
-Neuchatel 2000,POSITIVE,1
+Neuchatel 2000,POSITIVE,2
 "Neuchatel, Lévis",POSITIVE,7
-"Neuchatel, Switzerland",POSITIVE,3
-"Neuchatte, Suisse",NEGATIVE,7
-"Neuchatte, Suisse",POSITIVE,41
-Neuchâtel,NEGATIVE,367
+"Neuchatel, Switzerland",NEGATIVE,1
+"Neuchatel, Switzerland",POSITIVE,2
+"Neuchatte, Suisse",NEGATIVE,8
+"Neuchatte, Suisse",POSITIVE,40
+Neuchâtel,NEGATIVE,376
 Neuchâtel,NEUTRAL,3
-Neuchâtel,POSITIVE,428
+Neuchâtel,POSITIVE,419
 Neuchâtel suisse,POSITIVE,2
 "Neuchâtel, Berne...ou ailleurs",NEGATIVE,1
 "Neuchâtel, Berne...ou ailleurs",POSITIVE,1
-"Neuchâtel, CH",NEGATIVE,5
-"Neuchâtel, CH",POSITIVE,19
-"Neuchâtel, Romandie",NEGATIVE,25
+"Neuchâtel, CH",NEGATIVE,6
+"Neuchâtel, CH",POSITIVE,18
+"Neuchâtel, Romandie",NEGATIVE,20
 "Neuchâtel, Romandie",NEUTRAL,1
-"Neuchâtel, Romandie",POSITIVE,26
-"Neuchâtel, Suisse",NEGATIVE,1304
+"Neuchâtel, Romandie",POSITIVE,31
+"Neuchâtel, Suisse",NEGATIVE,1315
 "Neuchâtel, Suisse",NEUTRAL,12
-"Neuchâtel, Suisse",POSITIVE,1138
+"Neuchâtel, Suisse",POSITIVE,1127
 "Neuchâtel, Suisse Korriban",NEGATIVE,151
 "Neuchâtel, Suisse Korriban",NEUTRAL,3
 "Neuchâtel, Suisse Korriban",POSITIVE,46
 "Neuchâtel, Suiza",POSITIVE,1
-"Neuchâtel, Switzerland",NEGATIVE,697
+"Neuchâtel, Switzerland",NEGATIVE,732
 "Neuchâtel, Switzerland",NEUTRAL,3
-"Neuchâtel, Switzerland",POSITIVE,1086
+"Neuchâtel, Switzerland",POSITIVE,1051
 "Neuchâtel,CH",POSITIVE,1
 "Neuchâtel,Suisse",NEGATIVE,6
 "Neuchâtel,Suisse",POSITIVE,6
@@ -2294,46 +2304,46 @@ Neuhausen am Rheinfall,NEUTRAL,1
 "New Haven, CT",POSITIVE,1
 "New Vegas,RNK",NEUTRAL,1
 New York,POSITIVE,1
-New York City,NEGATIVE,1
-New York City,POSITIVE,1
+New York City,POSITIVE,2
 "New York, NY",POSITIVE,1
 "New York, USA",NEGATIVE,18
 "New York, USA",POSITIVE,3
-Nice,NEGATIVE,4
-Nice,POSITIVE,6
-"Nice, Provence-Alpes-Côte d'Azur",NEGATIVE,1
+Nice,NEGATIVE,5
+Nice,POSITIVE,5
+"Nice, Provence-Alpes-Côte d'Azur",POSITIVE,1
 "Nidau, Schweiz",POSITIVE,1
 "Niederlenz, Switzerland",POSITIVE,1
 "Niederwangen, Switzerland",POSITIVE,1
-Nogent sur Marne,NEGATIVE,1
-Nogent sur Marne,POSITIVE,2
-None,NEGATIVE,7789
+Nogent sur Marne,POSITIVE,3
+None,NEGATIVE,7724
 None,NEUTRAL,88
-None,POSITIVE,6633
+None,POSITIVE,6698
 "Nootdorp, ZH, Nederland",NEUTRAL,1
 "Nord Vaudois, Suisse",NEGATIVE,1
 "Nord Vaudois, Suisse",POSITIVE,2
-"Nord-Vaudois, Suisse",NEGATIVE,5
-"Nord-Vaudois, Suisse",POSITIVE,40
-Northern Ireland / USA,POSITIVE,2
+"Nord-Vaudois, Suisse",NEGATIVE,6
+"Nord-Vaudois, Suisse",POSITIVE,39
+Northern Ireland / USA,NEGATIVE,1
+Northern Ireland / USA,POSITIVE,1
 "Noréaz, Fribourg",NEGATIVE,2
 "Noréaz, Fribourg",POSITIVE,3
 "Nova, Friburgo",NEUTRAL,1
-"Noville, Vaud, Switzerland",POSITIVE,3
+"Noville, Vaud, Switzerland",NEGATIVE,1
+"Noville, Vaud, Switzerland",POSITIVE,2
 Nusshof; Switzerland,NEGATIVE,1
 Nusshof; Switzerland,POSITIVE,1
-Nw,NEGATIVE,25
-Nw,POSITIVE,8
-Nyon,NEGATIVE,56
-Nyon,POSITIVE,213
+Nw,NEGATIVE,23
+Nw,POSITIVE,10
+Nyon,NEGATIVE,75
+Nyon,POSITIVE,194
 Nyon Région,POSITIVE,1
 "Nyon, Genève, Suisse",POSITIVE,1
-"Nyon, Suisse",NEGATIVE,168
-"Nyon, Suisse",POSITIVE,384
-"Nyon, Switzerland",NEGATIVE,449
-"Nyon, Switzerland",POSITIVE,682
-"Nyon, Vaud",NEGATIVE,1
-"Nyon, Vaud",POSITIVE,6
+"Nyon, Suisse",NEGATIVE,198
+"Nyon, Suisse",POSITIVE,354
+"Nyon, Switzerland",NEGATIVE,517
+"Nyon, Switzerland",POSITIVE,614
+"Nyon, Vaud",NEGATIVE,3
+"Nyon, Vaud",POSITIVE,4
 "Nähe Bern, Schweiz",POSITIVE,1
 "Nänikon, Switzerland",POSITIVE,1
 ONE,NEUTRAL,1
@@ -2344,58 +2354,59 @@ Oberer Zürichsee,NEGATIVE,1
 Oberwil BL,POSITIVE,5
 "Obfelden, Switzerland",POSITIVE,1
 Olen,POSITIVE,1
-"Ollon, Suisse",NEGATIVE,1
-"Ollon, Suisse",POSITIVE,9
-"Ollon, Switzerland",NEGATIVE,1
+"Ollon, Suisse",NEGATIVE,2
+"Ollon, Suisse",POSITIVE,8
+"Ollon, Switzerland",POSITIVE,1
 "Ollon, Swizerland",POSITIVE,1
 Olten,POSITIVE,1
 "Olten, Suisse",POSITIVE,2
 "Olten/Neuchâtel/Lausanne, CH",POSITIVE,1
-On the Ground,POSITIVE,1
+On the Ground,NEGATIVE,1
 Onex,NEGATIVE,14
 Onex,POSITIVE,20
 "Onex, Genève",NEGATIVE,2
 "Onex, Genève",POSITIVE,2
-"Onex, Suisse",NEGATIVE,78
+"Onex, Suisse",NEGATIVE,79
 "Onex, Suisse",NEUTRAL,1
-"Onex, Suisse",POSITIVE,16
+"Onex, Suisse",POSITIVE,15
 "Onex,GE",POSITIVE,1
 Ontinyent,POSITIVE,1
-Orbe,NEGATIVE,3
-Orbe,POSITIVE,24
-"Orbe, Suisse",POSITIVE,32
+Orbe,NEGATIVE,4
+Orbe,POSITIVE,23
+"Orbe, Suisse",NEGATIVE,3
+"Orbe, Suisse",POSITIVE,29
 Orcières 1850,POSITIVE,2
-"Orges, Vaud",NEGATIVE,2
-"Orges, Vaud",POSITIVE,3
+"Orges, Vaud",NEGATIVE,1
+"Orges, Vaud",POSITIVE,4
 Oron-la-Ville,NEGATIVE,2
 Oron-la-Ville,POSITIVE,6
 "Oron-la-Ville, Switzerland",POSITIVE,1
 Orsières,NEGATIVE,1
 Orsières,POSITIVE,8
 "Orsières, Valais",POSITIVE,3
-"Orvin, Suisse",NEGATIVE,1
-"Orvin, Suisse",POSITIVE,1
+"Orvin, Suisse",POSITIVE,2
 "Ostermundigen, Bern",POSITIVE,2
-"Ostermundigen, Schweiz",POSITIVE,3
+"Ostermundigen, Schweiz",NEGATIVE,1
+"Ostermundigen, Schweiz",POSITIVE,2
 "Ostholstein, SH, Germany",NEGATIVE,5
 "Ostholstein, SH, Germany",POSITIVE,1
 Ovronnaz,POSITIVE,4
-Où y'a l'argent,NEGATIVE,33
-Où y'a l'argent,POSITIVE,14
+Où y'a l'argent,NEGATIVE,32
+Où y'a l'argent,POSITIVE,15
 PARIS,POSITIVE,1
 PE,POSITIVE,1
 PHIL✖️SUISSE,POSITIVE,1
 PNG-KULIM-IPOH-PERLIS,NEGATIVE,1
-Palais des Nations,NEGATIVE,3
-Palais des Nations,POSITIVE,2
-"Palettes, Genève",NEGATIVE,11
-"Palettes, Genève",POSITIVE,4
+Palais des Nations,NEGATIVE,2
+Palais des Nations,POSITIVE,3
+"Palettes, Genève",NEGATIVE,10
+"Palettes, Genève",POSITIVE,5
 Palma,NEGATIVE,1
 Palma,POSITIVE,1
 "Paradiso, Svizzera",POSITIVE,1
 Paraguay,POSITIVE,1
-Paris,NEGATIVE,58
-Paris,POSITIVE,146
+Paris,NEGATIVE,64
+Paris,POSITIVE,140
 Paris - Italy - #LFPZ,POSITIVE,1
 Paris - Montréal,NEGATIVE,1
 Paris 16 ...et partout .,NEGATIVE,1
@@ -2408,42 +2419,45 @@ Paris Intra-muros,POSITIVE,4
 Paris XI,NEGATIVE,2
 "Paris, 75014",POSITIVE,1
 "Paris, FRANCE",POSITIVE,3
-"Paris, France",NEGATIVE,13
-"Paris, France",POSITIVE,22
+"Paris, France",NEGATIVE,12
+"Paris, France",POSITIVE,23
 "Paris, Genève & Lausanne",NEGATIVE,2
 "Paris, Genève & Lausanne",POSITIVE,2
 "Paris, Ile-de-France",POSITIVE,2
 "Paris, Lausanne",NEGATIVE,1
 "Paris, Lausanne",POSITIVE,2
-"Paris, Lausanne, Wien",NEGATIVE,24
-"Paris, Lausanne, Wien",POSITIVE,16
+"Paris, Lausanne, Wien",NEGATIVE,20
+"Paris, Lausanne, Wien",POSITIVE,20
 "Paris, Lyon et Genève",POSITIVE,4
 "Paris, Rouen, Rennes, Dallas",POSITIVE,1
 "Paris, i d f , Bourgogne",POSITIVE,3
 "Paris, la France",POSITIVE,1
-"Paris-FR | Bern-CH, EU",NEGATIVE,2
+"Paris-FR | Bern-CH, EU",NEGATIVE,1
 "Paris-FR | Bern-CH, EU",NEUTRAL,2
+"Paris-FR | Bern-CH, EU",POSITIVE,1
 Paris-France,POSITIVE,1
 Paris-Geneva-Lausanne-Dijon,POSITIVE,1
-Paris.,POSITIVE,1
-Paris/Abidjan/Suisse,POSITIVE,2
+Paris.,NEGATIVE,1
+Paris/Abidjan/Suisse,NEGATIVE,1
+Paris/Abidjan/Suisse,POSITIVE,1
 Parisienne installée en Suisse,POSITIVE,2
 "Pasir Puteh,Kelantan",POSITIVE,1
 Paterna de Rivera - Cádizzz,POSITIVE,3
-"Paudex, Suisse",NEGATIVE,13
-"Paudex, Suisse",POSITIVE,26
+"Paudex, Suisse",NEGATIVE,11
+"Paudex, Suisse",POSITIVE,28
 Payerne,NEGATIVE,3
 Payerne,POSITIVE,2
 Payerne Suisse,NEGATIVE,1
 Payerne Suisse,POSITIVE,1
 "Payerne, Switzerland",NEGATIVE,1
 "Payerne, Switzerland",POSITIVE,5
-"Payerne, Vaud",NEGATIVE,6
-"Payerne, Vaud",POSITIVE,41
+"Payerne, Vaud",NEGATIVE,10
+"Payerne, Vaud",POSITIVE,37
 "Penang, Malaysia",POSITIVE,1
-Penthalaz,NEGATIVE,4
-Penthalaz,POSITIVE,10
-"Penthalaz, Suisse",POSITIVE,7
+Penthalaz,NEGATIVE,5
+Penthalaz,POSITIVE,9
+"Penthalaz, Suisse",NEGATIVE,2
+"Penthalaz, Suisse",POSITIVE,5
 Perdu Entre Des Montagnes,NEUTRAL,1
 Perdu Entre Des Montagnes,POSITIVE,1
 Perdu sur Twitter..,POSITIVE,1
@@ -2455,8 +2469,8 @@ Pern,NEUTRAL,1
 "Pern, France",POSITIVE,40
 "Perth, Australia",NEGATIVE,1
 "Perth, Western Australia",POSITIVE,1
-"Peseux, Neuchâtel",NEGATIVE,9
-"Peseux, Neuchâtel",POSITIVE,19
+"Peseux, Neuchâtel",NEGATIVE,10
+"Peseux, Neuchâtel",POSITIVE,18
 Petaling Jaya,POSITIVE,1
 "Petite Montagne, Jura",POSITIVE,5
 Pfisterhölzli,NEGATIVE,1
@@ -2465,17 +2479,18 @@ Philly & LA,POSITIVE,1
 Photographer Model,POSITIVE,1
 Pieterlen,NEGATIVE,1
 Pieterlen,POSITIVE,1
-Pink city,POSITIVE,4
+Pink city,NEGATIVE,1
+Pink city,POSITIVE,3
 Pisa,POSITIVE,1
 "Place de la Madeleine, Genève",POSITIVE,9
 "Place du Nord 6, 1005 Lausanne",POSITIVE,1
 "Plan les Ouates, Switzerland",NEGATIVE,3
 "Plan les Ouates, Switzerland",POSITIVE,2
-Plan-les-Ouates,NEGATIVE,21
+Plan-les-Ouates,NEGATIVE,22
 Plan-les-Ouates,NEUTRAL,2
-Plan-les-Ouates,POSITIVE,7
-"Plan-les-Ouates, CH",NEGATIVE,2
-"Plan-les-Ouates, CH",POSITIVE,11
+Plan-les-Ouates,POSITIVE,6
+"Plan-les-Ouates, CH",NEGATIVE,1
+"Plan-les-Ouates, CH",POSITIVE,12
 "Plan-les-Ouates, Genève",POSITIVE,4
 "Pontarlier, France",NEGATIVE,5
 "Pontarlier, France",POSITIVE,1
@@ -2483,118 +2498,117 @@ Pontresina,POSITIVE,1
 Por ser como soy ;,NEUTRAL,1
 Porrentruy,NEGATIVE,6
 Porrentruy,POSITIVE,4
-"Porrentruy, JU",NEGATIVE,37
+"Porrentruy, JU",NEGATIVE,40
 "Porrentruy, JU",NEUTRAL,2
-"Porrentruy, JU",POSITIVE,14
+"Porrentruy, JU",POSITIVE,11
 "Porrentruy, Jura",POSITIVE,7
 "Porrentruy, Switzerland",POSITIVE,1
 Port la Nouvelle,POSITIVE,1
 "Port, Bern",POSITIVE,1
 "Port-Valais, Suisse",POSITIVE,1
 "Port-Valais, Valais",POSITIVE,1
-"Port-la-Nouvelle, France",POSITIVE,1
+"Port-la-Nouvelle, France",NEGATIVE,1
 Portimão,NEGATIVE,1
 Portimão,POSITIVE,1
 Portugal,NEGATIVE,3
 Portugal,POSITIVE,5
-"Portugal, Famalicão",NEGATIVE,79
-"Portugal, Famalicão",POSITIVE,16
-Poschiavo,NEGATIVE,4
-Poschiavo,POSITIVE,4
+"Portugal, Famalicão",NEGATIVE,74
+"Portugal, Famalicão",POSITIVE,21
+Poschiavo,NEGATIVE,6
+Poschiavo,POSITIVE,2
 "Posieux, Suisse",NEGATIVE,1
-Prangins,NEGATIVE,10
+Prangins,NEGATIVE,6
 Prangins,NEUTRAL,1
-Prangins,POSITIVE,14
-"Prangins, Vaud",NEGATIVE,4
+Prangins,POSITIVE,18
+"Prangins, Vaud",NEGATIVE,3
 "Prangins, Vaud",NEUTRAL,1
-"Prangins, Vaud",POSITIVE,7
+"Prangins, Vaud",POSITIVE,8
 "Pratteln, Schweiz",NEGATIVE,3
 "Praz-Vully, Suisse",POSITIVE,2
-"Presinge, Switzerland",POSITIVE,10
+"Presinge, Switzerland",NEGATIVE,2
+"Presinge, Switzerland",POSITIVE,8
 Preverenges Suisse,NEGATIVE,3
 Preverenges Suisse,NEUTRAL,1
-Prilly,NEGATIVE,43
+Prilly,NEGATIVE,45
 Prilly,NEUTRAL,1
-Prilly,POSITIVE,33
-"Prilly, Suisse",NEGATIVE,39
-"Prilly, Suisse",POSITIVE,17
+Prilly,POSITIVE,31
+"Prilly, Suisse",NEGATIVE,34
+"Prilly, Suisse",POSITIVE,22
 "Prilly, Switzerland",POSITIVE,2
 "Provence, France",POSITIVE,5
 "Provence, Suisse",POSITIVE,1
 "Prémanon, Jura, France",NEGATIVE,1
-"Préverenges, Vaud, Suisse",NEGATIVE,21
-"Préverenges, Vaud, Suisse",POSITIVE,65
+"Préverenges, Vaud, Suisse",NEGATIVE,25
+"Préverenges, Vaud, Suisse",POSITIVE,61
 "Préverenges, suisse",POSITIVE,2
 "Puidoux, Switzerland",POSITIVE,24
-"Puidoux, Vaud, Switzerland",NEGATIVE,11
-"Puidoux, Vaud, Switzerland",POSITIVE,16
-Pully,NEGATIVE,10
-Pully,POSITIVE,68
+"Puidoux, Vaud, Switzerland",NEGATIVE,12
+"Puidoux, Vaud, Switzerland",POSITIVE,15
+Pully,NEGATIVE,11
+Pully,POSITIVE,67
 "Pully, CH",POSITIVE,1
-"Pully, Suisse",NEGATIVE,7
-"Pully, Suisse",POSITIVE,12
+"Pully, Suisse",NEGATIVE,6
+"Pully, Suisse",POSITIVE,13
 "Pully, Suisse.",NEGATIVE,2
 "Pully, Switzerland",POSITIVE,1
-Péry,NEGATIVE,5
-Péry,POSITIVE,9
+Péry,NEGATIVE,4
+Péry,POSITIVE,10
 "Péry, Berne",NEGATIVE,5
 "Péry, Berne",POSITIVE,3
 P▲RIS XVII,NEGATIVE,1
 P▲RIS XVII,POSITIVE,1
 Qairawan,POSITIVE,1
 "Qortuba, Kuwait",POSITIVE,1
-"Quartiers Nord, Genève",NEGATIVE,257
+"Quartiers Nord, Genève",NEGATIVE,252
 "Quartiers Nord, Genève",NEUTRAL,5
-"Quartiers Nord, Genève",POSITIVE,44
+"Quartiers Nord, Genève",POSITIVE,49
 QueenSo,POSITIVE,1
 "Quezon City,Philippines",POSITIVE,1
 RYAN,NEUTRAL,1
 RYAN,POSITIVE,2
 "Rafz, Switzerland",POSITIVE,1
 "Randweg 21, 3013 Bern, CH",NEUTRAL,1
-Rapperswil,NEGATIVE,10
-Rapperswil,POSITIVE,35
+Rapperswil,NEGATIVE,16
+Rapperswil,POSITIVE,29
 "Rapperswil, Switzerland",POSITIVE,1
 "Rapperswil-Jona, Sankt Gallen",POSITIVE,2
 "Rapperswil-Jona, Schweiz",NEGATIVE,1
 "Rapperswil-Jona, Schweiz",POSITIVE,2
-Real: Switzerland,NEGATIVE,1
-Real: Switzerland,POSITIVE,2
+Real: Switzerland,POSITIVE,3
 "Reims, Champagne, France",POSITIVE,1
 "Reims, France",POSITIVE,1
-"Reinach, Baselland, Schweiz",NEGATIVE,1
+"Reinach, Baselland, Schweiz",POSITIVE,1
 "Reinach, Switzerland",NEGATIVE,2
 "Reinach, Switzerland",POSITIVE,3
 Renens,NEGATIVE,2
 Renens,POSITIVE,7
-"Renens (VD), Suisse",NEGATIVE,8
+"Renens (VD), Suisse",NEGATIVE,13
 "Renens (VD), Suisse",NEUTRAL,2
-"Renens (VD), Suisse",POSITIVE,21
-"Renens (VD), Vaud",NEGATIVE,13
-"Renens (VD), Vaud",POSITIVE,27
+"Renens (VD), Suisse",POSITIVE,16
+"Renens (VD), Vaud",NEGATIVE,12
+"Renens (VD), Vaud",POSITIVE,28
 Renens VD,POSITIVE,4
-"Renens, Suisse",NEGATIVE,1
-"Renens, Suisse",POSITIVE,1
-"Renens, Switzerland",NEGATIVE,3
-"Renens, Switzerland",POSITIVE,9
+"Renens, Suisse",NEGATIVE,2
+"Renens, Switzerland",NEGATIVE,4
+"Renens, Switzerland",POSITIVE,8
 "Renens, VD, Suisse",NEGATIVE,2
 "Renens, VD, Suisse",POSITIVE,5
 "Renens, switzerland",POSITIVE,1
-Rennes,NEGATIVE,2
-Rennes,POSITIVE,6
+Rennes,NEGATIVE,3
+Rennes,POSITIVE,5
 Rezi-Mafia-Hauptquartier,NEGATIVE,3
 Rezi-Mafia-Hauptquartier,POSITIVE,5
 "Rheinfelden, Schweiz",NEGATIVE,1
 "Rheinfelden, Switzerland",POSITIVE,1
-"Rhône, Jura, FRANCE",NEGATIVE,7
-"Rhône, Jura, FRANCE",POSITIVE,10
-Riaz,NEGATIVE,5
-Riaz,POSITIVE,49
-Riddes,NEGATIVE,2
-Riddes,POSITIVE,13
+"Rhône, Jura, FRANCE",NEGATIVE,9
+"Rhône, Jura, FRANCE",POSITIVE,8
+Riaz,NEGATIVE,6
+Riaz,POSITIVE,48
+Riddes,NEGATIVE,1
+Riddes,POSITIVE,14
 Riehen,POSITIVE,1
-Rien,NEGATIVE,6
-Rien,POSITIVE,6
+Rien,NEGATIVE,7
+Rien,POSITIVE,5
 Riffa,POSITIVE,4
 Right where I am today!,NEGATIVE,1
 Right where I am today!,POSITIVE,1
@@ -2603,36 +2617,38 @@ Rio de Janeiro,POSITIVE,2
 "Rio de Janeiro, Brasil",POSITIVE,2
 Riom,NEGATIVE,1
 Riviera Suisse,POSITIVE,1
-Riyadh,POSITIVE,4
+Riyadh,NEGATIVE,1
+Riyadh,POSITIVE,3
 "Riyadh , Saudi Arabia",POSITIVE,1
 "Riyadh, Kingdom of Saudi Arabia",POSITIVE,2
 "Riyadh, SA",POSITIVE,11
 Riyadh.,POSITIVE,1
 "Rochester, NY",POSITIVE,1
-Rolle,NEGATIVE,3
-Rolle,POSITIVE,14
-"Rolle, Suisse",NEGATIVE,6
-"Rolle, Suisse",POSITIVE,17
-"Rolle, Switzerland",NEGATIVE,11
-"Rolle, Switzerland",POSITIVE,23
-Rolle/Fribourg/Genève,NEGATIVE,1
-Rolle/Fribourg/Genève,POSITIVE,5
+Rolle,NEGATIVE,4
+Rolle,POSITIVE,13
+"Rolle, Suisse",NEGATIVE,5
+"Rolle, Suisse",POSITIVE,18
+"Rolle, Switzerland",NEGATIVE,10
+"Rolle, Switzerland",POSITIVE,24
+Rolle/Fribourg/Genève,NEGATIVE,2
+Rolle/Fribourg/Genève,POSITIVE,4
 Roma,POSITIVE,2
-"Romainmôtier, Suisse",NEGATIVE,3
-"Romainmôtier, Suisse",POSITIVE,15
+"Romainmôtier, Suisse",NEGATIVE,4
+"Romainmôtier, Suisse",POSITIVE,14
 "Romainmôtier, Vaud, Suisse",NEGATIVE,1
 Romandie,POSITIVE,2
 "Romandie, Suisse",NEGATIVE,5
 "Romandie, Suisse",POSITIVE,6
 "Romanel, Switzerland",NEGATIVE,6
 "Romanel, Switzerland",POSITIVE,2
-"Rome, Lazio",POSITIVE,10
+"Rome, Lazio",NEGATIVE,8
+"Rome, Lazio",POSITIVE,2
 Romont,NEGATIVE,2
 Romont,POSITIVE,1
 "Romont (FR), Fribourg",POSITIVE,4
 "Romont, Lausanne Suisse",POSITIVE,1
-"Romont, Switzerland",NEGATIVE,1
-"Romont, Switzerland",POSITIVE,12
+"Romont, Switzerland",NEGATIVE,2
+"Romont, Switzerland",POSITIVE,11
 Root,NEGATIVE,1
 Rossendale Lancashire England,NEGATIVE,1
 Rossendale Lancashire England,POSITIVE,7
@@ -2641,49 +2657,51 @@ Rossendale Lancashire England,POSITIVE,7
 Rouge&Blanc,POSITIVE,2
 Rubigen,POSITIVE,2
 "Rue de Berne 9, Genève, 1201",POSITIVE,1
-Rue de Lausanne 53 1110 Morges,POSITIVE,5
+Rue de Lausanne 53 1110 Morges,NEGATIVE,1
+Rue de Lausanne 53 1110 Morges,POSITIVE,4
 "Rupelmondestraat 61,Bazel",POSITIVE,1
 "Réclère, Haute-Ajoie / Jura,CH",POSITIVE,1
-"Région Lausannoise, Suisse",NEGATIVE,2
-"Région Lausannoise, Suisse",POSITIVE,3
+"Région Lausannoise, Suisse",NEGATIVE,1
+"Région Lausannoise, Suisse",POSITIVE,4
 "Région lémanique, Suisse",POSITIVE,1
 "Rüttenen, Solothurn",NEGATIVE,1
 "Rüttenen, Solothurn",POSITIVE,2
 SH,POSITIVE,1
-SHWEIZ ACH JA,NEGATIVE,7
-SHWEIZ ACH JA,POSITIVE,2
-SION.EST,POSITIVE,1
-SUISSE,NEGATIVE,126
+SHWEIZ ACH JA,NEGATIVE,6
+SHWEIZ ACH JA,POSITIVE,3
+SION.EST,NEGATIVE,1
+SUISSE,NEGATIVE,136
 SUISSE,NEUTRAL,1
-SUISSE,POSITIVE,291
+SUISSE,POSITIVE,281
 SUISSE -VALAIS- VAL D HERENS,POSITIVE,1
-SWITZERLAND,NEGATIVE,39
-SWITZERLAND,POSITIVE,115
+SWITZERLAND,NEGATIVE,41
+SWITZERLAND,POSITIVE,113
 Saas-Fee,POSITIVE,1
-"Saas-Fee, CH & Valletta, MT.",NEGATIVE,7
-"Saas-Fee, CH & Valletta, MT.",POSITIVE,16
-Sadnessland,NEGATIVE,490
+"Saas-Fee, CH & Valletta, MT.",NEGATIVE,8
+"Saas-Fee, CH & Valletta, MT.",POSITIVE,15
+Sadnessland,NEGATIVE,477
 Sadnessland,NEUTRAL,9
-Sadnessland,POSITIVE,189
+Sadnessland,POSITIVE,202
 Saignelégier,POSITIVE,1
 Saillon,POSITIVE,1
-"Saillon, Valais",POSITIVE,2
+"Saillon, Valais",NEGATIVE,1
+"Saillon, Valais",POSITIVE,1
 Saint Gallen,NEUTRAL,1
-"Saint Gallen, Switzerland",NEGATIVE,4
-"Saint Gallen, Switzerland",POSITIVE,11
+"Saint Gallen, Switzerland",NEGATIVE,6
+"Saint Gallen, Switzerland",POSITIVE,9
 Saint Germain en Laye,POSITIVE,1
-Saint-Blaise,NEGATIVE,141
+Saint-Blaise,NEGATIVE,144
 Saint-Blaise,NEUTRAL,3
-Saint-Blaise,POSITIVE,38
+Saint-Blaise,POSITIVE,35
 "Saint-Blaise, Switzerland",NEUTRAL,2
 "Saint-Blaise, Switzerland",POSITIVE,2
-Saint-Denis,NEGATIVE,30
-Saint-Denis,POSITIVE,28
+Saint-Denis,NEGATIVE,28
+Saint-Denis,POSITIVE,30
 Saint-Etienne France,POSITIVE,1
 "Saint-Etienne, Rhône-Alpes",NEGATIVE,3
 "Saint-Etienne, Rhône-Alpes",POSITIVE,1
-Saint-Imier,NEGATIVE,4
-Saint-Imier,POSITIVE,13
+Saint-Imier,NEGATIVE,7
+Saint-Imier,POSITIVE,10
 Saint-Imier / Suisse,NEGATIVE,1
 Saint-Imier / Suisse,POSITIVE,4
 "Saint-Imier, Berne",POSITIVE,1
@@ -2693,13 +2711,13 @@ Saint-Imier / Suisse,POSITIVE,4
 "Saint-Louis, France",POSITIVE,1
 "Saint-Maximin, France",POSITIVE,1
 Saint-P in my soul,POSITIVE,1
-"Saint-Prex, Suisse",NEGATIVE,6
-"Saint-Prex, Suisse",POSITIVE,14
+"Saint-Prex, Suisse",NEGATIVE,4
+"Saint-Prex, Suisse",POSITIVE,16
 Saint-Raphaël,NEGATIVE,2
 Saint-Raphaël,POSITIVE,5
-"Saint-Sulpice (VD), Suisse",NEGATIVE,1
-"Saint-Sulpice (VD), Suisse",POSITIVE,16
-"Sainte-Croix, 1450, Suisse",POSITIVE,14
+"Saint-Sulpice (VD), Suisse",POSITIVE,17
+"Sainte-Croix, 1450, Suisse",NEGATIVE,1
+"Sainte-Croix, 1450, Suisse",POSITIVE,13
 "Salad, Bar",POSITIVE,1
 San Diego / LA / NYC / Paris,POSITIVE,1
 San Francisco,POSITIVE,3
@@ -2720,27 +2738,25 @@ Satigny,POSITIVE,3
 "Savannah, Georgia, USA",POSITIVE,1
 "Savigny, VD, Suisse",NEGATIVE,1
 "Savigny, VD, Suisse",POSITIVE,2
-Savièse,NEGATIVE,2
-Savièse,POSITIVE,5
-"Savièse, Valais",NEGATIVE,1
+Savièse,NEGATIVE,3
+Savièse,POSITIVE,4
+"Savièse, Valais",NEGATIVE,2
 "Savièse, Valais",NEUTRAL,1
-"Savièse, Valais",POSITIVE,4
-"Savièse,Suisse",NEGATIVE,2
-"Savièse,Suisse",POSITIVE,2
+"Savièse, Valais",POSITIVE,3
+"Savièse,Suisse",NEGATIVE,4
 Saxon,POSITIVE,12
-"Saxon, Suisse",NEGATIVE,1
-"Saxon, Suisse",POSITIVE,15
+"Saxon, Suisse",POSITIVE,16
 "Saxon, Valais",NEGATIVE,2
 "Saxon, Valais",POSITIVE,1
 "Saxon, Valais, Suisse",POSITIVE,14
 "Saxon, WI",NEUTRAL,1
 Schaffhausen,POSITIVE,3
-"Schaffhausen, Switzerland",NEGATIVE,70
-"Schaffhausen, Switzerland",POSITIVE,85
+"Schaffhausen, Switzerland",NEGATIVE,60
+"Schaffhausen, Switzerland",POSITIVE,95
 "Schwarsee/FR, Switzerland",POSITIVE,1
-Schweiz,NEGATIVE,160
+Schweiz,NEGATIVE,184
 Schweiz,NEUTRAL,24
-Schweiz,POSITIVE,492
+Schweiz,POSITIVE,468
 Schweiz -Bern,POSITIVE,1
 "Schweiz, Aargau",POSITIVE,1
 "Schweiz, Albanien",POSITIVE,1
@@ -2752,89 +2768,91 @@ Schweiz -Bern,POSITIVE,1
 "Schweiz, Freienbach",POSITIVE,1
 "Schweiz, Germany, Ireland & UK",NEGATIVE,1
 "Schweiz, Germany, Ireland & UK",POSITIVE,1
-"Schweiz, Schaffhausen",NEGATIVE,3
-"Schweiz, Schaffhausen",POSITIVE,4
+"Schweiz, Schaffhausen",NEGATIVE,4
+"Schweiz, Schaffhausen",POSITIVE,3
 "Schweiz, Seetal",NEUTRAL,1
 "Schweiz, Seetal",POSITIVE,1
-"Schweiz, Suisse, Svizzera",NEGATIVE,1
-"Schweiz, Suisse, Svizzera",POSITIVE,5
-"Schweiz, Suisse, Switzerland",NEGATIVE,7
-"Schweiz, Suisse, Switzerland",POSITIVE,11
-"Schweiz, Ursprung: POTT :-)",NEGATIVE,2
+"Schweiz, Suisse, Svizzera",POSITIVE,6
+"Schweiz, Suisse, Switzerland",NEGATIVE,5
+"Schweiz, Suisse, Switzerland",POSITIVE,13
+"Schweiz, Ursprung: POTT :-)",NEGATIVE,1
+"Schweiz, Ursprung: POTT :-)",POSITIVE,1
 "Schweiz, Zürich",POSITIVE,4
 Schönenwerd,POSITIVE,1
-Schüpfheim,POSITIVE,1
+Schüpfheim,NEGATIVE,1
 Scotland,POSITIVE,1
 "Scotland, United Kingdom",POSITIVE,1
-"Scuol, Schweiz",POSITIVE,1
+"Scuol, Schweiz",NEGATIVE,1
 "Seattle, WA",NEUTRAL,1
 "Seattle, WA (#suburblife)",POSITIVE,1
 Sedunum,NEGATIVE,1
-Seebach,NEGATIVE,37
+Seebach,NEGATIVE,34
 Seebach,NEUTRAL,2
-Seebach,POSITIVE,11
-"Seebach, France",NEGATIVE,558
+Seebach,POSITIVE,14
+"Seebach, France",NEGATIVE,549
 "Seebach, France",NEUTRAL,1
-"Seebach, France",POSITIVE,175
+"Seebach, France",POSITIVE,184
 "Seebach, Zürich, Svizzera",NEGATIVE,4
 "Seebach, Zürich, Svizzera",NEUTRAL,1
 "Seebach, Zürich, Svizzera",POSITIVE,3
 "Seeland, Suisse",POSITIVE,1
-Seine-Maritime,NEGATIVE,1
+Seine-Maritime,POSITIVE,1
 Sempach,POSITIVE,2
 Sempach et Suisse romande,NEGATIVE,1
-"Seoul, Republic of Korea",NEGATIVE,5
-"Seoul, Republic of Korea",POSITIVE,3
+"Seoul, Republic of Korea",NEGATIVE,3
+"Seoul, Republic of Korea",POSITIVE,5
 "Serbia, Belgrade",POSITIVE,1
 "Seri Alam, Johor",POSITIVE,1
 "Sevres, Haut de Seine",POSITIVE,1
 Shin Sekai,NEGATIVE,3
 Shin Sekai,POSITIVE,2
-"Shâté (Chatel), Savoie libre",NEGATIVE,2
-"Shâté (Chatel), Savoie libre",POSITIVE,2
-Sierre,NEGATIVE,48
-Sierre,POSITIVE,283
-"Sierre, Suisse",NEGATIVE,2
-"Sierre, Suisse",POSITIVE,2
-"Sierre, Switzerland",NEGATIVE,18
-"Sierre, Switzerland",POSITIVE,98
-"Sierre, Valais",NEGATIVE,15
-"Sierre, Valais",POSITIVE,4
-"Sierre, Valais HES-SO",NEGATIVE,2
-"Sierre, Valais HES-SO",POSITIVE,11
-"Sierre, Valais, Suisse",POSITIVE,2
+"Shâté (Chatel), Savoie libre",NEGATIVE,1
+"Shâté (Chatel), Savoie libre",POSITIVE,3
+Sierre,NEGATIVE,56
+Sierre,POSITIVE,275
+"Sierre, Suisse",NEGATIVE,1
+"Sierre, Suisse",POSITIVE,3
+"Sierre, Switzerland",NEGATIVE,16
+"Sierre, Switzerland",POSITIVE,100
+"Sierre, Valais",NEGATIVE,14
+"Sierre, Valais",POSITIVE,5
+"Sierre, Valais HES-SO",NEGATIVE,1
+"Sierre, Valais HES-SO",POSITIVE,12
+"Sierre, Valais, Suisse",NEGATIVE,1
+"Sierre, Valais, Suisse",POSITIVE,1
 Sigriswil,NEGATIVE,1
 Sigriswil,POSITIVE,6
 "Silver Spring, MD",POSITIVE,2
 Sintra,POSITIVE,7
 Sion,NEGATIVE,1
 Sion,POSITIVE,2
-"Sion , Suisse",NEGATIVE,10
+"Sion , Suisse",NEGATIVE,9
 "Sion , Suisse",NEUTRAL,1
-"Sion , Suisse",POSITIVE,9
+"Sion , Suisse",POSITIVE,10
 Sion - Suisse,NEGATIVE,2
 Sion - Suisse,POSITIVE,1
 Sion Valais Evolène,NEGATIVE,1
 Sion Valais Evolène,POSITIVE,1
 Sion Valais Switzerland,POSITIVE,1
-"Sion, Suisse",NEGATIVE,1066
+"Sion, Suisse",NEGATIVE,1054
 "Sion, Suisse",NEUTRAL,37
-"Sion, Suisse",POSITIVE,502
-"Sion, Switzerland",NEGATIVE,528
+"Sion, Suisse",POSITIVE,514
+"Sion, Switzerland",NEGATIVE,561
 "Sion, Switzerland",NEUTRAL,5
-"Sion, Switzerland",POSITIVE,880
-"Sion, VS",NEGATIVE,49
-"Sion, VS",POSITIVE,16
-"Sion, Valais",NEGATIVE,177
+"Sion, Switzerland",POSITIVE,847
+"Sion, VS",NEGATIVE,51
+"Sion, VS",POSITIVE,14
+"Sion, Valais",NEGATIVE,172
 "Sion, Valais",NEUTRAL,1
-"Sion, Valais",POSITIVE,71
+"Sion, Valais",POSITIVE,76
 "Sion, Valais, Suisse",POSITIVE,5
 "Sion, Valais, Suisse :)",POSITIVE,1
 "Sion, Valais, suisse",NEGATIVE,4
 "Sion, Valais, suisse",POSITIVE,6
-"Sion, Valais-Suiça",POSITIVE,1
+"Sion, Valais-Suiça",NEGATIVE,1
 "Sion,Suisse",NEGATIVE,1
-Sion-Valais/Lausanne Suisse,POSITIVE,3
+Sion-Valais/Lausanne Suisse,NEGATIVE,1
+Sion-Valais/Lausanne Suisse,POSITIVE,2
 Sião,NEGATIVE,1
 Sião,NEUTRAL,1
 Sleeping,NEGATIVE,10
@@ -2844,9 +2862,9 @@ Snapchat : Ciccio_Bello,POSITIVE,18
 Snapchat adislittlecity,POSITIVE,1
 Soleure,NEGATIVE,3
 Soleure,POSITIVE,4
-"Soleure, Suisse",NEGATIVE,192
+"Soleure, Suisse",NEGATIVE,189
 "Soleure, Suisse",NEUTRAL,2
-"Soleure, Suisse",POSITIVE,68
+"Soleure, Suisse",POSITIVE,71
 Solihull,POSITIVE,1
 Solothurn,POSITIVE,5
 Solothurn - Switzerland,POSITIVE,1
@@ -2854,25 +2872,24 @@ Solothurn ; Switzerland,POSITIVE,1
 Solothurn Switzerland,POSITIVE,1
 "Solothurn, Switzerland",NEGATIVE,1
 "Solothurn, Switzerland",POSITIVE,3
-Somewhere,NEGATIVE,1
-Somewhere,POSITIVE,1
+Somewhere,NEGATIVE,2
 Somewhere over the rainbow,POSITIVE,1
 "Sonceboz (BE), Switzerland",POSITIVE,1
-"Sonceboz-Sombeval, Berne",NEGATIVE,9
-"Sonceboz-Sombeval, Berne",POSITIVE,2
-"South Bronx, NY",NEGATIVE,25
+"Sonceboz-Sombeval, Berne",NEGATIVE,10
+"Sonceboz-Sombeval, Berne",POSITIVE,1
+"South Bronx, NY",NEGATIVE,23
 "South Bronx, NY",NEUTRAL,1
-"South Bronx, NY",POSITIVE,7
+"South Bronx, NY",POSITIVE,9
 "South West, England",POSITIVE,1
 Southampton,POSITIVE,2
 "Spezzano di Fiorano, Italy",POSITIVE,1
-Spiez,NEGATIVE,10
-Spiez,POSITIVE,16
+Spiez,NEGATIVE,4
+Spiez,POSITIVE,22
 "Spiez, Switzerland",POSITIVE,1
 "Spitz,Borough,Soho,South Ken",POSITIVE,1
 "Spreitenbach, Schweiz",POSITIVE,1
-"Sprimont, Belgique",NEGATIVE,30
-"Sprimont, Belgique",POSITIVE,20
+"Sprimont, Belgique",NEGATIVE,32
+"Sprimont, Belgique",POSITIVE,18
 "St Gallen, Switzerland",NEGATIVE,3
 "St Gallen, Switzerland",NEUTRAL,1
 "St Gallen, Switzerland",POSITIVE,2
@@ -2880,49 +2897,49 @@ Spiez,POSITIVE,16
 St-George,POSITIVE,1
 "St-Luc, Valais, Suisse",POSITIVE,1
 "St-Léonard, Suisse",NEGATIVE,1
-"St-Maurice, Suisse",NEGATIVE,1
-"St-Maurice, Suisse",POSITIVE,15
+"St-Maurice, Suisse",NEGATIVE,2
+"St-Maurice, Suisse",POSITIVE,14
 "St-Maurice, Valais, Suisse",POSITIVE,1
 "St-Tropez , France",NEGATIVE,2
 "St-Tropez , France",POSITIVE,1
 St-Ursanne,POSITIVE,3
 "St. Alban-Vorstadt 28, Basel",POSITIVE,1
-St. Gallen,NEGATIVE,3
+St. Gallen,NEGATIVE,5
 St. Gallen,NEUTRAL,1
-St. Gallen,POSITIVE,5
+St. Gallen,POSITIVE,3
 "St. Gallen, Schweiz",POSITIVE,3
 "St. Gallen, Zürich, Lausanne",POSITIVE,6
 "St. Louis, MO ❤ Boston, MA",POSITIVE,2
 "St.Gallen, Schweiz",POSITIVE,1
 "St.Gallen, Zürich",POSITIVE,1
 Stade de la Maladière,POSITIVE,1
-Ste - Croix,NEGATIVE,5
-Ste - Croix,POSITIVE,60
+Ste - Croix,NEGATIVE,11
+Ste - Croix,POSITIVE,54
 Steffisburg,NEGATIVE,2
 Steffisburg,POSITIVE,4
 "Stein, Aargau, Schweiz",POSITIVE,1
-Stockholm,NEGATIVE,1
-Stockholm,POSITIVE,2
+Stockholm,NEGATIVE,2
+Stockholm,POSITIVE,1
 Strasbourg,POSITIVE,1
 "Strasbourg, Alsace",NEGATIVE,3
 "Strasbourg, Alsace",POSITIVE,5
 Strasbourg⛅,POSITIVE,1
 Stylingandediting HQ,POSITIVE,2
-Suisse,NEGATIVE,31685
+Suisse,NEGATIVE,32388
 Suisse,NEUTRAL,333
-Suisse,POSITIVE,33363
+Suisse,POSITIVE,32660
 Suisse & France,POSITIVE,3
-Suisse (FR),NEGATIVE,1
-Suisse (FR),POSITIVE,5
-Suisse (Lausanne),NEGATIVE,4
+Suisse (FR),NEGATIVE,2
+Suisse (FR),POSITIVE,4
+Suisse (Lausanne),NEGATIVE,3
 Suisse (Lausanne),NEUTRAL,2
-Suisse (Lausanne),POSITIVE,21
+Suisse (Lausanne),POSITIVE,22
 Suisse (NE),NEGATIVE,7
 Suisse (NE),POSITIVE,1
 Suisse (VS),NEGATIVE,106
 Suisse (VS),POSITIVE,29
-"Suisse , Lausanne",NEGATIVE,5
-"Suisse , Lausanne",POSITIVE,9
+"Suisse , Lausanne",NEGATIVE,4
+"Suisse , Lausanne",POSITIVE,10
 "Suisse , Neuchâtel , Bevaix",NEGATIVE,2
 "Suisse , Neuchâtel , Bevaix",NEUTRAL,1
 Suisse - BE,NEGATIVE,2
@@ -2930,232 +2947,228 @@ Suisse - Berne,NEGATIVE,1
 Suisse - Berne,POSITIVE,1
 Suisse - Lausanne,NEGATIVE,5
 Suisse - Lausanne,POSITIVE,1
-"Suisse - Lausanne, Vaud",NEGATIVE,2
-"Suisse - Lausanne, Vaud",POSITIVE,1
-Suisse / Geneva,NEGATIVE,1
-Suisse / Geneva,POSITIVE,6
-Suisse / Paris .,NEGATIVE,2
-Suisse / Paris .,POSITIVE,1
+"Suisse - Lausanne, Vaud",NEGATIVE,3
+Suisse / Geneva,NEGATIVE,3
+Suisse / Geneva,POSITIVE,4
+Suisse / Paris .,NEGATIVE,3
+Suisse Lausanne,NEGATIVE,1
 Suisse Lausanne,NEUTRAL,1
-Suisse Lausanne,POSITIVE,1
-Suisse Neuchâtel,NEGATIVE,9
-Suisse Neuchâtel,POSITIVE,7
+Suisse Neuchâtel,NEGATIVE,10
+Suisse Neuchâtel,POSITIVE,6
 Suisse Romande (Switzerland),POSITIVE,1
-Suisse et France,NEGATIVE,23
+Suisse et France,NEGATIVE,27
 Suisse et France,NEUTRAL,1
-Suisse et France,POSITIVE,292
-Suisse et France Europe,NEGATIVE,23
-Suisse et France Europe,POSITIVE,634
-Suisse romande,POSITIVE,8
+Suisse et France,POSITIVE,288
+Suisse et France Europe,NEGATIVE,32
+Suisse et France Europe,POSITIVE,625
+Suisse romande,NEGATIVE,1
+Suisse romande,POSITIVE,7
 "Suisse romande, Switzerland",NEGATIVE,1
 "Suisse romande, Switzerland",POSITIVE,2
 Suisse ☼,POSITIVE,2
-"Suisse, Arpitanie",NEGATIVE,400
+"Suisse, Arpitanie",NEGATIVE,399
 "Suisse, Arpitanie",NEUTRAL,1
-"Suisse, Arpitanie",POSITIVE,362
-"Suisse, Bulle",POSITIVE,16
+"Suisse, Arpitanie",POSITIVE,363
+"Suisse, Bulle",NEGATIVE,1
+"Suisse, Bulle",POSITIVE,15
 "Suisse, Cigarette City",NEGATIVE,4
 "Suisse, Cigarette City",NEUTRAL,1
 "Suisse, Cigarette City",POSITIVE,1
 "Suisse, Corcelles, Chantemerle",POSITIVE,1
-"Suisse, Dugny",NEGATIVE,31
-"Suisse, Dugny",POSITIVE,28
-"Suisse, France",NEGATIVE,777
+"Suisse, Dugny",NEGATIVE,35
+"Suisse, Dugny",POSITIVE,24
+"Suisse, France",NEGATIVE,744
 "Suisse, France",NEUTRAL,12
-"Suisse, France",POSITIVE,277
-"Suisse, France cathodique",NEGATIVE,786
+"Suisse, France",POSITIVE,310
+"Suisse, France cathodique",NEGATIVE,761
 "Suisse, France cathodique",NEUTRAL,19
-"Suisse, France cathodique",POSITIVE,609
-"Suisse, Fribourg",NEGATIVE,5
-"Suisse, Fribourg",POSITIVE,12
+"Suisse, France cathodique",POSITIVE,634
+"Suisse, Fribourg",NEGATIVE,6
+"Suisse, Fribourg",POSITIVE,11
 "Suisse, Geneve",NEGATIVE,1
-"Suisse, Genève",NEGATIVE,124
-"Suisse, Genève",POSITIVE,49
-"Suisse, Genève, 1207",NEGATIVE,1
-"Suisse, Genève, 1207",POSITIVE,1
+"Suisse, Genève",NEGATIVE,126
+"Suisse, Genève",POSITIVE,47
+"Suisse, Genève, 1207",POSITIVE,2
 "Suisse, Gland",NEGATIVE,2
 "Suisse, Gland",POSITIVE,18
-"Suisse, Jura",NEGATIVE,12
-"Suisse, Jura",POSITIVE,2
-"Suisse, Lausanne",NEGATIVE,659
+"Suisse, Jura",NEGATIVE,10
+"Suisse, Jura",POSITIVE,4
+"Suisse, Lausanne",NEGATIVE,657
 "Suisse, Lausanne",NEUTRAL,2
-"Suisse, Lausanne",POSITIVE,387
+"Suisse, Lausanne",POSITIVE,389
 "Suisse, Le Pâquier",NEGATIVE,2
 "Suisse, Le Pâquier",POSITIVE,3
-"Suisse, Lorraine",NEGATIVE,68
-"Suisse, Lorraine",POSITIVE,37
+"Suisse, Lorraine",NEGATIVE,63
+"Suisse, Lorraine",POSITIVE,42
 "Suisse, Martigny",NEGATIVE,2
 "Suisse, Martigny",POSITIVE,11
-"Suisse, Neuchatel",NEGATIVE,16
-"Suisse, Neuchatel",POSITIVE,6
-"Suisse, Neuchâtel",NEGATIVE,25
-"Suisse, Neuchâtel",POSITIVE,30
+"Suisse, Neuchatel",NEGATIVE,17
+"Suisse, Neuchatel",POSITIVE,5
+"Suisse, Neuchâtel",NEGATIVE,26
+"Suisse, Neuchâtel",POSITIVE,29
 "Suisse, Région lausannoise, VD",NEGATIVE,5
 "Suisse, Région lausannoise, VD",POSITIVE,6
 "Suisse, Savoie",NEGATIVE,9
 "Suisse, Savoie",POSITIVE,39
 "Suisse, Schweiz",POSITIVE,4
-"Suisse, Switzerland",NEGATIVE,209
-"Suisse, Switzerland",POSITIVE,60
+"Suisse, Switzerland",NEGATIVE,205
+"Suisse, Switzerland",POSITIVE,64
 "Suisse, Ukraine",NEGATIVE,1
-"Suisse, VD",NEGATIVE,93
+"Suisse, VD",NEGATIVE,95
 "Suisse, VD",NEUTRAL,1
-"Suisse, VD",POSITIVE,42
+"Suisse, VD",POSITIVE,40
 "Suisse, VS",NEGATIVE,25
 "Suisse, VS",POSITIVE,11
-"Suisse, Valais",NEGATIVE,112
+"Suisse, Valais",NEGATIVE,128
 "Suisse, Valais",NEUTRAL,4
-"Suisse, Valais",POSITIVE,440
-"Suisse, Valais ♡",NEGATIVE,154
-"Suisse, Valais ♡",POSITIVE,41
-"Suisse, Vaud",NEGATIVE,65
+"Suisse, Valais",POSITIVE,424
+"Suisse, Valais ♡",NEGATIVE,149
+"Suisse, Valais ♡",POSITIVE,46
+"Suisse, Vaud",NEGATIVE,63
 "Suisse, Vaud",NEUTRAL,3
-"Suisse, Vaud",POSITIVE,96
-"Suisse, Vaud, Renens",NEGATIVE,61
-"Suisse, Vaud, Renens",POSITIVE,56
-"Suisse, avec @Noctambie",NEGATIVE,415
+"Suisse, Vaud",POSITIVE,98
+"Suisse, Vaud, Renens",NEGATIVE,55
+"Suisse, Vaud, Renens",POSITIVE,62
+"Suisse, avec @Noctambie",NEGATIVE,413
 "Suisse, avec @Noctambie",NEUTRAL,5
-"Suisse, avec @Noctambie",POSITIVE,217
+"Suisse, avec @Noctambie",POSITIVE,219
 "Suisse, devant un ordinateur.",NEGATIVE,1
 "Suisse, j-23",NEGATIVE,33
 "Suisse, j-23",NEUTRAL,2
 "Suisse, j-23",POSITIVE,28
-"Suisse, vd",NEGATIVE,6
-"Suisse, vd",POSITIVE,3
+"Suisse, vd",NEGATIVE,5
+"Suisse, vd",POSITIVE,4
 "Suisse, vs",NEGATIVE,3
 "Suisse,Geneve",NEGATIVE,2
 "Suisse,Geneve",POSITIVE,1
 "Suisse,Genève",NEGATIVE,1
 "Suisse,Genève",POSITIVE,13
-"Suisse,Neuchâtel",NEGATIVE,32
-"Suisse,Neuchâtel",POSITIVE,24
-"Suisse,Switzerland",NEGATIVE,1
-"Suisse,Switzerland",POSITIVE,3
+"Suisse,Neuchâtel",NEGATIVE,28
+"Suisse,Neuchâtel",POSITIVE,28
+"Suisse,Switzerland",POSITIVE,4
 "Suisse,Vevey",NEGATIVE,2
 "Suisse,vaud",POSITIVE,1
 Suisse/El Salvador,POSITIVE,1
-Suisse/Jura,NEGATIVE,1
-Suisse/Jura,POSITIVE,1
-Suisse/Schweiz,POSITIVE,1
-Suisse/Spain,POSITIVE,1
+Suisse/Jura,NEGATIVE,2
+Suisse/Schweiz,NEGATIVE,1
+Suisse/Spain,NEGATIVE,1
 Suisse/Switzerland,NEGATIVE,1
-Suiza,NEGATIVE,12
+Suiza,NEGATIVE,11
 Suiza,NEUTRAL,4
-Suiza,POSITIVE,37
+Suiza,POSITIVE,38
 Suiza - España,POSITIVE,6
 "Suiza, Lausanne",POSITIVE,3
 Suiça / Santo Tirso,NEGATIVE,6
 Suiça / Santo Tirso,NEUTRAL,2
 Suiça / Santo Tirso,POSITIVE,5
-Suiça VS | Portugal,NEGATIVE,22
-Suiça VS | Portugal,POSITIVE,6
-Sur une ile déserte,NEGATIVE,19
-Sur une ile déserte,POSITIVE,7
+Suiça VS | Portugal,NEGATIVE,19
+Suiça VS | Portugal,POSITIVE,9
+Sur une ile déserte,NEGATIVE,20
+Sur une ile déserte,POSITIVE,6
 Surrey,POSITIVE,2
-Suíça,NEGATIVE,5
+Suíça,NEGATIVE,8
 Suíça,NEUTRAL,6
-Suíça,POSITIVE,9
-Suïssa,NEGATIVE,1
+Suíça,POSITIVE,6
 Suïssa,NEUTRAL,1
-Suïssa,POSITIVE,3
-Svizzera,NEGATIVE,8
+Suïssa,POSITIVE,4
+Svizzera,NEGATIVE,9
 Svizzera,NEUTRAL,3
-Svizzera,POSITIVE,21
+Svizzera,POSITIVE,20
 "Svizzera, Mendrisio (TI)",NEGATIVE,1
 "Svizzera, Mendrisio (TI)",NEUTRAL,1
 "Svizzera, Mendrisio (TI)",POSITIVE,1
-Swiss,NEGATIVE,806
+Swiss,NEGATIVE,846
 Swiss,NEUTRAL,5
-Swiss,POSITIVE,1125
+Swiss,POSITIVE,1085
 Swiss || My Steam : MmeKitKat,NEGATIVE,3
 Swiss ✈ Spain,POSITIVE,1
 "Swiss, Lucerne",NEUTRAL,1
-"Swiss, NE",NEGATIVE,1
+"Swiss, NE",POSITIVE,1
 Switerzerland,NEGATIVE,3
 Switerzerland,POSITIVE,2
 Switerzland,POSITIVE,4
 SwitzerLAND,POSITIVE,2
-Switzerland,NEGATIVE,20183
+Switzerland,NEGATIVE,20418
 Switzerland,NEUTRAL,366
-Switzerland,POSITIVE,22846
+Switzerland,POSITIVE,22611
 Switzerland & International,POSITIVE,4
 "Switzerland , Bern",POSITIVE,3
-"Switzerland , Geneva",NEGATIVE,21
-"Switzerland , Geneva",POSITIVE,8
-"Switzerland , Lausanne",NEGATIVE,159
-"Switzerland , Lausanne",POSITIVE,10
+"Switzerland , Geneva",NEGATIVE,23
+"Switzerland , Geneva",POSITIVE,6
+"Switzerland , Lausanne",NEGATIVE,154
+"Switzerland , Lausanne",POSITIVE,15
 Switzerland - 35000 ft - Hong Kong,NEGATIVE,2
 Switzerland - Lausanne,NEGATIVE,1
 Switzerland - Lausanne,POSITIVE,1
 Switzerland / US / Portugal,POSITIVE,2
 Switzerland / United Kingdom,POSITIVE,1
-Switzerland ; Chloé ❀,NEGATIVE,50
+Switzerland ; Chloé ❀,NEGATIVE,42
 Switzerland ; Chloé ❀,NEUTRAL,1
-Switzerland ; Chloé ❀,POSITIVE,8
-Switzerland Fribourg,NEGATIVE,72
-Switzerland Fribourg,POSITIVE,95
+Switzerland ; Chloé ❀,POSITIVE,16
+Switzerland Fribourg,NEGATIVE,80
+Switzerland Fribourg,POSITIVE,87
 Switzerland Internet Morocco,NEGATIVE,2
 Switzerland Internet Morocco,POSITIVE,6
 Switzerland but I'd say usa,NEGATIVE,24
 Switzerland but I'd say usa,POSITIVE,7
-Switzerland but from Portugal,NEGATIVE,7
+Switzerland but from Portugal,NEGATIVE,10
 Switzerland but from Portugal,NEUTRAL,1
-Switzerland but from Portugal,POSITIVE,7
-Switzerland ~~YUME~~,NEGATIVE,18
+Switzerland but from Portugal,POSITIVE,4
+Switzerland ~~YUME~~,NEGATIVE,19
 Switzerland ~~YUME~~,NEUTRAL,1
-Switzerland ~~YUME~~,POSITIVE,5
+Switzerland ~~YUME~~,POSITIVE,4
 "Switzerland, 8856 Tuggen",POSITIVE,1
-"Switzerland, Africa & Makkah!",NEGATIVE,2
-"Switzerland, Africa & Makkah!",POSITIVE,2
+"Switzerland, Africa & Makkah!",NEGATIVE,1
+"Switzerland, Africa & Makkah!",POSITIVE,3
 "Switzerland, Argentina",POSITIVE,1
 "Switzerland, Bulle, Fribourg",POSITIVE,25
-"Switzerland, Chill",NEGATIVE,44
-"Switzerland, Chill",POSITIVE,31
+"Switzerland, Chill",NEGATIVE,42
+"Switzerland, Chill",POSITIVE,33
 "Switzerland, Czech Republic",POSITIVE,1
 "Switzerland, Earth",NEGATIVE,1
-"Switzerland, Europe",NEGATIVE,1
-"Switzerland, Europe",POSITIVE,10
+"Switzerland, Europe",NEGATIVE,4
+"Switzerland, Europe",POSITIVE,7
 "Switzerland, France & beyond",POSITIVE,2
-"Switzerland, France, Earth",NEGATIVE,6
-"Switzerland, France, Earth",POSITIVE,2
-"Switzerland, France, Italia",NEGATIVE,1
-"Switzerland, France, Italia",POSITIVE,21
-"Switzerland, GE",NEGATIVE,5
-"Switzerland, Geneva",NEGATIVE,14
-"Switzerland, Geneva",POSITIVE,21
+"Switzerland, France, Earth",NEGATIVE,5
+"Switzerland, France, Earth",POSITIVE,3
+"Switzerland, France, Italia",NEGATIVE,4
+"Switzerland, France, Italia",POSITIVE,18
+"Switzerland, GE",NEGATIVE,4
+"Switzerland, GE",POSITIVE,1
+"Switzerland, Geneva",NEGATIVE,17
+"Switzerland, Geneva",POSITIVE,18
 "Switzerland, Genève",NEGATIVE,1
 "Switzerland, Genève",POSITIVE,1
 "Switzerland, Italy, England",POSITIVE,3
-"Switzerland, Jura, Vicques",NEGATIVE,1
-"Switzerland, Jura, Vicques",POSITIVE,6
-"Switzerland, Lausanne",NEGATIVE,28
-"Switzerland, Lausanne",POSITIVE,70
-"Switzerland, Luzern",POSITIVE,1
-"Switzerland, Montreux",NEGATIVE,42
-"Switzerland, Montreux",POSITIVE,16
-"Switzerland, Muraz (Collombey)",NEGATIVE,3
-"Switzerland, Muraz (Collombey)",POSITIVE,18
+"Switzerland, Jura, Vicques",NEGATIVE,2
+"Switzerland, Jura, Vicques",POSITIVE,5
+"Switzerland, Lausanne",NEGATIVE,30
+"Switzerland, Lausanne",POSITIVE,68
+"Switzerland, Luzern",NEGATIVE,1
+"Switzerland, Montreux",NEGATIVE,43
+"Switzerland, Montreux",POSITIVE,15
+"Switzerland, Muraz (Collombey)",NEGATIVE,5
+"Switzerland, Muraz (Collombey)",POSITIVE,16
 "Switzerland, Normandy",POSITIVE,3
 "Switzerland, Pieterlen",NEGATIVE,1
 "Switzerland, Tunisia, Egypt",NEGATIVE,2
 "Switzerland, Tunisia, Egypt",POSITIVE,2
 "Switzerland, VD",POSITIVE,1
-"Switzerland, VS",NEGATIVE,90
-"Switzerland, VS",POSITIVE,30
-"Switzerland, Valais",NEGATIVE,5
-"Switzerland, Valais",POSITIVE,7
-"Switzerland, Valais, Riddes",NEGATIVE,4
-"Switzerland, Valais, Riddes",POSITIVE,21
+"Switzerland, VS",NEGATIVE,82
+"Switzerland, VS",POSITIVE,38
+"Switzerland, Valais",NEGATIVE,7
+"Switzerland, Valais",POSITIVE,5
+"Switzerland, Valais, Riddes",NEGATIVE,3
+"Switzerland, Valais, Riddes",POSITIVE,22
 "Switzerland, Vaud",NEGATIVE,1
 "Switzerland, Vaud",POSITIVE,2
-"Switzerland, Vevey",NEGATIVE,9
+"Switzerland, Vevey",NEGATIVE,8
 "Switzerland, Vevey",NEUTRAL,1
-"Switzerland, Vevey",POSITIVE,1
-"Switzerland, Wallis.",NEGATIVE,23
-"Switzerland, Wallis.",POSITIVE,21
+"Switzerland, Vevey",POSITIVE,2
+"Switzerland, Wallis.",NEGATIVE,22
+"Switzerland, Wallis.",POSITIVE,22
 "Switzerland, Winterthur",POSITIVE,1
-"Switzerland, Yverdon-les-Bains",NEGATIVE,1
-"Switzerland, Yverdon-les-Bains",POSITIVE,1
+"Switzerland, Yverdon-les-Bains",NEGATIVE,2
 "Switzerland, ZH×SG",NEGATIVE,3
 "Switzerland, ZH×SG",NEUTRAL,1
 "Switzerland, ZH×SG",POSITIVE,12
@@ -3164,8 +3177,8 @@ Switzerland ~~YUME~~,POSITIVE,5
 "Switzerland, en suisse",POSITIVE,2
 "Switzerland, quite often",NEGATIVE,1
 "Switzerland,Aargau",NEGATIVE,1
-"Switzerland,CH",NEGATIVE,34
-"Switzerland,CH",POSITIVE,8
+"Switzerland,CH",NEGATIVE,33
+"Switzerland,CH",POSITIVE,9
 "Switzerland,Fribourg",NEGATIVE,4
 Switzerland-France,POSITIVE,6
 Switzerland/France,NEGATIVE,7
@@ -3174,27 +3187,29 @@ Switzerland; Auric Stud Farm,NEGATIVE,2
 "Swizerland, Neuchâtel",NEGATIVE,2
 "Swizerland, Neuchâtel",POSITIVE,1
 "Swizerland, Zurich",POSITIVE,3
-TEXAS,NEGATIVE,22
-TEXAS,POSITIVE,5
+TEXAS,NEGATIVE,19
+TEXAS,POSITIVE,8
 THE WORLD!,POSITIVE,1
 TICINO,NEGATIVE,3
 TICINO,POSITIVE,5
 TWSwitzerland • 504km,POSITIVE,1
-Table des zoulettes on m'a dit,NEGATIVE,4
-"Talkessel Schwyz, Switzerland",NEGATIVE,1
-"Talkessel Schwyz, Switzerland",POSITIVE,3
+Table des zoulettes on m'a dit,NEGATIVE,3
+Table des zoulettes on m'a dit,POSITIVE,1
+"Talkessel Schwyz, Switzerland",NEGATIVE,2
+"Talkessel Schwyz, Switzerland",POSITIVE,2
 Tannay,POSITIVE,1
 Tavannes,NEGATIVE,1
 Tavannes,POSITIVE,1
 "TechnoPole, Sierre",POSITIVE,1
 Teresina - Piauí - Brasil,NEGATIVE,1
 "Termen, Wallis /Zwitserland",POSITIVE,1
-Terre du Milieu,NEGATIVE,156
-Terre du Milieu,POSITIVE,55
+Terre du Milieu,NEGATIVE,161
+Terre du Milieu,POSITIVE,50
 Thailand,POSITIVE,2
 Thalwil,POSITIVE,1
 "Thalwil, Switzerland",NEGATIVE,2
-Thann Alsace,NEGATIVE,3
+Thann Alsace,NEGATIVE,2
+Thann Alsace,POSITIVE,1
 "The Abyss, Switzerland",NEGATIVE,1
 "The Abyss, Switzerland",POSITIVE,1
 "The Archive-Winter, Narnia, NW",NEUTRAL,1
@@ -3218,47 +3233,48 @@ Thun,POSITIVE,2
 "Thurgau, Schweiz",POSITIVE,3
 Thônex,NEGATIVE,3
 Thônex,POSITIVE,1
-"Thônex, Genève",NEGATIVE,75
+"Thônex, Genève",NEGATIVE,70
 "Thônex, Genève",NEUTRAL,1
-"Thônex, Genève",POSITIVE,47
-"Thônex, Suisse",NEGATIVE,7
-"Thônex, Suisse",POSITIVE,7
+"Thônex, Genève",POSITIVE,52
+"Thônex, Suisse",NEGATIVE,5
+"Thônex, Suisse",POSITIVE,9
 Ticino,NEGATIVE,3
 Ticino,POSITIVE,1
 "Ticino, Córdoba",POSITIVE,1
-"Ticino, Svizzera",NEGATIVE,4
+"Ticino, Svizzera",NEGATIVE,3
 "Ticino, Svizzera",NEUTRAL,6
-"Ticino, Svizzera",POSITIVE,3
-"Ticino, Switzerland",NEGATIVE,8
+"Ticino, Svizzera",POSITIVE,4
+"Ticino, Switzerland",NEGATIVE,7
 "Ticino, Switzerland",NEUTRAL,3
-"Ticino, Switzerland",POSITIVE,11
-Tierra,NEGATIVE,1
+"Ticino, Switzerland",POSITIVE,12
+Tierra,POSITIVE,1
 "Tignes, France",NEGATIVE,1
 "Tignes, France",POSITIVE,1
 "Tlokweng: RTB, NW,RSA",POSITIVE,1
 Toffen,NEGATIVE,1
 Toffen,POSITIVE,2
-Tokyo,NEGATIVE,14
-Tokyo,POSITIVE,13
+Tokyo,NEGATIVE,16
+Tokyo,POSITIVE,11
 Torino,POSITIVE,1
 "Torino, Italy",POSITIVE,3
 Toronto,POSITIVE,1
 "Toronto, ON, Canada",NEGATIVE,1
-Toulouse,NEGATIVE,13
-Toulouse,POSITIVE,3
-Toulouse / Bordeaux / Genève,NEGATIVE,4
+Toulouse,NEGATIVE,10
+Toulouse,POSITIVE,6
+Toulouse / Bordeaux / Genève,NEGATIVE,3
+Toulouse / Bordeaux / Genève,POSITIVE,1
 "Toulouse, France",NEGATIVE,1
 "Toulouse, France",POSITIVE,1
 Tours / Lyon,POSITIVE,1
-Tout Droit du 93,NEGATIVE,252
+Tout Droit du 93,NEGATIVE,248
 Tout Droit du 93,NEUTRAL,2
-Tout Droit du 93,POSITIVE,117
+Tout Droit du 93,POSITIVE,121
 "Tranceland, Switzerland",POSITIVE,1
 "Trelex, Vaud",POSITIVE,1
 Trimbach,POSITIVE,1
 Troistorrents,POSITIVE,1
-"Troistorrents, Valais, Suisse",NEGATIVE,3
-"Troistorrents, Valais, Suisse",POSITIVE,8
+"Troistorrents, Valais, Suisse",NEGATIVE,2
+"Troistorrents, Valais, Suisse",POSITIVE,9
 "Tromsö, Basel, Stockholm",NEUTRAL,1
 Trélex,POSITIVE,4
 "Tucumán, Argentina",POSITIVE,1
@@ -3267,9 +3283,9 @@ Turkey,POSITIVE,6
 "Tägerwilen, Thurgau",POSITIVE,5
 "UEFA, Nyon",NEGATIVE,1
 "UEFA, Nyon",POSITIVE,1
-UK,NEGATIVE,2
+UK,NEGATIVE,1
 UK,NEUTRAL,1
-UK,POSITIVE,4
+UK,POSITIVE,5
 UK/France one day...,POSITIVE,1
 URI,NEGATIVE,1
 URI,POSITIVE,1
@@ -3282,20 +3298,22 @@ Uitm Perlis,POSITIVE,1
 Un peu partout,NEGATIVE,2
 Un pied à #Lille et ailleurs..,NEGATIVE,1
 Un pied à #Lille et ailleurs..,POSITIVE,2
-"Uncoinpaumé, Suisse",NEGATIVE,10
-"Uncoinpaumé, Suisse",POSITIVE,6
-"Uni Dufour, Genève",POSITIVE,5
+"Uncoinpaumé, Suisse",NEGATIVE,9
+"Uncoinpaumé, Suisse",POSITIVE,7
+"Uni Dufour, Genève",NEGATIVE,1
+"Uni Dufour, Genève",POSITIVE,4
 "Uni-Mail, Genève",NEGATIVE,1
 "Uni-Mail, Genève",POSITIVE,4
 United Arab Emirates,POSITIVE,1
 Université Paris Descartes,POSITIVE,2
 Université de Genève,POSITIVE,1
-"Université de Lausanne, Suisse",POSITIVE,3
+"Université de Lausanne, Suisse",NEGATIVE,2
+"Université de Lausanne, Suisse",POSITIVE,1
 Unterwegs,POSITIVE,1
-Upper east side NYC,NEGATIVE,8
-Upper east side NYC,POSITIVE,5
-"Uptown, Downtown, Switzerland",NEGATIVE,2
-"Uptown, Downtown, Switzerland",POSITIVE,7
+Upper east side NYC,NEGATIVE,10
+Upper east side NYC,POSITIVE,3
+"Uptown, Downtown, Switzerland",NEGATIVE,3
+"Uptown, Downtown, Switzerland",POSITIVE,6
 Ur,NEGATIVE,4
 Ur,NEUTRAL,4
 Ur,POSITIVE,7
@@ -3304,15 +3322,15 @@ Ur,POSITIVE,7
 "Utrecht, NL",NEGATIVE,1
 "Utrecht, NL",POSITIVE,1
 "Uttigen, Switzerland",POSITIVE,1
-VAUD,NEGATIVE,3
-VAUD,POSITIVE,10
+VAUD,NEGATIVE,1
+VAUD,POSITIVE,12
 VD,NEGATIVE,3
 VD,POSITIVE,1
-VERBIER,NEGATIVE,8
-VERBIER,POSITIVE,3
-VS,NEGATIVE,185
+VERBIER,NEGATIVE,7
+VERBIER,POSITIVE,4
+VS,NEGATIVE,179
 VS,NEUTRAL,1
-VS,POSITIVE,41
+VS,POSITIVE,47
 "VS // SG, Switzerland",NEGATIVE,33
 "VS // SG, Switzerland",NEUTRAL,2
 "VS // SG, Switzerland",POSITIVE,14
@@ -3322,188 +3340,184 @@ VS/NE,POSITIVE,3
 Val de reuil,POSITIVE,1
 "Val-de-Ruz, Switzerland",NEGATIVE,1
 "Val-de-Ruz, Switzerland",POSITIVE,1
-"Val-de-Travers, Neuchâtel, Suisse",NEGATIVE,5
-"Val-de-Travers, Neuchâtel, Suisse",POSITIVE,31
-"Val-de-Travers, Suisse",NEGATIVE,18
-"Val-de-Travers, Suisse",POSITIVE,45
+"Val-de-Travers, Neuchâtel, Suisse",NEGATIVE,6
+"Val-de-Travers, Neuchâtel, Suisse",POSITIVE,30
+"Val-de-Travers, Suisse",NEGATIVE,21
+"Val-de-Travers, Suisse",POSITIVE,42
 "Val-de-Travers, Switzerland",NEGATIVE,1
-Valais,NEGATIVE,172
+Valais,NEGATIVE,187
 Valais,NEUTRAL,2
-Valais,POSITIVE,307
-Valais Suisse,NEGATIVE,4
+Valais,POSITIVE,292
+Valais Suisse,NEGATIVE,5
 Valais Suisse,NEUTRAL,1
-Valais Suisse,POSITIVE,18
+Valais Suisse,POSITIVE,17
 "Valais, Fully",NEGATIVE,7
 "Valais, Fully",POSITIVE,3
 "Valais, Magnot 6.3",NEGATIVE,4
 "Valais, Magnot 6.3",POSITIVE,1
 "Valais, Sion - Switzerland",POSITIVE,11
-"Valais, Suisse",NEGATIVE,1337
+"Valais, Suisse",NEGATIVE,1315
 "Valais, Suisse",NEUTRAL,24
-"Valais, Suisse",POSITIVE,699
-"Valais, Suisse #250",NEGATIVE,13
-"Valais, Suisse #250",POSITIVE,7
-"Valais, Suisse / Porto",NEGATIVE,71
+"Valais, Suisse",POSITIVE,721
+"Valais, Suisse #250",NEGATIVE,14
+"Valais, Suisse #250",POSITIVE,6
+"Valais, Suisse / Porto",NEGATIVE,72
 "Valais, Suisse / Porto",NEUTRAL,2
-"Valais, Suisse / Porto",POSITIVE,28
-"Valais, Suisse.",NEGATIVE,17
-"Valais, Suisse.",POSITIVE,7
-"Valais, Switzerland",NEGATIVE,185
+"Valais, Suisse / Porto",POSITIVE,27
+"Valais, Suisse.",NEGATIVE,20
+"Valais, Suisse.",POSITIVE,4
+"Valais, Switzerland",NEGATIVE,188
 "Valais, Switzerland",NEUTRAL,2
-"Valais, Switzerland",POSITIVE,247
+"Valais, Switzerland",POSITIVE,244
 Valais-Suisse,POSITIVE,6
 Valais-Switzerland,POSITIVE,1
-Valais/Suisse,NEGATIVE,16
-Valais/Suisse,POSITIVE,35
+Valais/Suisse,NEGATIVE,21
+Valais/Suisse,POSITIVE,30
 "Valencia, Spain",POSITIVE,1
 Valhalla,POSITIVE,1
 "Vallorbe, Vaud",NEGATIVE,2
 "Vallorbe, Vaud",POSITIVE,25
-"Vallée de Joux, Suisse",POSITIVE,16
-Vannes,NEGATIVE,4
-Vannes,POSITIVE,1
-Vaud,NEGATIVE,23
-Vaud,POSITIVE,105
-"Vaud, CH",NEGATIVE,38
-"Vaud, CH",POSITIVE,24
+"Vallée de Joux, Suisse",NEGATIVE,1
+"Vallée de Joux, Suisse",POSITIVE,15
+Vannes,NEGATIVE,5
+Vaud,NEGATIVE,27
+Vaud,POSITIVE,101
+"Vaud, CH",NEGATIVE,37
+"Vaud, CH",POSITIVE,25
 "Vaud, Lausanne",NEGATIVE,1
 "Vaud, Lausanne",POSITIVE,1
-"Vaud, Suisse",NEGATIVE,2347
+"Vaud, Suisse",NEGATIVE,2370
 "Vaud, Suisse",NEUTRAL,26
-"Vaud, Suisse",POSITIVE,1480
-"Vaud, Switzerland",NEGATIVE,453
+"Vaud, Suisse",POSITIVE,1457
+"Vaud, Switzerland",NEGATIVE,446
 "Vaud, Switzerland",NEUTRAL,3
-"Vaud, Switzerland",POSITIVE,359
+"Vaud, Switzerland",POSITIVE,366
 "Vaumarcus, Suisse",NEGATIVE,1
 "Vaumarcus, Suisse",POSITIVE,5
-Venthône,NEGATIVE,50
-Venthône,POSITIVE,32
-Verbier,NEGATIVE,12
-Verbier,POSITIVE,63
-"Verbier, Switzerland",NEGATIVE,1
-"Verbier, Switzerland",POSITIVE,6
+Venthône,NEGATIVE,38
+Venthône,POSITIVE,44
+Verbier,NEGATIVE,11
+Verbier,POSITIVE,64
+"Verbier, Switzerland",NEGATIVE,2
+"Verbier, Switzerland",POSITIVE,5
 "Verbier, Valais",POSITIVE,1
 "Verbier/ Geneva, Switzerland",POSITIVE,1
 Verdun et Nancy,NEGATIVE,2
 "Vernayaz, Valais",POSITIVE,1
 Vernier,POSITIVE,1
-"Vernier, Genève",NEGATIVE,1
-"Vernier, Genève",POSITIVE,1
+"Vernier, Genève",NEGATIVE,2
 "Vernier, Schweiz",NEGATIVE,8
 "Vernier, Schweiz",POSITIVE,45
-"Vernier, Suisse",NEGATIVE,4
-"Vernier, Suisse",POSITIVE,12
-"Vers-chez-les-Blanc, Lausanne",POSITIVE,10
+"Vernier, Suisse",NEGATIVE,6
+"Vernier, Suisse",POSITIVE,10
+"Vers-chez-les-Blanc, Lausanne",NEGATIVE,1
+"Vers-chez-les-Blanc, Lausanne",POSITIVE,9
 "Verscio, Svizzera",NEGATIVE,1
 Versoix,NEGATIVE,1
 Versoix,POSITIVE,11
-"Versoix, Genève",NEGATIVE,3
-"Versoix, Genève",POSITIVE,7
+"Versoix, Genève",NEGATIVE,4
+"Versoix, Genève",POSITIVE,6
 "Versoix, Naples",NEGATIVE,1
-"Versoix, Suisse",NEGATIVE,23
+"Versoix, Suisse",NEGATIVE,27
 "Versoix, Suisse",NEUTRAL,1
-"Versoix, Suisse",POSITIVE,49
+"Versoix, Suisse",POSITIVE,45
 "Verzasca Valley, Switzerland",NEGATIVE,1
 Vesoul,POSITIVE,3
 Vesoul - Haute-Saôηe,POSITIVE,2
 "Vetay, Suisse",POSITIVE,2
-Vevey,NEGATIVE,120
+Vevey,NEGATIVE,119
 Vevey,NEUTRAL,2
-Vevey,POSITIVE,122
-Vevey (Suisse),NEGATIVE,1
-Vevey (Suisse),POSITIVE,1
-"Vevey, Suisse",NEGATIVE,5
-"Vevey, Suisse",POSITIVE,20
-"Vevey, Switzerland",NEGATIVE,27
+Vevey,POSITIVE,123
+Vevey (Suisse),NEGATIVE,2
+"Vevey, Suisse",NEGATIVE,4
+"Vevey, Suisse",POSITIVE,21
+"Vevey, Switzerland",NEGATIVE,25
 "Vevey, Switzerland",NEUTRAL,1
-"Vevey, Switzerland",POSITIVE,86
-"Vevey, Vaud",NEGATIVE,214
+"Vevey, Switzerland",POSITIVE,88
+"Vevey, Vaud",NEGATIVE,209
 "Vevey, Vaud",NEUTRAL,1
-"Vevey, Vaud",POSITIVE,117
+"Vevey, Vaud",POSITIVE,122
 "Vevey, Vaud, Schweiz",POSITIVE,6
-"Vevey, Vaud, Switzerland",NEGATIVE,7
-"Vevey, Vaud, Switzerland",POSITIVE,21
-"Vex, Suisse",NEGATIVE,11
-"Vex, Suisse",POSITIVE,14
-Veyrier,NEGATIVE,9
+"Vevey, Vaud, Switzerland",NEGATIVE,8
+"Vevey, Vaud, Switzerland",POSITIVE,20
+"Vex, Suisse",NEGATIVE,13
+"Vex, Suisse",POSITIVE,12
+Veyrier,NEGATIVE,11
 Veyrier,NEUTRAL,1
-Veyrier,POSITIVE,21
-"Veyrier, Genève",NEGATIVE,9
-"Veyrier, Genève",POSITIVE,4
+Veyrier,POSITIVE,19
+"Veyrier, Genève",NEGATIVE,8
+"Veyrier, Genève",POSITIVE,5
 "Veyrier, Suisse",NEGATIVE,3
 "Veyrier, Suisse",POSITIVE,1
-"Veysonnaz, Suisse",NEGATIVE,42
+"Veysonnaz, Suisse",NEGATIVE,40
 "Veysonnaz, Suisse",NEUTRAL,2
-"Veysonnaz, Suisse",POSITIVE,26
-Vicques,NEGATIVE,1
-Vicques,POSITIVE,2
+"Veysonnaz, Suisse",POSITIVE,28
+Vicques,POSITIVE,3
 "Vidy, Lausanne, Suisse",NEGATIVE,1
 "Vidy, Lausanne, Suisse",POSITIVE,3
 Views are my own,NEGATIVE,1
-Vilagarcía ✈ Suiza,POSITIVE,1
+Vilagarcía ✈ Suiza,NEGATIVE,1
 "Village of the Damned, Schweiz",NEGATIVE,1
 "Village of the Damned, Schweiz",POSITIVE,2
-"Villarepos, Suisse",NEGATIVE,34
-"Villarepos, Suisse",POSITIVE,18
-"Villars-sur-Glâne, Fribourg",NEGATIVE,90
+"Villarepos, Suisse",NEGATIVE,36
+"Villarepos, Suisse",POSITIVE,16
+"Villars-sur-Glâne, Fribourg",NEGATIVE,99
 "Villars-sur-Glâne, Fribourg",NEUTRAL,2
-"Villars-sur-Glâne, Fribourg",POSITIVE,205
-"Villars-sur-Glâne, Suisse",NEGATIVE,1
+"Villars-sur-Glâne, Fribourg",POSITIVE,196
+"Villars-sur-Glâne, Suisse",NEGATIVE,3
 "Villars-sur-Glâne, Suisse",NEUTRAL,1
-"Villars-sur-Glâne, Suisse",POSITIVE,24
-"Villars-sur-Glâne, Switzerland",NEGATIVE,1
-"Villars-sur-Glâne, Switzerland",POSITIVE,1
-"Villarzel, Suisse",NEGATIVE,116
-"Villarzel, Suisse",POSITIVE,556
-"Villeneuve (VD), Vaud",NEGATIVE,89
-"Villeneuve (VD), Vaud",POSITIVE,32
-"Villeneuve, Suisse",NEGATIVE,2
-"Villeneuve, Suisse",POSITIVE,3
-"Villeneuve, Switzerland",POSITIVE,6
+"Villars-sur-Glâne, Suisse",POSITIVE,22
+"Villars-sur-Glâne, Switzerland",NEGATIVE,2
+"Villarzel, Suisse",NEGATIVE,249
+"Villarzel, Suisse",POSITIVE,423
+"Villeneuve (VD), Vaud",NEGATIVE,87
+"Villeneuve (VD), Vaud",POSITIVE,34
+"Villeneuve, Suisse",NEGATIVE,3
+"Villeneuve, Suisse",POSITIVE,2
+"Villeneuve, Switzerland",NEGATIVE,1
+"Villeneuve, Switzerland",POSITIVE,5
 "Villeurbanne, Rhône-Alpes",POSITIVE,1
-"Vionnaz, Suisse",NEGATIVE,7
-"Vionnaz, Suisse",POSITIVE,3
+"Vionnaz, Suisse",NEGATIVE,6
+"Vionnaz, Suisse",POSITIVE,4
 Virginia,POSITIVE,1
-Viseu / Genève,NEGATIVE,35
-Viseu / Genève,POSITIVE,8
-Visp,NEGATIVE,1
-Visp,POSITIVE,8
+Viseu / Genève,NEGATIVE,37
+Viseu / Genève,POSITIVE,6
+Visp,POSITIVE,9
 Viterbo,POSITIVE,2
 "Vitry-sur-Seine, France",POSITIVE,1
-Vitry/seine/Geneva,NEGATIVE,4
-Vitry/seine/Geneva,POSITIVE,6
-Voguant sur le firmament.,NEGATIVE,13
-Voguant sur le firmament.,POSITIVE,5
+Vitry/seine/Geneva,NEGATIVE,5
+Vitry/seine/Geneva,POSITIVE,5
+Voguant sur le firmament.,NEGATIVE,12
+Voguant sur le firmament.,POSITIVE,6
 "Vollèges, Suisse",NEGATIVE,1
 "Vollèges, Suisse",POSITIVE,1
-"Vouvry, Suisse",NEGATIVE,201
+"Vouvry, Suisse",NEGATIVE,204
 "Vouvry, Suisse",NEUTRAL,7
-"Vouvry, Suisse",POSITIVE,129
-"Vouvry, Valais",NEGATIVE,4
-"Vouvry, Valais",POSITIVE,1
-"Voyeboeuf, Porrentruy",NEGATIVE,33
+"Vouvry, Suisse",POSITIVE,126
+"Vouvry, Valais",NEGATIVE,3
+"Vouvry, Valais",POSITIVE,2
+"Voyeboeuf, Porrentruy",NEGATIVE,31
 "Voyeboeuf, Porrentruy",NEUTRAL,1
-"Voyeboeuf, Porrentruy",POSITIVE,51
+"Voyeboeuf, Porrentruy",POSITIVE,53
 Vuarrens,NEGATIVE,2
 Vuarrens,POSITIVE,4
 "Vufflens-le-Chateau, CH",POSITIVE,1
-"Vufflens-le-Château, Suisse",NEGATIVE,1
-"Vufflens-le-Château, Suisse",POSITIVE,1
-Vuissens,POSITIVE,1
+"Vufflens-le-Château, Suisse",POSITIVE,2
+Vuissens,NEGATIVE,1
 "Vully-Les-Lacs, Switzerland",NEGATIVE,2
 "Vully-Les-Lacs, Switzerland",POSITIVE,2
-Vésenaz - Genève,NEGATIVE,3
-Vésenaz - Genève,POSITIVE,2
+Vésenaz - Genève,NEGATIVE,4
+Vésenaz - Genève,POSITIVE,1
 Vétroz,POSITIVE,1
 "Vétroz, Valais",NEGATIVE,5
 "Vétroz, Valais",POSITIVE,2
-"Vétroz,Suisse",NEGATIVE,23
-"Vétroz,Suisse",POSITIVE,5
-WASHINGTON- 1298,NEGATIVE,10
-WASHINGTON- 1298,POSITIVE,3
-"Wahlern, Bern",NEGATIVE,12
+"Vétroz,Suisse",NEGATIVE,22
+"Vétroz,Suisse",POSITIVE,6
+WASHINGTON- 1298,NEGATIVE,8
+WASHINGTON- 1298,POSITIVE,5
+"Wahlern, Bern",NEGATIVE,11
 "Wahlern, Bern",NEUTRAL,2
-"Wahlern, Bern",POSITIVE,1
+"Wahlern, Bern",POSITIVE,2
 Wald,NEGATIVE,1
 Wald,POSITIVE,1
 "Wald ZH, Switzerland",POSITIVE,2
@@ -3511,30 +3525,30 @@ Walenstadt,POSITIVE,7
 Wallisellen,POSITIVE,1
 Warszawa,POSITIVE,2
 "Waterloo, Belgium",POSITIVE,1
-Web - Suisse romande,NEGATIVE,2
-Web - Suisse romande,POSITIVE,17
+Web - Suisse romande,NEGATIVE,3
+Web - Suisse romande,POSITIVE,16
 Weggis,NEGATIVE,2
 Weggis,POSITIVE,2
 "Weinfelden, Thurgau",POSITIVE,1
-"Welschland, Switzerland",NEGATIVE,10
-"Welschland, Switzerland",POSITIVE,18
+"Welschland, Switzerland",NEGATIVE,8
+"Welschland, Switzerland",POSITIVE,20
 West Yorkshire,POSITIVE,1
 Western Switzerland,POSITIVE,2
-"Westminster, CA",NEGATIVE,15
+"Westminster, CA",NEGATIVE,16
 "Westminster, CA",NEUTRAL,1
-"Westminster, CA",POSITIVE,7
+"Westminster, CA",POSITIVE,6
 "Wettingen, Schweiz",POSITIVE,1
 "Wettingen, Switzerland",POSITIVE,1
 Wetzikon,NEGATIVE,1
 "Wetzikon ZH, Switzerland",NEUTRAL,1
 Widen AG (Schweiz),NEUTRAL,1
 Widen AG (Schweiz),POSITIVE,1
-Winterthur,NEGATIVE,10
-Winterthur,POSITIVE,25
+Winterthur,NEGATIVE,11
+Winterthur,POSITIVE,24
 "Winterthur (ZH), Switzerland",POSITIVE,3
 "Winterthur, Schweiz",POSITIVE,2
-"Winterthur, Switzerland",NEGATIVE,3
-"Winterthur, Switzerland",POSITIVE,6
+"Winterthur, Switzerland",NEGATIVE,4
+"Winterthur, Switzerland",POSITIVE,5
 "Winterthur, Wien, Düsseldorf",NEGATIVE,1
 "Winterthur, Zürich",NEGATIVE,2
 "Winterthur, Zürich",POSITIVE,1
@@ -3548,17 +3562,18 @@ Wollerau,NEUTRAL,1
 "Worblaufen, Schweiz",POSITIVE,1
 Worldwide,POSITIVE,8
 "Würenlingen, Aargau",POSITIVE,1
-Würfelzucker-City,POSITIVE,4
+Würfelzucker-City,NEGATIVE,2
+Würfelzucker-City,POSITIVE,2
 WΩrldwide,NEGATIVE,2
 WΩrldwide,POSITIVE,3
 YERRES,POSITIVE,1
 Yonkers/ New Ro Raised/ NYC,POSITIVE,2
-Yverdon,NEGATIVE,113
+Yverdon,NEGATIVE,111
 Yverdon,NEUTRAL,1
-Yverdon,POSITIVE,108
-"Yverdon les Bains, Suisse",NEGATIVE,33
+Yverdon,POSITIVE,110
+"Yverdon les Bains, Suisse",NEGATIVE,32
 "Yverdon les Bains, Suisse",NEUTRAL,1
-"Yverdon les Bains, Suisse",POSITIVE,44
+"Yverdon les Bains, Suisse",POSITIVE,45
 "Yverdon, Ferizaj",NEGATIVE,3
 "Yverdon, Ferizaj",POSITIVE,3
 "Yverdon, Suisse",POSITIVE,1
@@ -3567,31 +3582,32 @@ Yverdon,POSITIVE,108
 "Yverdon, Switzerland",NEGATIVE,1
 "Yverdon, Switzerland",NEUTRAL,1
 "Yverdon, Switzerland",POSITIVE,2
-Yverdon-les-Bains,NEGATIVE,45
+Yverdon-les-Bains,NEGATIVE,54
 Yverdon-les-Bains,NEUTRAL,1
-Yverdon-les-Bains,POSITIVE,173
-"Yverdon-les-Bains, CH",POSITIVE,24
-"Yverdon-les-Bains, Suisse",NEGATIVE,25
-"Yverdon-les-Bains, Suisse",POSITIVE,62
+Yverdon-les-Bains,POSITIVE,164
+"Yverdon-les-Bains, CH",NEGATIVE,1
+"Yverdon-les-Bains, CH",POSITIVE,23
+"Yverdon-les-Bains, Suisse",NEGATIVE,21
+"Yverdon-les-Bains, Suisse",POSITIVE,66
 "Yverdon-les-Bains, Switzerland",NEGATIVE,1
 "Yverdon-les-Bains, Switzerland",POSITIVE,20
-"Yverdon-les-Bains, Vaud",NEGATIVE,41
+"Yverdon-les-Bains, Vaud",NEGATIVE,42
 "Yverdon-les-Bains, Vaud",NEUTRAL,1
-"Yverdon-les-Bains, Vaud",POSITIVE,56
+"Yverdon-les-Bains, Vaud",POSITIVE,55
 Yverdon-les-bains,NEGATIVE,1
 Yverdon-les-bains,POSITIVE,5
-"Yverdon-les-bains, Switzerland",NEGATIVE,24
+"Yverdon-les-bains, Switzerland",NEGATIVE,22
 "Yverdon-les-bains, Switzerland",NEUTRAL,2
-"Yverdon-les-bains, Switzerland",POSITIVE,59
+"Yverdon-les-bains, Switzerland",POSITIVE,61
 "Yvonand, Suisse",NEGATIVE,2
 "Yvonand, Suisse",POSITIVE,1
 "Yvonand, Vaud",NEGATIVE,7
 "Yvonand, Vaud",POSITIVE,5
 ZG,NEGATIVE,1
 "ZG, Croatia",POSITIVE,1
-ZH,NEGATIVE,1
+ZH,NEGATIVE,2
 ZH,NEUTRAL,1
-ZH,POSITIVE,2
+ZH,POSITIVE,1
 "ZH, CH",NEUTRAL,1
 ZLA,NEGATIVE,1
 ZRH,NEGATIVE,2
@@ -3612,24 +3628,25 @@ Zingaro di lusso: Italia • Schwiiz • România,NEGATIVE,2
 Zofingen,NEUTRAL,1
 "Zofingen, Switzerland",POSITIVE,3
 Zollikofen,POSITIVE,1
-"Zollikofen, Switzerland",POSITIVE,3
+"Zollikofen, Switzerland",NEGATIVE,1
+"Zollikofen, Switzerland",POSITIVE,2
 Zollikon,POSITIVE,1
 Zuerich,NEGATIVE,1
 Zuerich,NEUTRAL,1
 Zuerich,POSITIVE,3
 "Zuerich, Switzerland",NEGATIVE,1
 "Zuerich, Switzerland",POSITIVE,11
-Zug,NEGATIVE,3
+Zug,NEGATIVE,1
 Zug,NEUTRAL,1
-Zug,POSITIVE,9
+Zug,POSITIVE,11
 "Zug, Bern und dazwischen",POSITIVE,1
 "Zug, Schweiz",POSITIVE,4
 "Zug, Switzerland",NEGATIVE,7
 "Zug, Switzerland",POSITIVE,29
 "Zuger Oberland, Switzerland",POSITIVE,1
-Zurich,NEGATIVE,217
+Zurich,NEGATIVE,240
 Zurich,NEUTRAL,8
-Zurich,POSITIVE,801
+Zurich,POSITIVE,778
 Zurich + Ocean Falls B.C.,POSITIVE,1
 "Zurich , Switzerland",POSITIVE,1
 "Zurich / Basel, Switzerland",POSITIVE,1
@@ -3642,19 +3659,19 @@ Zurich / Bern,POSITIVE,1
 "Zurich, Berne, Switzerland",POSITIVE,1
 "Zurich, CH",NEGATIVE,1
 "Zurich, CH",POSITIVE,4
-"Zurich, Mona Vale, Tel Aviv",NEGATIVE,14
-"Zurich, Mona Vale, Tel Aviv",POSITIVE,31
-"Zurich, Paris et Challement",NEGATIVE,23
-"Zurich, Paris et Challement",POSITIVE,36
-"Zurich, Suisse",NEGATIVE,67
+"Zurich, Mona Vale, Tel Aviv",NEGATIVE,15
+"Zurich, Mona Vale, Tel Aviv",POSITIVE,30
+"Zurich, Paris et Challement",NEGATIVE,25
+"Zurich, Paris et Challement",POSITIVE,34
+"Zurich, Suisse",NEGATIVE,61
 "Zurich, Suisse",NEUTRAL,1
-"Zurich, Suisse",POSITIVE,58
+"Zurich, Suisse",POSITIVE,64
 "Zurich, Suiza",NEGATIVE,1
 "Zurich, Suiza",NEUTRAL,1
 "Zurich, Suiza",POSITIVE,1
-"Zurich, Switzerland",NEGATIVE,304
+"Zurich, Switzerland",NEGATIVE,326
 "Zurich, Switzerland",NEUTRAL,36
-"Zurich, Switzerland",POSITIVE,637
+"Zurich, Switzerland",POSITIVE,615
 "Zurich, Switzerland .ılı.ılı.",NEUTRAL,1
 "Zurich, Swizerland",NEGATIVE,1
 "Zurich,Switzerland",POSITIVE,5
@@ -3668,40 +3685,39 @@ Zurigo,POSITIVE,4
 "Zurique, Suíça",NEUTRAL,1
 "Zurique, Suíça / QDC / SEIXAL",NEUTRAL,1
 "Zurique, Suíça / QDC / SEIXAL",POSITIVE,1
-Zweisimmen,NEGATIVE,1
-Zweisimmen,POSITIVE,3
+Zweisimmen,POSITIVE,4
 "Zweisimmen, Switzerland",NEUTRAL,1
-Zürich,NEGATIVE,448
+Zürich,NEGATIVE,457
 Zürich,NEUTRAL,20
-Zürich,POSITIVE,669
+Zürich,POSITIVE,660
 "Zürich , SWITZERLAND",NEGATIVE,2
 "Zürich , SWITZERLAND",POSITIVE,2
 "Zürich, Bern, Basel",POSITIVE,1
 "Zürich, CH",POSITIVE,2
 "Zürich, CH - Stockholm, SE",POSITIVE,1
 "Zürich, Kreis 4",POSITIVE,1
-"Zürich, Schweiz",NEGATIVE,17
+"Zürich, Schweiz",NEGATIVE,20
 "Zürich, Schweiz",NEUTRAL,5
-"Zürich, Schweiz",POSITIVE,92
+"Zürich, Schweiz",POSITIVE,89
 "Zürich, Schweiz (still german)",POSITIVE,1
 "Zürich, Schweiz - MY",POSITIVE,3
 "Zürich, Schweiz❤",NEUTRAL,1
-"Zürich, Suisse",NEGATIVE,14
-"Zürich, Suisse",POSITIVE,31
+"Zürich, Suisse",NEGATIVE,12
+"Zürich, Suisse",POSITIVE,33
 "Zürich, Suiza",POSITIVE,1
-"Zürich, Switzerland",NEGATIVE,28
+"Zürich, Switzerland",NEGATIVE,31
 "Zürich, Switzerland",NEUTRAL,5
-"Zürich, Switzerland",POSITIVE,154
+"Zürich, Switzerland",POSITIVE,151
 "Zürich, Switzerland.",POSITIVE,1
 "Zürich, Zh, CH",POSITIVE,1
 "Zürich, Zürich CH",NEGATIVE,1
-"Zürich, Бeoгpaд, Italia.",NEGATIVE,9
+"Zürich, Бeoгpaд, Italia.",NEGATIVE,10
 "Zürich, Бeoгpaд, Italia.",NEUTRAL,1
-"Zürich, Бeoгpaд, Italia.",POSITIVE,6
+"Zürich, Бeoгpaд, Italia.",POSITIVE,5
 "Zürichsee, Schweiz",POSITIVE,1
-afrighia,NEGATIVE,30
+afrighia,NEGATIVE,28
 afrighia,NEUTRAL,2
-afrighia,POSITIVE,7
+afrighia,POSITIVE,9
 ag,NEGATIVE,2
 "ag,",NEGATIVE,41
 "ag,",NEUTRAL,8
@@ -3710,8 +3726,8 @@ ag,NEGATIVE,2
 "ag, jb, ddl, 5h, shawn, lena",POSITIVE,1
 "ag,melaka // ig-iniahmadamir_",POSITIVE,1
 aigle,POSITIVE,4
-all around the world,NEGATIVE,1
-all around the world,POSITIVE,7
+all around the world,NEGATIVE,3
+all around the world,POSITIVE,5
 annecy geneve swiss france,POSITIVE,2
 baden,NEUTRAL,1
 "baden, schweiz",POSITIVE,1
@@ -3723,63 +3739,60 @@ bar,NEGATIVE,18
 bar,NEUTRAL,1
 bar,POSITIVE,9
 basel,POSITIVE,3
-"basel, Switzerland ☀️",NEGATIVE,1
-"basel, Switzerland ☀️",POSITIVE,1
+"basel, Switzerland ☀️",POSITIVE,2
 "baton rouge, la",POSITIVE,1
 "belfort, France",POSITIVE,1
 bern,NEGATIVE,2
 bern,POSITIVE,13
-bershow,NEGATIVE,2
-between Geneva and Mexico,NEGATIVE,5
-between Geneva and Mexico,POSITIVE,4
-bienne,POSITIVE,1
+bershow,NEGATIVE,1
+bershow,POSITIVE,1
+between Geneva and Mexico,NEGATIVE,4
+between Geneva and Mexico,POSITIVE,5
+bienne,NEGATIVE,1
 bl,NEGATIVE,2
 bl,POSITIVE,4
 blonay,POSITIVE,1
-boncourt,NEGATIVE,2
-boncourt,POSITIVE,2
+boncourt,NEGATIVE,4
 brig,POSITIVE,1
-"brig, scotland.",NEGATIVE,1
+"brig, scotland.",POSITIVE,1
 brussels,POSITIVE,1
-bulle,NEGATIVE,13
-bulle,POSITIVE,4
+bulle,NEGATIVE,15
+bulle,POSITIVE,2
 cameroon,NEGATIVE,1
 "canton de Vaud, Suisse",POSITIVE,2
-carouge,NEGATIVE,13
+carouge,NEGATIVE,15
 carouge,NEUTRAL,1
-carouge,POSITIVE,21
-ch,NEGATIVE,13
+carouge,POSITIVE,19
+ch,NEGATIVE,14
 ch,NEUTRAL,1
-ch,POSITIVE,10
-ch | ks,NEGATIVE,4
-ch | ks,POSITIVE,3
+ch,POSITIVE,9
+ch | ks,NEGATIVE,5
+ch | ks,POSITIVE,2
 "ch,lh/4+band | cs,jb/3+band",NEUTRAL,1
 "ch,lh/4+band | cs,jb/3+band",POSITIVE,1
 chamoson,POSITIVE,3
 chavornay,NEGATIVE,1
 chavornay,POSITIVE,2
-chez tania despi,NEGATIVE,1
-chez tania despi,POSITIVE,1
+chez tania despi,NEGATIVE,2
 ciel d'unys,NEGATIVE,1
 ciel d'unys,POSITIVE,2
 collombey,NEGATIVE,1
 collombey,POSITIVE,9
-"collombey valais , suisse",NEGATIVE,2
-"collombey valais , suisse",POSITIVE,14
-conthey,POSITIVE,1
-"conthey, valais, suisse",NEGATIVE,154
+"collombey valais , suisse",NEGATIVE,3
+"collombey valais , suisse",POSITIVE,13
+conthey,NEGATIVE,1
+"conthey, valais, suisse",NEGATIVE,144
 "conthey, valais, suisse",NEUTRAL,2
-"conthey, valais, suisse",POSITIVE,28
+"conthey, valais, suisse",POSITIVE,38
 "corporate executive, zurich",NEGATIVE,2
 court,NEGATIVE,3
 court,NEUTRAL,3
 court,POSITIVE,3
-curieuse dynamique geek Suisse,NEGATIVE,9
-curieuse dynamique geek Suisse,POSITIVE,20
+curieuse dynamique geek Suisse,NEGATIVE,6
+curieuse dynamique geek Suisse,POSITIVE,23
 dans le brouillard,NEGATIVE,1
 dans le brouillard,NEUTRAL,1
-dans mon univers,NEGATIVE,7
-dans mon univers,POSITIVE,1
+dans mon univers,NEGATIVE,8
 de chaux-de-fonds a lausanne,NEGATIVE,36
 de chaux-de-fonds a lausanne,POSITIVE,7
 deauville,POSITIVE,1
@@ -3787,66 +3800,66 @@ disney land ❤️,POSITIVE,1
 downtown Piripoumesdorf,NEGATIVE,1
 e.fasquel@robert-aebi.com,NEGATIVE,1
 e.fasquel@robert-aebi.com,POSITIVE,5
-egg,NEGATIVE,17
+egg,NEGATIVE,16
 egg,NEUTRAL,5
-egg,POSITIVE,5
-en Escale .Terre,NEGATIVE,1
-en Escale .Terre,POSITIVE,8
+egg,POSITIVE,6
+en Escale .Terre,NEGATIVE,2
+en Escale .Terre,POSITIVE,7
 "en Gruyère, Fribourg, Suisse",POSITIVE,6
 epalinges,NEUTRAL,1
 flem,NEGATIVE,11
 flem,POSITIVE,1
-flemme,NEGATIVE,289
+flemme,NEGATIVE,283
 flemme,NEUTRAL,4
-flemme,POSITIVE,61
-france,NEGATIVE,6
-france,POSITIVE,5
+flemme,POSITIVE,67
+france,NEGATIVE,7
+france,POSITIVE,4
 france anet 28,NEGATIVE,1
 frauenfeld,NEGATIVE,1
-fribourg,NEGATIVE,101
-fribourg,POSITIVE,359
+fribourg,NEGATIVE,125
+fribourg,POSITIVE,335
 "fribourg, Suisse",POSITIVE,1
 friburgo,NEGATIVE,1
 friburgo,NEUTRAL,1
 galère 1269,NEGATIVE,1
-genebra,NEGATIVE,259
-genebra,POSITIVE,101
-geneva,NEGATIVE,536
+genebra,NEGATIVE,262
+genebra,POSITIVE,98
+geneva,NEGATIVE,533
 geneva,NEUTRAL,8
-geneva,POSITIVE,169
-geneva - sion,NEGATIVE,66
+geneva,POSITIVE,172
+geneva - sion,NEGATIVE,62
 geneva - sion,NEUTRAL,1
-geneva - sion,POSITIVE,12
-geneva city,NEGATIVE,5
-geneva city,POSITIVE,3
+geneva - sion,POSITIVE,16
+geneva city,NEGATIVE,6
+geneva city,POSITIVE,2
 geneva swiss // the nbhd,POSITIVE,3
-"geneva, swiss",NEGATIVE,58
+"geneva, swiss",NEGATIVE,56
 "geneva, swiss",NEUTRAL,3
-"geneva, swiss",POSITIVE,11
-"geneva, switzerland",NEGATIVE,10
+"geneva, swiss",POSITIVE,13
+"geneva, switzerland",NEGATIVE,8
 "geneva, switzerland",NEUTRAL,1
-"geneva, switzerland",POSITIVE,6
-geneve,NEGATIVE,1059
+"geneva, switzerland",POSITIVE,8
+geneve,NEGATIVE,1045
 geneve,NEUTRAL,21
-geneve,POSITIVE,456
+geneve,POSITIVE,470
 geneve - suisse,POSITIVE,1
 geneve 20 rue alfred-vincent,POSITIVE,1
-genf,NEGATIVE,400
+genf,NEGATIVE,406
 genf,NEUTRAL,8
-genf,POSITIVE,132
+genf,POSITIVE,126
 "genf, mtp",NEGATIVE,6
-genève,NEGATIVE,1434
+genève,NEGATIVE,1410
 genève,NEUTRAL,26
-genève,POSITIVE,480
-"genève, suisse",NEGATIVE,11
-"genève, suisse",POSITIVE,3
+genève,POSITIVE,504
+"genève, suisse",NEGATIVE,12
+"genève, suisse",POSITIVE,2
 germany,NEGATIVE,1
 ginebra,NEGATIVE,1
 ginebra,POSITIVE,2
-ginevra,NEGATIVE,23
-ginevra,POSITIVE,6
-glion rpz haha,NEGATIVE,43
-glion rpz haha,POSITIVE,8
+ginevra,NEGATIVE,24
+ginevra,POSITIVE,5
+glion rpz haha,NEGATIVE,41
+glion rpz haha,POSITIVE,10
 grande line,NEGATIVE,7
 grande line,POSITIVE,6
 gva,NEGATIVE,278
@@ -3854,37 +3867,38 @@ gva,NEUTRAL,11
 gva,POSITIVE,99
 "hadid, jenners, ag, sg, lm, bp",NEGATIVE,1
 "haifa, israel",POSITIVE,1
-"haute savoie, genève",POSITIVE,11
+"haute savoie, genève",NEGATIVE,2
+"haute savoie, genève",POSITIVE,9
 heaven,NEGATIVE,8
 heaven,POSITIVE,2
 here and there,NEGATIVE,3
 here and there,POSITIVE,2
 i carved the pumpkin myself,POSITIVE,1
 "iPhone: 37.786453,-122.408424",POSITIVE,1
-"iPhone: 46.717920,6.525926",NEGATIVE,19
+"iPhone: 46.717920,6.525926",NEGATIVE,18
 "iPhone: 46.717920,6.525926",NEUTRAL,1
-"iPhone: 46.717920,6.525926",POSITIVE,28
+"iPhone: 46.717920,6.525926",POSITIVE,29
 "iPhone: 51.520279,-0.117950",NEGATIVE,1
-ici ou la-bas,NEGATIVE,2
-ici ou la-bas,POSITIVE,3
+ici ou la-bas,NEGATIVE,3
+ici ou la-bas,POSITIVE,2
 "ici, là, ailleurs, ...",POSITIVE,1
 "im@ 46.562224,6.684387",NEGATIVE,1
 "im@ 46.562224,6.684387",POSITIVE,2
-in an upside down house,NEGATIVE,10
-in an upside down house,POSITIVE,3
+in an upside down house,NEGATIVE,11
+in an upside down house,POSITIVE,2
 "in your closet, Zürich",NEUTRAL,1
-instagram : leonildetorrini,POSITIVE,1
+instagram : leonildetorrini,NEGATIVE,1
 "interlaken, switzerland",POSITIVE,1
-"internet, Switzerland",NEGATIVE,22
+"internet, Switzerland",NEGATIVE,20
 "internet, Switzerland",NEUTRAL,1
-"internet, Switzerland",POSITIVE,43
+"internet, Switzerland",POSITIVE,45
 "irgendwo in Graubünden, CH",NEGATIVE,3
 istanbul - vienna - on board,POSITIVE,2
 "jb, ag, tw",NEGATIVE,3
 je follow donc je suis,NEGATIVE,1
-ju,NEGATIVE,615
+ju,NEGATIVE,632
 ju,NEUTRAL,14
-ju,POSITIVE,173
+ju,POSITIVE,156
 "ju, jo, 99gs, & kian follow—nc",NEGATIVE,2
 "ju, jo, 99gs, & kian follow—nc",NEUTRAL,3
 "ju, jo, 99gs, & kian follow—nc",POSITIVE,11
@@ -3892,22 +3906,22 @@ ju;dan;gabbie;jeh,NEUTRAL,2
 ju;dan;gabbie;jeh,POSITIVE,1
 ju;mel;ck;isaac; gs; jj.❥,NEGATIVE,1
 ju;mel;ck;isaac; gs; jj.❥,NEUTRAL,1
-jura,NEGATIVE,243
+jura,NEGATIVE,240
 jura,NEUTRAL,3
-jura,POSITIVE,308
+jura,POSITIVE,311
 "jura, France",POSITIVE,1
 "jura, paris, lyon, strasbourg",POSITIVE,3
 "jura,france",NEGATIVE,1
 "jura,france",POSITIVE,3
-"ka, ge, ch, md, cc, sn",NEGATIVE,717
+"ka, ge, ch, md, cc, sn",NEGATIVE,719
 "ka, ge, ch, md, cc, sn",NEUTRAL,4
-"ka, ge, ch, md, cc, sn",POSITIVE,195
+"ka, ge, ch, md, cc, sn",POSITIVE,193
 kedah-perlis,NEGATIVE,1
 "kuala lumpur, Malaysia",POSITIVE,1
 kuwait kaifan/UK leeds/(amman),POSITIVE,1
 la chaux-de-fonds,POSITIVE,1
-"la haye, pays-bas",NEGATIVE,9
-"la haye, pays-bas",POSITIVE,2
+"la haye, pays-bas",NEGATIVE,8
+"la haye, pays-bas",POSITIVE,3
 la neuveville,POSITIVE,3
 la suisse de la merde,NEGATIVE,71
 la suisse de la merde,NEUTRAL,1
@@ -3915,42 +3929,43 @@ la suisse de la merde,POSITIVE,10
 lake district,NEGATIVE,1
 lake district,POSITIVE,1
 "lake district, uk",POSITIVE,1
-lancy,NEGATIVE,12
-lancy,POSITIVE,1
-largement au-dessus de vous,POSITIVE,1
-lausanne,NEGATIVE,353
+lancy,NEGATIVE,11
+lancy,POSITIVE,2
+largement au-dessus de vous,NEGATIVE,1
+lausanne,NEGATIVE,345
 lausanne,NEUTRAL,16
-lausanne,POSITIVE,248
+lausanne,POSITIVE,256
 lausanne zurich paris provence,POSITIVE,1
 "lausanne, CH",NEGATIVE,3
 "lausanne, CH",POSITIVE,4
-"lausanne, Suisse",NEGATIVE,91
-"lausanne, Suisse",POSITIVE,18
+"lausanne, Suisse",NEGATIVE,92
+"lausanne, Suisse",POSITIVE,17
 "lausanne, Suisse. Arkham city",POSITIVE,1
-"lausanne, california state",NEGATIVE,158
-"lausanne, california state",POSITIVE,47
+"lausanne, california state",NEGATIVE,156
+"lausanne, california state",POSITIVE,49
 "lausanne, ch",NEGATIVE,3
 "lausanne, ch",POSITIVE,1
-"lausanne, suisse",NEGATIVE,13
-"lausanne, suisse",POSITIVE,38
+"lausanne, suisse",NEGATIVE,14
+"lausanne, suisse",POSITIVE,37
 "lausanne, switzerland",NEGATIVE,2
 "lausanne, switzerland",POSITIVE,5
-"lausanne,suisse",NEGATIVE,11
-"lausanne,suisse",POSITIVE,23
+"lausanne,suisse",NEGATIVE,10
+"lausanne,suisse",POSITIVE,24
 le locle,POSITIVE,2
-lightskin boy,NEGATIVE,178
+lightskin boy,NEGATIVE,180
 lightskin boy,NEUTRAL,1
-lightskin boy,POSITIVE,80
-"localhost Genève, Suisse",NEGATIVE,13
-"localhost Genève, Suisse",POSITIVE,5
+lightskin boy,POSITIVE,78
+"localhost Genève, Suisse",NEGATIVE,12
+"localhost Genève, Suisse",POSITIVE,6
 lolo.,NEGATIVE,1
 london,POSITIVE,1
 longeau,NEGATIVE,3
-lost,POSITIVE,3
+lost,NEGATIVE,1
+lost,POSITIVE,2
 lucerna,NEGATIVE,1
-lugano,NEGATIVE,13
+lugano,NEGATIVE,14
 lugano,NEUTRAL,5
-lugano,POSITIVE,10
+lugano,POSITIVE,9
 "lugano, ch",POSITIVE,1
 lupfig,POSITIVE,1
 "luzern, schweiz",NEGATIVE,1
@@ -3963,15 +3978,15 @@ malaysia,POSITIVE,1
 "manado, north sulawesi",POSITIVE,1
 martigny - suisse,POSITIVE,1
 "martigny,valais Swizerland",NEGATIVE,1
-meyrin,NEGATIVE,14
-meyrin,POSITIVE,18
+meyrin,NEGATIVE,18
+meyrin,POSITIVE,14
 monte,POSITIVE,3
 monthey,NEGATIVE,1
 montreux,NEGATIVE,1
 neuchatel,POSITIVE,1
-"neuchâtel, CH",NEGATIVE,38
+"neuchâtel, CH",NEGATIVE,44
 "neuchâtel, CH",NEUTRAL,1
-"neuchâtel, CH",POSITIVE,29
+"neuchâtel, CH",POSITIVE,23
 "neuchâtel, suisse",POSITIVE,2
 neverland ❤,NEGATIVE,1
 not so far away,POSITIVE,1
@@ -3980,40 +3995,40 @@ nw,POSITIVE,3
 nyon,NEGATIVE,1
 nyon,POSITIVE,2
 on earth,POSITIVE,1
-"on the road to serfdom, Suisse",NEGATIVE,5
-"on the road to serfdom, Suisse",POSITIVE,12
-outerspace,NEGATIVE,10
-outerspace,POSITIVE,6
+"on the road to serfdom, Suisse",NEGATIVE,7
+"on the road to serfdom, Suisse",POSITIVE,10
+outerspace,NEGATIVE,11
+outerspace,POSITIVE,5
 paris,POSITIVE,1
 pas où t'es,POSITIVE,1
 payerne,NEGATIVE,1
 payerne,POSITIVE,3
 perak.perlis,POSITIVE,1
-"pll, h50, sh, quantico, uR",NEGATIVE,1544
+"pll, h50, sh, quantico, uR",NEGATIVE,1557
 "pll, h50, sh, quantico, uR",NEUTRAL,9
-"pll, h50, sh, quantico, uR",POSITIVE,227
+"pll, h50, sh, quantico, uR",POSITIVE,214
 pontevedra (spain),POSITIVE,1
-porrentruy,NEGATIVE,4
-porrentruy,POSITIVE,7
+porrentruy,NEGATIVE,3
+porrentruy,POSITIVE,8
 prilly,NEGATIVE,7
 prilly,POSITIVE,97
 renens,NEGATIVE,1
 renens,POSITIVE,1
-rien,NEGATIVE,171
+rien,NEGATIVE,173
 rien,NEUTRAL,1
-rien,POSITIVE,118
+rien,POSITIVE,116
 right here...,POSITIVE,1
 "romandie, suisse",NEGATIVE,22
 "romandie, suisse",POSITIVE,15
-root,NEGATIVE,10
-root,POSITIVE,26
-rue du paradis,NEGATIVE,32
-rue du paradis,POSITIVE,12
+root,NEGATIVE,7
+root,POSITIVE,29
+rue du paradis,NEGATIVE,33
+rue du paradis,POSITIVE,11
 "région du Léman, Suisse",NEGATIVE,2
 "région du Léman, Suisse",POSITIVE,1
 sP. KeDAH,NEUTRAL,1
-"saez,desperate,sh,fauve,oitnb",NEGATIVE,22
-"saez,desperate,sh,fauve,oitnb",POSITIVE,14
+"saez,desperate,sh,fauve,oitnb",NEGATIVE,19
+"saez,desperate,sh,fauve,oitnb",POSITIVE,17
 "saignelegier, suisse",NEGATIVE,3
 "saignelegier, suisse",POSITIVE,1
 saint gervais les bains,NEGATIVE,3
@@ -4021,11 +4036,11 @@ saint gervais les bains,POSITIVE,2
 salvan,NEGATIVE,2
 salvan,POSITIVE,19
 "sargans, schweiz",NEUTRAL,1
-saubraz,NEGATIVE,1
-"saxon , suisse",POSITIVE,1
-schweiz,NEGATIVE,273
+saubraz,POSITIVE,1
+"saxon , suisse",NEGATIVE,1
+schweiz,NEGATIVE,263
 schweiz,NEUTRAL,7
-schweiz,POSITIVE,53
+schweiz,POSITIVE,63
 "schweiz, wallis, aletsch arena",NEGATIVE,2
 seratas alumni,POSITIVE,1
 sh,NEGATIVE,1
@@ -4035,10 +4050,10 @@ sh ; hsk ; yng ; tzuyu's,NEGATIVE,2
 sh ; hsk ; yng ; tzuyu's,NEUTRAL,2
 sh ; hsk ; yng ; tzuyu's,POSITIVE,7
 "sion , valais",POSITIVE,2
-"sion, switzerland",NEGATIVE,4
-"sion, switzerland",POSITIVE,12
-skype ARLEQUIN1515,NEGATIVE,17
-skype ARLEQUIN1515,POSITIVE,16
+"sion, switzerland",NEGATIVE,5
+"sion, switzerland",POSITIVE,11
+skype ARLEQUIN1515,NEGATIVE,15
+skype ARLEQUIN1515,POSITIVE,18
 sms@rebell.tv,NEGATIVE,1
 sms@rebell.tv,NEUTRAL,2
 sms@rebell.tv,POSITIVE,4
@@ -4046,27 +4061,27 @@ some where every where,NEUTRAL,1
 some where every where,POSITIVE,1
 somewhere in the world,POSITIVE,20
 sou de minha casa,POSITIVE,1
-sous la cuvette,NEGATIVE,27
-sous la cuvette,POSITIVE,16
-spiez,POSITIVE,1
+sous la cuvette,NEGATIVE,26
+sous la cuvette,POSITIVE,17
+spiez,NEGATIVE,1
 "steve, haley, lyss",NEGATIVE,1
 stockholm,NEGATIVE,1
-suisse,NEGATIVE,2146
+suisse,NEGATIVE,2165
 suisse,NEUTRAL,41
-suisse,POSITIVE,3569
-"suisse, La chaux-de-fonds",NEGATIVE,1
-"suisse, La chaux-de-fonds",POSITIVE,36
-"suisse, Lausanne",NEGATIVE,168
+suisse,POSITIVE,3550
+"suisse, La chaux-de-fonds",NEGATIVE,2
+"suisse, La chaux-de-fonds",POSITIVE,35
+"suisse, Lausanne",NEGATIVE,167
 "suisse, Lausanne",NEUTRAL,6
-"suisse, Lausanne",POSITIVE,96
+"suisse, Lausanne",POSITIVE,97
 "suisse, france",POSITIVE,2
 "suisse, valais",POSITIVE,2
-"suisse,Neuchâtel",NEGATIVE,12
+"suisse,Neuchâtel",NEGATIVE,10
 "suisse,Neuchâtel",NEUTRAL,1
-"suisse,Neuchâtel",POSITIVE,6
+"suisse,Neuchâtel",POSITIVE,8
 "suisse,brésil",POSITIVE,3
-"suisse,paris",NEGATIVE,2
-"suisse,paris",POSITIVE,12
+"suisse,paris",NEGATIVE,3
+"suisse,paris",POSITIVE,11
 suiza,NEGATIVE,1
 suiza,NEUTRAL,1
 suiza,POSITIVE,1
@@ -4080,16 +4095,16 @@ svizzera,POSITIVE,1
 swiss,NEGATIVE,1
 swiss,NEUTRAL,2
 swiss,POSITIVE,6
-swiss squad,NEGATIVE,9
-swiss squad,POSITIVE,1
-switzerland,NEGATIVE,1862
+swiss squad,NEGATIVE,8
+swiss squad,POSITIVE,2
+switzerland,NEGATIVE,1851
 switzerland,NEUTRAL,29
-switzerland,POSITIVE,984
+switzerland,POSITIVE,995
 "switzerland, fribourg",NEGATIVE,14
 "switzerland, fribourg",NEUTRAL,1
 "switzerland, fribourg",POSITIVE,10
-"switzerland,,portugal",NEGATIVE,67
-"switzerland,,portugal",POSITIVE,22
+"switzerland,,portugal",NEGATIVE,71
+"switzerland,,portugal",POSITIVE,18
 th hp tw got twd elgort& more.,NEGATIVE,2
 th hp tw got twd elgort& more.,POSITIVE,1
 thurgau,NEGATIVE,1
@@ -4100,26 +4115,26 @@ très près de l'assez loin ....,POSITIVE,25
 ts // teamg,POSITIVE,1
 uae,POSITIVE,6
 umiken,NEGATIVE,1
-un peu partout,NEGATIVE,6
-un peu partout,POSITIVE,9
+un peu partout,NEGATIVE,5
+un peu partout,POSITIVE,10
 universe,NEGATIVE,3
 uri,NEGATIVE,1
 valais,POSITIVE,2
 valais - switzerland,POSITIVE,1
-"valais, suisse",NEGATIVE,50
+"valais, suisse",NEGATIVE,49
 "valais, suisse",NEUTRAL,1
-"valais, suisse",POSITIVE,32
+"valais, suisse",POSITIVE,33
 "valais,suisse",NEGATIVE,1
-vaud,NEGATIVE,45
+vaud,NEGATIVE,44
 vaud,NEUTRAL,1
-vaud,POSITIVE,10
+vaud,POSITIVE,11
 vd,NEGATIVE,1
-"vd, Suisse",NEGATIVE,38
-"vd, Suisse",POSITIVE,10
-verbier,NEGATIVE,1
+"vd, Suisse",NEGATIVE,35
+"vd, Suisse",POSITIVE,13
+verbier,NEGATIVE,2
 verbier,NEUTRAL,1
-verbier,POSITIVE,1
-"vercorin, valais, suisse",POSITIVE,4
+"vercorin, valais, suisse",NEGATIVE,2
+"vercorin, valais, suisse",POSITIVE,2
 vevey,NEGATIVE,1
 "vevey,switzerland",NEGATIVE,16
 "vevey,switzerland",NEUTRAL,1
@@ -4134,12 +4149,13 @@ wonderland,POSITIVE,1
 worldwide,POSITIVE,3
 www.now.be,POSITIVE,1
 www.provelobaden.ch,POSITIVE,1
-würenlos,NEGATIVE,2
-würenlos,POSITIVE,8
+würenlos,NEGATIVE,3
+würenlos,POSITIVE,7
 you'll find me at concerts,NEGATIVE,10
 you'll find me at concerts,POSITIVE,2
 yverdon,POSITIVE,1
-yvonand,POSITIVE,2
+yvonand,NEGATIVE,1
+yvonand,POSITIVE,1
 zg,NEUTRAL,1
 zll,NEUTRAL,1
 zll,POSITIVE,1
@@ -4147,39 +4163,39 @@ zll,POSITIVE,1
 zurich,NEGATIVE,1
 zurich,NEUTRAL,2
 zurich,POSITIVE,1
-zurich suiça,POSITIVE,1
+zurich suiça,NEGATIVE,1
 "zurich, Switzerland",POSITIVE,1
-"zurich, switzerland",NEGATIVE,2
-"zurich, switzerland",POSITIVE,62
+"zurich, switzerland",NEGATIVE,8
+"zurich, switzerland",POSITIVE,56
 zürich,NEGATIVE,3
 zürich,NEUTRAL,1
 zürich,POSITIVE,8
-~Barcelona~,NEGATIVE,21
-~Barcelona~,POSITIVE,14
+~Barcelona~,NEGATIVE,22
+~Barcelona~,POSITIVE,13
 "~Ella,Lo mejor de mi vida~",POSITIVE,1
-À coté d'une fille bronzée,NEGATIVE,1
+À coté d'une fille bronzée,POSITIVE,1
 Écublens,POSITIVE,1
 "ÜT: -6.129067,106.66229",POSITIVE,2
 "ÜT: 0.0,0.0",POSITIVE,3
 "ÜT: 14.5664426,121.1224866",POSITIVE,1
 "ÜT: 3.5821682,98.671406",POSITIVE,1
-"ÜT: 32.545207,-84.937714",POSITIVE,1
+"ÜT: 32.545207,-84.937714",NEGATIVE,1
 "ÜT: 48.8478772,2.2626715",POSITIVE,1
 "Überstorf, Switzerland",POSITIVE,1
 à 70km de Nadège ♥ ♥,NEGATIVE,1
 İstanbul/Burgazada,POSITIVE,1
 İsviçre,NEUTRAL,2
-ʇuɐnʇǝɯ ɯnp ʇuıɹǝpo,NEGATIVE,1
-ʇuɐnʇǝɯ ɯnp ʇuıɹǝpo,POSITIVE,3
-ʕ•ᴥ•ʔ,NEGATIVE,16
-ʕ•ᴥ•ʔ,POSITIVE,6
+ʇuɐnʇǝɯ ɯnp ʇuıɹǝpo,NEGATIVE,2
+ʇuɐnʇǝɯ ɯnp ʇuıɹǝpo,POSITIVE,2
+ʕ•ᴥ•ʔ,NEGATIVE,17
+ʕ•ᴥ•ʔ,POSITIVE,5
 ʘ↔€↔fr↔πra↔L1↔ʘ,POSITIVE,1
 "Берн, Швейцария",NEGATIVE,1
 "Минск, Беларусь",POSITIVE,1
 Цюрих,POSITIVE,1
 آ.ع.م,POSITIVE,1
 أبوظبي - راس الخيمة,POSITIVE,2
-الوردانية / باريس,POSITIVE,1
+الوردانية / باريس,NEGATIVE,1
 جنيف,POSITIVE,1
 دار بوناصر,NEGATIVE,1
 عبد الله ابو مصعب الفرنسي,NEGATIVE,1
@@ -4192,12 +4208,13 @@ zürich,POSITIVE,8
 　　탱싴　 【 ロリカ ﹠ マリレ ♡ 】 　÷,NEGATIVE,56
 　　탱싴　 【 ロリカ ﹠ マリレ ♡ 】 　÷,NEUTRAL,1
 　　탱싴　 【 ロリカ ﹠ マリレ ♡ 】 　÷,POSITIVE,14
-みで市→東京,POSITIVE,1
-アルプス,NEGATIVE,3
-ギフト ソーダ,NEGATIVE,1
-ギフト ソーダ,POSITIVE,9
-スイス,NEGATIVE,10
-スイス,POSITIVE,13
+みで市→東京,NEGATIVE,1
+アルプス,NEGATIVE,2
+アルプス,POSITIVE,1
+ギフト ソーダ,NEGATIVE,2
+ギフト ソーダ,POSITIVE,8
+スイス,NEGATIVE,9
+スイス,POSITIVE,14
 スイスのジュネーブ,POSITIVE,1
 川崎市多摩区（稲田堤）,POSITIVE,5
 新宿ゴールデン街,NEGATIVE,1
