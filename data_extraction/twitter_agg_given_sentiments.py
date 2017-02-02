@@ -1,13 +1,26 @@
+# This code is used to aggregate the sentiments found in the twitter data. The 'source_location'
+# and 'sentiment' colums are extracted from the data. To simplify counting, a column of 1s is
+# added. Then, the data are grouped by (source_location, sentiment) and the sum is computed for
+# each of these groups. The results are exported to CSV files (one per month per language).
+
 import os
 from pyspark import SparkContext
 from pyspark.sql import SQLContext
 from pyspark.sql.functions import lit
 from py4j.protocol import Py4JJavaError
 
+# Input files
 base_path = 'hdfs:///datasets/goodcitylife/{}/harvest3r_twitter_data_{}-{}_0.json'
+
+# Where to store the data. It's better to store the results in Hadoop file system. But
+# since the output is really small (a few megabytes at most), we can directly write
+# to the main node file system
 output_path = '/home/lhabegge/processed'
+
+# The name for the CSV (1st argument is language, second is month)
 output_file = 'tweets_sentiments_given_{}_{}.csv'
-            
+
+# Couldn't find a better way to check if a file exists in the hadoop file system
 def path_exists(path):
     try:
         rdd = sc.textFile(path)
@@ -16,6 +29,7 @@ def path_exists(path):
     except Py4JJavaError as e:
         return False
 
+# Parse a whole month of data, day by day
 def parse_month(month_txt, month_nb, language, extract_path, extract_cols):
     df_month = None
     
