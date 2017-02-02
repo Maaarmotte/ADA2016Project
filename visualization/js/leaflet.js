@@ -1,169 +1,198 @@
-// Create the map
+(function() {
+    // Create the map
 
-var background = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
-    attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ',
-    maxZoom: 16
-});
+    var background = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
+        subdomains: 'abcd',
+        maxZoom: 19
+    });
 
-var map = L.map('map', {
-    center: [46.83, 8.29],
-    zoom: 8,
-    minZoom: 8,
-    maxZoom: 10,
-    /* maxBounds: L.latLngBounds(L.latLng(45.72152, 5.60852), L.latLng(47.91266, 10.98083)), */
-});
+    var map = L.map('map', {
+        center: [46.83, 8.29],
+        zoom: 8,
+        minZoom: 8,
+        maxZoom: 15,
+        /* maxBounds: L.latLngBounds(L.latLng(45.72152, 5.60852), L.latLng(47.91266, 10.98083)), */
+    });
 
-map.addLayer(background);
+    map.addLayer(background);
 
-// Cantons boundaries
+    // Cantons boundaries
 
-var geojson = L.geoJson(geojsonCantons, {
-    style: style,
-}).addTo(map);
+    var geojson = L.geoJson(geojsonCantons, {
+        style: style,
+    }).addTo(map);
 
-function style(feature) {
-    return {
-        fillColor: '#ffffcc',
-        weight: 2,
-        opacity: 0.2,
-        color: '#A9A9A9',
-        dashArray: '4',
-        fillOpacity: 0
-    };
-}
-
-// Helper functions
-
-function markerToCity(marker) {
-    var cityName = marker.options.title;
-    var cityData = data[cityName];
-    return {'name': cityName, 'data': cityData};
-}
-
-// Mouse over events
-
-function highlightMarker(e) {
-    var marker = e.target;
-    var city = markerToCity(marker);
-    info.update(city);
-}
-
-function resetHighlight(e) {
-    info.update();
-}
-
-// Create markers clusters
-
-function getClusterFunction(isPositiveCluster) {
-    var className = 'marker-cluster ';
-    if (isPositiveCluster) {
-        className += 'marker-cluster-small';
-    } else {
-        className += 'marker-cluster-large';
+    function style(feature) {
+        return {
+            fillColor: '#ffffcc',
+            weight: 2,
+            opacity: 0.2,
+            color: '#A9A9A9',
+            dashArray: '4',
+            fillOpacity: 0
+        };
     }
 
-    return function(cluster) {
+    // Mouse over events
+
+    function highlightMarker(e) {
+        var marker = e.target.options;
+        info.update(marker, null);
+    }
+
+    function highlightCluster(e) {
+        var cluster = e.layer;
+        info.update(null, cluster);
+    }
+
+
+    function resetHighlight(e) {
+        info.update();
+    }
+
+    // Helper functions
+
+    function getClusterData(cluster) {
         var children = cluster.getAllChildMarkers();
-        var total = 0;
+        var positiveCount = 0;
+        var negativeCount = 0;
+
         for (var i = 0; i < children.length; i++) {
-            var city = markerToCity(children[i]);
-            total += city.data.Count;
+            var marker = children[i].options;
+            
+            if (marker.icon === positiveMarker) {
+                positiveCount += marker.count;
+            } else {
+                negativeCount += marker.count
+            }
         }
 
-        return L.divIcon({
-            'html': '<div><span>' + total + '</span></div>',
-            'className': className,
-            'iconSize': new L.Point(40, 40)
-        });
-    };
-}
+        var total = positiveCount + negativeCount;
+        var ratio = positiveCount / total;
 
-var positiveMarkers = L.markerClusterGroup({
-    iconCreateFunction: getClusterFunction(true)
-});
+        return {ratio: ratio, total: total};
+    }
 
-var negativeMarkers = L.markerClusterGroup({
-    iconCreateFunction: getClusterFunction(false)
-});
+    // Clusters
 
-var positiveMarker = L.AwesomeMarkers.icon({
-    icon: 'plus',
-    prefix: 'ion',
-    markerColor: 'green'
-});
+    var clusterGroup = L.markerClusterGroup({
+        iconCreateFunction: function(cluster) {
+            var className = 'marker-cluster ';
 
-var negativeMarker = L.AwesomeMarkers.icon({
-    icon: 'minus',
-    prefix: 'ion',
-    markerColor: 'darkred'
-});
-
-// Adding markers
-
-function putMarkers(month_num) { 
-    positiveMarkers.clearLayers();
-    negativeMarkers.clearLayers();
-
-    for (var city in data) {
-        if (data.hasOwnProperty(city)) {
-            entry = data[city];
-            var isPositive = (entry.Sentiment == 'POSITIVE');
-
-            var marker =  L.marker([entry.Latitude, entry.Longitude], {
-                title: city,
-                icon: isPositive ? positiveMarker : negativeMarker
-            });
-
-            marker.bindPopup(city);
-            marker.on({
-                'mouseover': highlightMarker,
-                'mouseout': resetHighlight
-            });
-
-            if (isPositive) {
-                positiveMarkers.addLayer(marker);
+            var clusterData = getClusterData(cluster);
+            
+            if (clusterData.ratio <= 0.33) {
+                className += 'marker-cluster-red';
+            } else if (clusterData.ratio <= 0.66) {
+                className += 'marker-cluster-orange';
             } else {
-                negativeMarkers.addLayer(marker);
+                className += 'marker-cluster-green';
+            }
+
+            return L.divIcon({
+                'html': '<div><span>' + clusterData.total + '</span></div>',
+                'className': className,
+                'iconSize': new L.Point(40, 40)
+            });
+        }
+    });
+
+    clusterGroup.on({
+        clustermouseover: highlightCluster,
+        clustermouseout: resetHighlight
+    });
+
+    // Adding markers
+
+    var positiveMarker = L.AwesomeMarkers.icon({
+        icon: 'plus',
+        prefix: 'ion',
+        markerColor: 'green'
+    });
+
+    var negativeMarker = L.AwesomeMarkers.icon({
+        icon: 'minus',
+        prefix: 'ion',
+        markerColor: 'darkred'
+    });
+
+    function putMarkers(month_num) {
+        clusterGroup.clearLayers();
+
+        for (var city in data[month_num]) {
+            if (data[month_num].hasOwnProperty(city)) {
+                var entry = data[month_num][city];
+
+                for (var sentiment in entry) {
+                    if (entry.hasOwnProperty(sentiment)) {
+
+                        var current_data = entry[sentiment];
+
+                        var isPositive = (sentiment == 'POSITIVE');
+
+                        var marker =  L.marker([current_data.latitude, current_data.longitude], {
+                            title: city,
+                            icon: isPositive ? positiveMarker : negativeMarker,
+                            count: current_data.count
+                        });
+
+                        marker.bindPopup(city);
+                        marker.on({
+                            'mouseover': highlightMarker,
+                            'mouseout': resetHighlight
+                        });
+
+                        clusterGroup.addLayer(marker);
+                    }
+                }
+
             }
         }
     }
-}
 
-map.addLayer(positiveMarkers);
-map.addLayer(negativeMarkers);
+    map.addLayer(clusterGroup);
 
-// Time slider
-newSlider = L.control.slider(putMarkers, {
-    size: '300px',
-    position: 'bottomleft',
-    min: 1,
-    max: 12,
-    value: 1,
-    title: 'Month',
-    logo: 'M',
-    collapsed: false
-});
-newSlider.addTo(map);
+    // Time slider
+    newSlider = L.control.slider(putMarkers, {
+        size: '300px',
+        position: 'bottomleft',
+        min: 1,
+        max: 10,
+        value: 8,
+        title: 'Month',
+        logo: 'M',
+        collapsed: false,
+        getValue: function(value) {
+            return ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'][value-1];
+        }
+    });
+    newSlider.addTo(map);
 
-// Add the information windows
+    // Add the information windows
 
-var info = L.control();
+    var info = L.control();
 
-info.onAdd = function (map) {
-    this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
-    this.update();
-    return this._div;
-};
+    info.onAdd = function (map) {
+        this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
+        this.update();
+        return this._div;
+    };
 
-// method that we will use to update the control based on feature properties passed
-info.update = function (city) {
-    var text = '<h4>More information</h4>';
-    if (city) {
-        text += '<b>' + city.name + '</b><br />' + city.data.Count + ' ' + city.data.Sentiment.toLowerCase() + ' tweets';
-    } else {
-        text += 'Hover over a marker';
-    }
-    this._div.innerHTML = text;
-};
+    // method that we will use to update the control based on feature properties passed
+    info.update = function (marker, cluster) {
+        var text = '<h4>More information</h4>';
+        if (marker) {
+            var sentiment = (marker.icon === positiveMarker) ? 'positive' : 'negative';
+            text += '<b>' + marker.title + '</b><br>' + marker.count + ' ' + sentiment + ' tweets';
+        } else if (cluster) {
+            var clusterData = getClusterData(cluster);
+            text += '<b>Click to see the data</b><br>' + Math.round(clusterData.ratio * 100, 2) + '% of positive tweets in the area';
+        } else {
+            text += 'Hover over a marker';
+        }
+        this._div.innerHTML = text;
+    };
 
-info.addTo(map);
+    info.addTo(map);
+})();
