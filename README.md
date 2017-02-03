@@ -12,11 +12,17 @@ Our analysis is mostly based on the 10 months Twitter data gathered from April t
 We analysed people's sentiment in regard to diffrent cities, which required Natural Language Processing (NLP). To classify locations either as likeable or not likeable, we used some machine learning tools like the Bayes classification in order to match tweets without sentiments with tweets, which contained the provided sentiment data.
 
 ## Extracting data
-We were provided with the database on a cluster for Twitter, Instagram and News data. 
+We were provided with the database on a cluster for Twitter, Instagram and News data. We made a few scripts to extract the parts of the data that are relevant to us.
 
 
 ## Processing
-We implemented Bayes classification methods to classify tweets without sentiments given the tweets with provided sentiments as the training data. 
+We implemented Bayes classification methods to classify tweets without sentiments given the tweets with provided sentiments as the training data. Our pipeline looks like this:
+
+1. Extract the tweets (message, language, sentiment, location) from the dataset using PySpark on the cluster.
+2. Load the tweets in Pandas. Separate them by sentiment and language.
+3. Some French and German tweets are already classified. We discovered that they were classified using the emoticons. Use them as labeled data to train two Naive Bayes classifiers, one for French and one for German tweets. As always, cross-validate and use grid search for the best resulsts.
+4. We also discovered that the NEUTRAL label was the sentiment by defaut for tweets that couldn't be classified. Use the two classifiers to classify neutral French and German tweets.
+5. Aggregate by (location, sentiment) and export.
 
 The initial data gathered from the Twitter database conatined lots of meaningless information and some non-latin characters. Therefore we first needed to clean the data about locations and leave only the locations for, which we could get the coordinates with GeoPy geogoding package for Python.
 

@@ -1,3 +1,8 @@
+# This code is used to extract specific parts of the data. For example, it can be used to
+# extract the source_location, lang, main and sentiment from the Twitter data, which represent
+# the location, language, message and sentiment of a tweet. The data are read day by day
+# and stored per month. Output can be written on the HDFS file system or on the main node FS.
+
 import os
 from pyspark import SparkContext
 from pyspark.sql import SQLContext
@@ -5,15 +10,23 @@ from pyspark.sql.functions import lit
 from pyspark.sql.functions import col
 from py4j.protocol import Py4JJavaError
 
+# Specify what fields to extract from which dataset
 sources_attributes = {#'twitter': ['source_location', 'lang', 'main', 'sentiment'],
                       'instagram': ['lang', 'main', 'tags']#,
                       #'news': ['lang', 'title', 'extract', 'sentiment', 'tags']
                      }
 
+# Input files
 base_path = 'hdfs:///datasets/goodcitylife/{month}/harvest3r_{source}_data_{day_num}-{month_num}_{part}.json'
+
+# Where to store the data. It's better to store the results in Hadoop file system, as
+# the output can be quiet large (a few gigabytes)
 output_path = 'hdfs:///user/lhabegge/'
+
+# The name for the CSV
 output_file = '{source}_{month}.json'
 
+# What months to extract ?
 months = [('january', '01'),
           ('february', '02'),
           ('march', '03'),
@@ -25,6 +38,7 @@ months = [('january', '01'),
           ('september', '09'),
           ('october', '10')]
 
+# Couldn't find a better way to check if a file exists in the hadoop file system
 def path_exists(path):
     try:
         rdd = sc.textFile(path)
@@ -33,6 +47,7 @@ def path_exists(path):
     except Py4JJavaError as e:
         return False
 
+# Parse a whole month of data, day by day
 def parse_month(source, month_txt, month_num, ignore_language=None):
     for i in range(31):
         for part in range(2):
@@ -54,6 +69,7 @@ def parse_month(source, month_txt, month_num, ignore_language=None):
                     output = os.path.join(output_path, output_file.format(source=source, month=month_txt))
                     data.write.mode('append').json(output)
 
+# Create a new context if none exists
 try:
     sc = SparkContext()
 except:

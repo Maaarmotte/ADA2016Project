@@ -54,16 +54,20 @@ def parse_month(month_txt, month_nb, language, extract_path, extract_cols):
         final = df_month.withColumn('count', lit(1)).groupBy(extract_cols).sum().map(toCSV).collect()
         output = '{}/{}'.format(output_path, output_file.format(language, month_txt))
         save(final, output)
-        
+
+# Convert a row of data to a CSV string. Escapes the \ and " characters. Couldn't find
+# a better way to do this for Spark 1.6. Should be rewritten to avoid code duplication.
 def toCSV(row):
     return ','.join('"' + elem.replace("\\", "\\\\").replace('"', '\\"') + '"' if isinstance(elem, str) else '"' + str(elem).replace("\\", "\\\\").replace('"', '\\"') + '"' for elem in row)
 
+# Write a list of strings into a file
 def save(lst, filename):
     f = open(filename, 'w')
     for line in lst:
         f.write("{}\n".format(line))
     f.close()
 
+# Create a new context if none exists
 try:
     sc = SparkContext()
 except:
@@ -86,7 +90,8 @@ months = [('january', '01'),
           ('september', '09'),
           ('october', '10')]
 
+# Extract
 for language in languages:
     for tup in months:
         parse_month(tup[0], tup[1], language, path, cols)
-W
+        
