@@ -1,9 +1,16 @@
+# This code was first used to extract specific fields from the data. It 
+# was abandonned since doing it with PySpark is much faster, even
+# on a single machine...
+
 import os
 import pandas as pd
 
 LANGUAGE = 'en'
 COLUMNS = ['source_location', 'sentiment']
 
+# Pre-allocate a DataFrame to be able to write it line by line. Pandas
+# to not like updating a DataFrame line by line, it seems to reallocate
+# the DataFrame at every concatenation (really, really slow).
 def pre_allocate_df(raw):
     tweets = raw._source
     ids = raw._id
@@ -22,6 +29,7 @@ def pre_allocate_df(raw):
 
     return df
 
+# Fill the DataFrame
 def preprocess_raw(raw, df):
     tweets = raw._source
     ids = raw._id
@@ -39,6 +47,7 @@ def preprocess_raw(raw, df):
 
     return df
 
+# Parse one month of data, line by line
 def parse_month(month_txt, month_nb):
     month_df = pd.DataFrame()
     
