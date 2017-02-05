@@ -21,9 +21,11 @@ We implemented Bayes classification methods to classify tweets without sentiment
 1. Extract the tweets (message, language, sentiment, location) from the dataset using PySpark on the cluster.
 2. Load the tweets in Pandas. Separate them by sentiment and language.
 3. Clean the data. Remove the URIs, hashtags, stop words, etc. Tokenize the tweets using the Twitter tokenizer and stem the words individually (using the NLTK library). Note that we used stop words and stemmers made for French and German words.
-4. Some French and German tweets are already classified. We discovered that they were classified using the emoticons. We used them as labeled data to train two Naive Bayes classifiers, one for French and one for German tweets. As always, cross-validation was used and the values for the diffenrent parameters (n-grams, use of idf, Bayes smoothing value) were found using grid search.
+4. Some French and German tweets are already classified. We discovered that they were classified using the emoticons. We used them as labeled data to train two Naive Bayes classifiers, one for French and one for German tweets. As always, cross-validation was used and the values for the different parameters (n-grams, use of idf, Bayes smoothing value) were found using grid search.
 5. We also discovered that the NEUTRAL label was the sentiment by defaut for tweets that couldn't be classified. We used the two classifiers to classify neutral French and German tweets. Note that the classifiers do not output a neutral label. This is because we couldn't dinstinguish between tweets that were assigned the neutral label because they were neutral from those that were classified as neutral because they couldn't be classified as either positive or negative.
 6. Aggregate by (location, sentiment) and export.
+
+English tweets were not classified using this method. We simply aggregated the location with the sentiments that were already in the data, using a PySpark script directly running on the cluster.
 
 For the first version of the project, we tried to do the whole pipeline using NLTK. Unfortunately, we discovered that it was extremely slow and we had to port our code to scikit-learn. The new version is way faster, even with cross-validation and grid search. The original version took hours to run, and the new one only a few minutes.
 
