@@ -21,11 +21,13 @@ We implemented Bayes classification methods to classify tweets without sentiment
 1. Extract the tweets (message, language, sentiment, location) from the dataset using PySpark on the cluster.
 2. Load the tweets in Pandas. Separate them by sentiment and language.
 3. Clean the data. Remove the URIs, hashtags, stop words, etc. Tokenize the tweets using the Twitter tokenizer and stem the words individually (using the NLTK library). Note that we used stop words and stemmers made for French and German words.
-4. Some French and German tweets are already classified. We discovered that they were classified using the emoticons. Use them as labeled data to train two Naive Bayes classifiers, one for French and one for German tweets. As always, cross-validate and use grid search for the best resulsts.
-5. We also discovered that the NEUTRAL label was the sentiment by defaut for tweets that couldn't be classified. Use the two classifiers to classify neutral French and German tweets.
+4. Some French and German tweets are already classified. We discovered that they were classified using the emoticons. We used them as labeled data to train two Naive Bayes classifiers, one for French and one for German tweets. As always, cross-validation was used and the values for the diffenrent parameters (n-grams, use of idf, Bayes smoothing value) were found using grid search.
+5. We also discovered that the NEUTRAL label was the sentiment by defaut for tweets that couldn't be classified. We used the two classifiers to classify neutral French and German tweets. Note that the classifiers do not output a neutral label. This is because we couldn't dinstinguish between tweets that were assigned the neutral label because they were neutral from those that were classified as neutral because they couldn't be classified as either positive or negative.
 6. Aggregate by (location, sentiment) and export.
 
 For the first version of the project, we tried to do the whole pipeline using NLTK. Unfortunately, we discovered that it was extremely slow and we had to port our code to scikit-learn. The new version is way faster, even with cross-validation and grid search. The original version took hours to run, and the new one only a few minutes.
+
+We also thought about other ways to classify the tweets. For example, an idea we had was to first translate all tweets in english. Unfortunately, we couldn't find any service allowing to translate millions of tweets for free. Most of them were limited in the number of characters that could be translated.
 
 The initial data gathered from the Twitter database conatined lots of meaningless information and some non-latin characters. Therefore we first needed to clean the data about locations and leave only the locations for, which we could get the coordinates with GeoPy geogoding package for Python.
 
@@ -50,8 +52,9 @@ Our project scope could be increased to take into account a longer time period a
 At the end of the project, we expect to deliver the following:
 - An interactive happy map for cities and locations in Switzerland
 - Comparison and description of the processing and methods used
+- Commented scripts and notebooks
 
-The data aggregated by location and sentiments can be found in the ./processed/sentiments folder. Data extracted from the cluster (not the whole data, only some fields) are in the ./processed folder. The ./data_extraction directory contains the scripts to process the data, from raw to the processed version displayed on the map. The ./old_scripts directory contains unused scripts, made for the first version of the project.
+The data aggregated by location and sentiments can be found in the ./processed/sentiments folder. Data extracted from the cluster (not the whole data, only some fields) are in the ./processed folder. The ./data_extraction directory contains the scripts to process the data, from raw to the processed version displayed on the map. The ./old_scripts directory contains unused scripts, made for the first version of the project. The ./raw_data folder contains a small sample of data that we used before being able to run scripts on the cluster.
 
 ## Timeplan
 #### Checkpoint (Mid December)
